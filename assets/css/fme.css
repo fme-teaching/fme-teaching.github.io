@@ -118,7 +118,7 @@ select:focus, textarea:focus, input:focus{
 .thumbnail{
   /* background-color: #EEE; */
   border-radius: 0;
-  min-height: 450px;
+  min-height: 460px;
   overflow-wrap: break-word;
 }
 

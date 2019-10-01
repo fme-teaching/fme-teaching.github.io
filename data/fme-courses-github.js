@@ -25,7 +25,7 @@ var courses =
     {
         "": "Software analysis",
         "course_code": "INF.M062",
-        "course_institution": "USI (Universit\u00e0 della Svizzera italiana), Switzerland",
+        "course_institution": "USI (Universit\u00e0 della Svizzera italiana)",
         "course_contact": "Carlo A. Furia",
         "course_concepts": [
             "Deductive Verification",
@@ -43,7 +43,7 @@ var courses =
             "And Klee"
         ],
         "course_webpage": "https://github.com/bugcounting/software-analysis",
-        "course_year_level": "MSc (also available to PhD students)",
+        "course_year_level": "MSc",
         "course_title": "Software Analysis",
         "course_country": "Switzerland"
     },
@@ -83,33 +83,12 @@ var courses =
             "Mcrl2"
         ],
         "course_webpage": "https://wwwen.uni.lu/studies/fstc/master_in_information_and_computer_sciences/programme",
-        "course_title": "[CLOSED] Formal Methods",
-        "course_country": "Luxembourg",
-        "course_year_level": [
-            "Unknown"
-        ]
-    },
-    {
-        "course_institution": "University of Luxembourg",
-        "course_contact": "Jun Pang",
-        "course_concepts": [
-            "Alloy",
-            "Process Algebra",
-            "Mu-Calculus",
-            "Model Checking",
-            "Mcrl2"
-        ],
-        "course_tools": [
-            "Alloy",
-            "Mcrl2"
-        ],
-        "course_webpage": "https://wwwen.uni.lu/studies/fstc/master_in_information_and_computer_sciences/programme",
         "course_year_level": "MSc",
         "course_title": "Formal Methods",
         "course_country": "Luxembourg"
     },
     {
-        "": "AERE/COMS 407/507",
+        "course_code": "AERE/COMS 407/507",
         "course_institution": "Iowa State University (Ames, IA, USA)",
         "course_contact": "Kristin Yvonne Rozier (kyrozier@iastate.edu)",
         "course_concepts": [
@@ -118,9 +97,7 @@ var courses =
             "Ctl)",
             "Explicit Model Checking",
             "Symbolic Model Checking",
-            "Theorem Proving",
-            "Survey Of State-Of-The-Art Including The Capabilities And Limitations Of Applying Formal Methods For Systems Analysis",
-            "Focusing On The Aerospace Domain"
+            "Theorem Proving"
         ],
         "course_tools": [
             "Spin",
@@ -1046,39 +1023,6 @@ var courses =
         "course_year_level": "MSc",
         "course_title": "Concurrency: Theory and Practice",
         "course_country": "Australia"
-    },
-    {
-        "course_title": "[CLOSED] kjhgadskgf",
-        "course_concepts": [
-            "Unknown"
-        ],
-        "course_tools": [
-            "Unknown"
-        ],
-        "course_institution": [
-            "Unknown"
-        ],
-        "course_year_level": [
-            "Unknown"
-        ],
-        "course_webpage": "#"
-    },
-    {
-        "": "KeY theorem prover",
-        "course_title": "[CLOSED] Reasoning about Programs",
-        "course_concepts": [
-            "Unknown"
-        ],
-        "course_tools": [
-            "Unknown"
-        ],
-        "course_institution": [
-            "Unknown"
-        ],
-        "course_year_level": [
-            "Unknown"
-        ],
-        "course_webpage": "#"
     }
 ]
 var concepts = 
@@ -1113,7 +1057,6 @@ var concepts =
     "Distributed Systems",
     "Dynamic Analysis",
     "Explicit Model Checking",
-    "Focusing On The Aerospace Domain",
     "Formal Specification",
     "Formal Specification And Verification Of Code",
     "Formal Specification Of Interactive Systems",
@@ -1192,7 +1135,6 @@ var concepts =
     "Static Analysis",
     "Static Program Analysis",
     "Structural Operational Semantics",
-    "Survey Of State-Of-The-Art Including The Capabilities And Limitations Of Applying Formal Methods For Systems Analysis",
     "Symbolic Execution",
     "Symbolic Model Checking",
     "Systems",
