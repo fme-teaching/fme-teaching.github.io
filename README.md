@@ -1,2 +1,3 @@
-# fme-teaching.github.io
-FME Teaching Committee Website
+# FME Teaching Committee
+
+[List of Formal Methods Courses](https://fme-teaching.github.io)
