@@ -1,0 +1,1836 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Formal Methods Teaching Committee">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The aim of the FME Teaching Committee is to support a worldwide improvement in learning formal methods, mainly by teaching but also via self-learning.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.a3cda781a9b24f26fefd34a53547835b.css">
+
+  
+
+  
+
+
+
+
+  
+
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Formal Methods Teaching Committee">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@formalmtds">
+  <meta property="twitter:creator" content="@formalmtds">
+  
+  <meta property="og:site_name" content="Formal Methods Teaching Committee">
+  <meta property="og:url" content="/">
+  <meta property="og:title" content="Formal Methods Teaching Committee">
+  <meta property="og:description" content="The aim of the FME Teaching Committee is to support a worldwide improvement in learning formal methods, mainly by teaching but also via self-learning."><meta property="og:image" content="/img/fme.png">
+  <meta property="twitter:image" content="/img/fme.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2019-10-03T12:05:12&#43;01:00">
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "/"
+}
+</script>
+
+
+  
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "/",
+  "name": "Formal Methods Teaching Committee",
+  "logo": "/img/fme.png",
+  
+  
+  
+  
+  "url": "/"
+}
+</script>
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Formal Methods Teaching Committee</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/fme.png" alt="Formal Methods Teaching Committee"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#objectives" data-target="#objectives"><span>Objectives</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#fm-courses" data-target="#fm-courses"><span>FM Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#events" data-target="#events"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#members" data-target="#members"><span>Members</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#meetings" data-target="#meetings"><span>Meetings</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+<span class="js-widget-page d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+    
+    
+    
+  
+
+  <section id="slider" class="home-section wg-slider    carousel slide"  data-ride="carousel" data-interval="5000">
+    
+      
+
+
+
+
+<ol class="carousel-indicators">
+  
+  <li data-target="#slider" data-slide-to="0" class="active"></li>
+  
+  <li data-target="#slider" data-slide-to="1" ></li>
+  
+</ol>
+
+
+<div class="carousel-inner">
+  
+  <div class="wg-hero dark carousel-item active" style="
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('/img/headers/audience.jpg');
+    
+    ;">
+    <div class="container" style="text-align: center;">
+        <h1 class="hero-title">
+          FMTea 2019
+        </h1>
+
+        
+        <p class="hero-lead" style="margin: 0 auto 0 auto;">
+          Formal Methods Teaching Workshop and Tutorial, affiliated with FM 2019, 7 October 2019, Porto, Portugal
+        </p>
+        
+
+        
+        
+        
+        
+          
+        
+        <p>
+          <a href="https://fmtea.github.io" class="btn btn-light btn-lg"><i class="fas fa-arrow-circle-right" style="padding-right: 10px;"></i>Learn more</a>
+        </p>
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="
+    
+    background-color: #666;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('/img/headers/bandwidth.jpg');
+    
+    ;">
+    <div class="container" style="text-align: center;">
+        <h1 class="hero-title">
+          FM Courses Database
+        </h1>
+
+        
+        <p class="hero-lead" style="margin: 0 auto 0 auto;">
+          We maintain a searchable database of formal methods courses taught worldwide.
+        </p>
+        
+
+        
+        
+        
+        
+          
+        
+        <p>
+          <a href="https://fme-teaching.github.io/courses" class="btn btn-light btn-lg"><i class="fas fa-arrow-circle-right" style="padding-right: 10px;"></i>Learn more</a>
+        </p>
+        
+      </div>
+  </div>
+  
+</div>
+
+
+<a class="carousel-control-prev" href="#slider" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next" href="#slider" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+  <span class="sr-only">Next</span>
+</a>
+
+    
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-featurette   "  >
+    <div class="container">
+      
+
+
+<div class="row featurette">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Formal Methods Teaching Committee</h1>
+    
+  </div>
+  
+
+  
+  <div class="col-md-12">
+    <p>The aim of the FME Teaching Committee is to support a worldwide improvement in
+learning formal methods, mainly by teaching but also via self-learning.</p>
+
+  </div>
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-handshake"></i></div>
+    <h3>Events &amp; Meetings</h3>
+    <p>We organise <a href="#events">events</a> and <a href="#meetings">meetings</a>.</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-database"></i></div>
+    <h3>Courses Database</h3>
+    <p>We maintain a database of <a href="#fm-courses">FM courses</a>.</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-university"></i></div>
+    <h3>Case Studies</h3>
+    <p>We maintain a list of  FM case studies.</p>
+  </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="objectives" class="home-section wg-blank   " style="padding: 20px 0 20px 0;" >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      <h1>Objectives</h1>
+      
+      <p>Our objectives are:</p>
+
+<ol>
+<li><p>To revive bring up-to-date an <a href="http://www4.di.uminho.pt/FME-SoE/resources.html" target="_blank">old database of formal methods courses</a> taught worldwide. We plan to
+review this database yearly. The current FM course repository is <a href="courses" target="_blank">available
+online</a>. You can contribute courses using the <a href="#fm-courses">form below</a>.</p></li>
+
+<li><p>To setup a repository of formal methods case studies, containing simpler as
+well as more complex examples of using formal methods. This can be liken to the
+Github repository for software or the Biomodels database for computational
+models of biological processes. The simpler examples can be for instance used
+in teaching, while the more complex for (self-)learning various formal methods
+and for demonstrating the formal methods strength to, for instance, industry.</p></li>
+
+<li><p>To setup a secured repository of exam exercises for formal method courses.
+These will be available only to teachers.</p></li>
+
+<li><p>To work towards achieving a BoK (Body of Knowledge) in Formal Methods, that
+can enable self-learning as well as various future certifications in Formal
+Methods. This objective will start up from <a href="http://formalmethods.wikia.com/wiki/FMBoK" target="_blank">earlier efforts in this direction</a>.</p></li>
+
+<li><p>To setup a list of &ldquo;summer&rdquo; schools in Formal Methods.</p></li>
+</ol>
+
+<p>In the long run, we have the following goals:</p>
+
+<ol>
+<li><p>We plan to coordinate &ldquo;providers&rdquo; and &ldquo;consumers&rdquo; of Formal Methods, so that
+when some researcher or industrial partner needs certain knowledge in Formal
+Methods, we can advice where to address these needs.</p></li>
+
+<li><p>We plan to investigate whether certain degrees in Formal Methods are feasible.
+We aim to see whether an International MSc program in Formal Methods can be
+organised, for instance.</p></li>
+
+<li><p>We plan to make industry and life sciences beneficiaries of Formal Methods, by
+providing case studies from Academia to Industry/Science to demonstrate
+potential and by getting interesting/real life problems to analyse from
+Industry/Science to Academia.</p></li>
+</ol>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="fm-courses" class="home-section wg-courses   "  >
+    <div class="container">
+      
+
+
+
+
+
+<div class="row contact-widget">
+        
+  <div class="col-lg-12">
+    <h1>FM Courses</h1>
+    
+  
+  
+    
+
+<p>Our searchable database of formal methods courses is <a href="https://fme-teaching.github.io/courses" target="_blank">available online</a>.
+You can use the form below to add a new course.</p>
+
+<h2 id="submit-a-new-course">Submit a new course</h2>
+
+<div class="alert alert-note">
+  <div>
+    <p>Once you submit your course, an external Github page will open.
+<strong>To confirm your submission, click the button <em>Submit
+new issue</em>.</strong></p>
+
+<p>If you can&rsquo;t find a concept or tool in the list below, you can manually add
+them after submission, using the Github interface.</p>
+
+  </div>
+</div>
+
+
+    <div class="mb-3">
+
+  <script>
+  function createGitHubIssue(title, code, university, contact_name, contact_email, 
+  						   webpage, country, level) {
+  
+  	
+  	var concepts_list = $('input[name="concepts"]:checked').map(function() {
+      	return $(this).val();
+    	}).get()
+  
+  	var tools_list = $('input[name="tools"]:checked').map(function() {
+      	return $(this).val();
+    	}).get()
+  
+      code_part = "Course code, if applicable: " + code;
+      univ_part = "University hosting the course: " + university;
+  	link = "https://github.com/fme-teaching/fm-courses/issues/new?labels=" +
+  				country.value + 
+  				"&title=" + title.value + "&body=" +
+                  "Course code, if applicable: " + code.value + "%0A" + 
+                  "University hosting the course: " + university.value + "%0A" + 
+                  "Contact person: " + contact_name.value + ", " +
+                                       contact_email.value + "%0A" + 
+                  "Concepts taught: " + concepts_list + "%0A" + 
+                  "Tools used: " + tools_list + "%0A" + 
+                  "Webpage: " + webpage.value + "%0A" + 
+                  "Year/Level: " + level.value + "%0A";
+  	alert(link);
+  	window.open(link);
+  }
+  </script>
+
+  <style>
+    ul.fme-form-checkbox li {
+      display: inline-block;
+      border: 1px transparent solid; 
+      width: 16em;
+    }
+  </style>
+
+  <form onsubmit="createGitHubIssue(title, code, university, contact_name,
+        contact_email, webpage, country, level, concepts)">
+
+
+        <div class="form-group form-inline">
+          <label class="sr-only" for="c_name">Course name</label>
+          <input type="text" name="title" class="form-control w-100"
+                 id="c_name" placeholder="Course name" required>
+        </div>
+
+        <div class="form-group form-inline">
+          <label class="sr-only" for="c_code">Course code, if applicable</label>
+          <input type="text" name="code" class="form-control w-100" id="c_code"
+                 placeholder="Course code, if applicable" required>
+        </div>
+
+        <div class="form-group form-inline">
+          <label class="sr-only" for="c_university">
+            University hosting the course
+          </label>
+          <input type="text" name="university" class="form-control w-100"
+                 id="c_university" 
+                 placeholder="University hosting the course" required>
+        </div>
+
+        <div class="form-group form-inline">
+          <label for="list-countries">Country</label>
+          <select id="list-countries" name="country" class="form-control w-100">
+          </select>
+        </div>
+
+        <div class="form-group form-inline">
+          <label for="list-levels">Year/Level</label>
+          <select id="list-levels" name="level" class="form-control w-100">
+		    <option value="1">1</option>
+		    <option value="2">2</option>
+		    <option value="3">3</option>
+		    <option value="4">4</option>
+		    <option value="MSc">MSc</option>
+		    <option value="PhD">PhD</option>
+		    <option value="Unknown">Other</option>
+          </select>
+        </div>
+
+        <div class="form-group form-inline">
+          <label class="sr-only" for="p_name">
+            Contact person's name
+          </label>
+          <input type="text" name="contact_name" class="form-control w-100"
+                 id="p_name" 
+                 placeholder="Contact person's name" required>
+        </div>
+
+        <div class="form-group form-inline">
+          <label class="sr-only" for="p_email">
+            Contact person's email
+          </label>
+          <input type="text" name="contact_email" class="form-control w-100"
+                 id="p_email" 
+                 placeholder="Contact person's email" required>
+        </div>
+
+        <div class="form-group form-inline">
+          <label class="sr-only" for="c_webpage">
+            Webpage
+          </label>
+          <input type="text" name="webpage" class="form-control w-100"
+                 id="c_webpage" 
+                 placeholder="Webpage" required>
+        </div>
+
+        <div class="form-group form-inline">
+          <label for="c_concepts">
+            Concepts taught
+          </label>
+          <ul class="fme-form-checkbox" id="list-concepts">
+          <li>
+		  <input class="form-control" type="checkbox" name="concepts" 
+                 value="Abstract Interpretation">
+            Abstract Interpretation
+          </input>
+          </li>
+        </div>
+
+        <div class="form-group form-inline">
+          <label for="c_tools">
+            Tools used
+          </label>
+          <ul class="fme-form-checkbox" id="list-tools">
+          <li>
+		  <input class="form-control" type="checkbox" name="tools" 
+                 value="Coq">
+            Coq
+          </input>
+          </li>
+          </ul>
+        </div>
+
+    <div class="row">
+      <button type="submit" class="btn btn-outline-primary px-3 py-2">Submit</button>
+    </div>
+  </form>
+
+
+
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="events" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Events</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/events/fmtea19/" >FMTea 2019: Formal Methods Teaching Workshop and Tutorial</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Porto, Portugal. Oct 7, 2019
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 3, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/events/">Events</a></span>
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/events/fmtea19/" >
+      <img src="/post/events/fmtea19/featured_hufee687edcce3cad9efa0c95745d47074_22572_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="members" class="home-section wg-blank   " style="padding: 20px 0 20px 0;" >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      <h1>Members</h1>
+      
+      <p>The committee has members from all over the world:</p>
+
+<ul>
+<li><a href="https://brijeshdongol.github.io" target="_blank">Brijesh Dongol</a>, University of Surrey, UK</li>
+<li><a href="http://www.ensiie.fr/~dubois" target="_blank">Catherine Dubois</a>, ENSIIE, France</li>
+<li><a href="http://joaoff.com" target="_blank">João F. Ferreira</a>, IST, University of Lisbon, Portugal</li>
+<li><a href="http://www.cs.sun.ac.za/~bfischer" target="_blank">Bernd Fisher</a>, Stellenbosch University, South Africa</li>
+<li><a href="http://leino.science" target="_blank">Rustan Leino</a>, Amazon Web Services, US</li>
+<li><a href="http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html" target="_blank">Dino
+Mandrioli</a>, Politecnico di Milano, Italy</li>
+<li><a href="http://archimendes.com" target="_blank">Alexandra Mendes</a>, University of Beira Interior, Portugal</li>
+<li><a href="http://users.abo.fi/lpetre" target="_blank">Luigia Petre</a> (chair), Åbo Akademi University, Finland</li>
+<li><a href="http://www.inf.ufrgs.br/~leila" target="_blank">Leila Ribeiro</a>, Federal University of Rio Grande do Sul, Brazil</li>
+<li><a href="https://www.deib.polimi.it/ita/personale/dettagli/355798" target="_blank">Pierluigi San
+Pietro</a>, Politecnico di Milano, Italy</li>
+<li><a href="http://staff.itee.uq.edu.au/smith" target="_blank">Graeme Smith</a>, University of Queensland, Australia</li>
+<li><a href="https://www.linkedin.com/in/kenji-taguchi-22727b" target="_blank">Kenji Taguchi</a>, CAV, Japan</li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="meetings" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Meetings</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/meetings/second-meeting/" >Second Meeting (2018/05/23)</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Welcome back! This time Alexandra and Joao could not make it, otherwise everyone was in, despite the challenging hours. We had this …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    May 23, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/meetings/">Meetings</a></span>
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/meetings/first-meeting/" >First Meeting (2018/02/23)</a>
+    </h3>
+
+    
+    <div class="article-style">
+      February 23-24, 2018, FME Teaching Committee, first meeting: Agenda and references Agenda  Welcome and introductions What does Teaching …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Feb 23, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/meetings/">Meetings</a></span>
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    
+    
+      
+      
+    
+
+    <div class="mb-3">
+      <form name="contact" method="POST" action="https://formspree.io/joao@joaoff.com">
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
+      </form>
+    </div>
+    
+
+    <ul class="fa-ul">
+
+      
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+        <a href="https://twitter.com/formalmtds" target="_blank" rel="noopener">DM Me</a>
+      </li>
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    <script src="/js/academic.min.c11bd7cc11d2f088e0112ab7f52172b5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
