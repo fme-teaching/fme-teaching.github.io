@@ -161,7 +161,7 @@ var courses =
         ],
         "course_webpage": "https://www.cs.bham.ac.uk/internal/modules/2018/06-28201",
         "course_title": "Computer Aided Verification",
-        "course_country": "UK",
+        "course_country": "United Kingdom",
         "course_tools": [
             "Unknown"
         ],
@@ -182,7 +182,7 @@ var courses =
         ],
         "course_webpage": "https://www.bradford.ac.uk/repos/modules/2020-21/cos6020-b.php",
         "course_title": "Software Verification",
-        "course_country": "UK",
+        "course_country": "United Kingdom",
         "course_tools": [
             "Unknown"
         ],
@@ -205,7 +205,7 @@ var courses =
         ],
         "course_webpage": "http://www.bath.ac.uk/catalogues/2011-2012/cm/CM30226.htm",
         "course_title": "Logic and Semantics of Programming Languages ",
-        "course_country": "UK",
+        "course_country": "United Kingdom",
         "course_year_level": [
             "Unknown"
         ]
@@ -221,7 +221,7 @@ var courses =
         ],
         "course_webpage": "https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMS30009",
         "course_title": "Types and Lambda Calculus",
-        "course_country": "UK",
+        "course_country": "United Kingdom",
         "course_tools": [
             "Unknown"
         ],
@@ -247,7 +247,7 @@ var courses =
         ],
         "course_webpage": "https://catalogue.surrey.ac.uk/2018-9/module/COM3028",
         "course_title": "Systems Verification",
-        "course_country": "UK",
+        "course_country": "United Kingdom",
         "course_year_level": [
             "Unknown"
         ]
@@ -291,7 +291,7 @@ var courses =
         "course_webpage": "https://www.canvas.net/browse/halmstad/courses/system-validation, https://ocw.tudelft.nl/courses/system-validation",
         "course_year_level": "MSc",
         "course_title": "System Validation",
-        "course_country": "UK"
+        "course_country": "United Kingdom"
     },
     {
         "course_institution": "Instituto Superior T\u00e9cnico (University of Lisbon)",
@@ -725,7 +725,7 @@ var courses =
         "course_webpage": "(Behind a firewall)",
         "course_year_level": "3",
         "course_title": "Programming: Correctness by Construction",
-        "course_country": "UK"
+        "course_country": "United Kingdom"
     },
     {
         "course_institution": "University of Limerick",
@@ -1219,6 +1219,6 @@ var countries =
     "Spain",
     "Sweden",
     "Switzerland",
-    "UK",
+    "United Kingdom",
     "United States"
 ]
