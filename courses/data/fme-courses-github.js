@@ -3,7 +3,7 @@ var courses =
     {
         "": "CSCI 195Y",
         "course_institution": "Brown University",
-        "course_contact": "Tim Nelson (tbn@cs.brown.edu)",
+        "course_contact": "Tim Nelson",
         "course_concepts": [
             "Predicate And Relational Logic; Invariants And Induction; (Basic) Linear Temporal Logic",
             "Propositional Natural Deduction",
@@ -131,9 +131,9 @@ var courses =
         "course_country": "France"
     },
     {
-        "": "11511",
+        "course_code": "11511",
         "course_institution": "University of Beira Interior",
-        "course_contact": "Sim\u00e3o Melo de Sousa (desousa@di.ubi.pt)",
+        "course_contact": "Sim\u00e3o Melo de Sousa",
         "course_concepts": [
             "Type Theory",
             "Proof Assistant",
