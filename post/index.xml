@@ -188,23 +188,31 @@ This is how we continue.&lt;/p&gt;
 &lt;li&gt;Maybe organising an informal event like ”Fun with Formal Methods”: &lt;a href=&#34;http://www.iis.nsk.su/fwfm2013&#34; target=&#34;_blank&#34;&gt;http://www.iis.nsk.su/fwfm2013&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Formal Methods BoK: &lt;a href=&#34;http://formalmethods.wikia.com/wiki/FMBoK&#34; target=&#34;_blank&#34;&gt;http://formalmethods.wikia.com/wiki/FMBoK&lt;/a&gt; (maintained by Jonathan Bowen)&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;References collected by Kenji Taguchi with respect to BoK on FM:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;--------------------------------- References -------------------------------
-[1] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), “Preface Special Issue on Formal Methods Education and Training”, ACM SIGCSE Bulletin inroads, vol. 41, issue 2, June, pp14-16 (2009)
-[2] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), &amp;quot;Proceedings of the First International Workshop on Formal Methods Education and Training&amp;quot; Technical Report GRACE-TR-2008-03, Grace Center, National Institute of Informatics (2008)
-Note: &amp;quot;XXX education and training&amp;quot; is a conventional naming of conferences/workshops on education in Software Engineering (e.g., CSEE&amp;amp;T (Software Engineering Education and Training). I preferred this rather than &amp;quot;Teaching Formal Methods&amp;quot;.
-[3] H. Nishihara, K. Shinozaki, K. Hayamizu, T. Aoki, K. Taguchi, F. Kumeno, “Model Checking Education for Software Engineers in Japan”, in ACM SIGCSE Bulletin inroads, vol 41, issue 2, June, pp45-50 (2009)
-[4] K. Taguchi, H. Nishihara, T. Aoki, F. Kumeno, K. Hayamizu, K. Shinozaki, “Building a Body of Knowledge on Model Checking for Software Development”, in Proceedings of COMPSAC ’13, pp784-789, IEEE (2013)
-[5] F. Ishikawa, K. Taguchi, N. Yoshioka, S. Honiden, “What Top-Level Engineers Tackle after Learning Formal Methods –Experiences from the Top SE Project”, in Proceedings of Teaching Formal Methods (TFM) ’09, Eindhoven (2009)
-[6] C. Artho, K. Taguchi, Y. Tahara, S. Honiden, Y. Tanabe, “Teaching Software Model Checking” Proceedings in Formal Methods in Computer Science Education (FORMED) ’08, pp171-179, Budapest (2008) 
-[7] S. Honiden, Y. Tahara, N. Yoshioka, K. Taguchi, H. Washizaki, “TopSE: Educating Superarchitects Who Can Apply Software Engineering Tools to Practical Development in Japan”, in Proceedings of IEEE/ACM International Conference on Software Engineering (ICSE) ’07, pp708-718, Minneapolis (2007)
-Note: ICSE traditionally has a session on education. This paper appeared in the session.
-[8] J. Bowen, S. Reeves: From a Community of Practice to a Body of Knowledge: A Case Study of the Formal Methods Community. FM 2011: 308-322
-[9] S. Gruner, A. Kumar, T. Maibaum: Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge. FTSCS 2015: 87-102
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;References collected by Kenji Taguchi with respect to BoK on FM:&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; References &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/p&gt;
+
+&lt;p&gt;[1] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), “Preface Special Issue on Formal Methods Education and Training”, ACM SIGCSE Bulletin inroads, vol. 41, issue 2, June, pp14-16 (2009)&lt;/p&gt;
+
+&lt;p&gt;[2] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), &amp;ldquo;Proceedings of the First International Workshop on Formal Methods Education and Training&amp;rdquo; Technical Report GRACE-TR-2008-03, Grace Center, National Institute of Informatics (2008)
+ Note: &amp;ldquo;XXX education and training&amp;rdquo; is a conventional naming of conferences/workshops on education in Software Engineering (e.g., CSEE&amp;amp;T (Software Engineering Education and Training). I preferred this rather than &amp;ldquo;Teaching Formal Methods&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;[3] H. Nishihara, K. Shinozaki, K. Hayamizu, T. Aoki, K. Taguchi, F. Kumeno, “Model Checking Education for Software Engineers in Japan”, in ACM SIGCSE Bulletin inroads, vol 41, issue 2, June, pp45-50 (2009)&lt;/p&gt;
+
+&lt;p&gt;[4] K. Taguchi, H. Nishihara, T. Aoki, F. Kumeno, K. Hayamizu, K. Shinozaki, “Building a Body of Knowledge on Model Checking for Software Development”, in Proceedings of COMPSAC ’13, pp784-789, IEEE (2013)
+[5] F. Ishikawa, K. Taguchi, N. Yoshioka, S. Honiden, “What Top-Level Engineers Tackle after Learning Formal Methods –Experiences from the Top SE Project”, in Proceedings of Teaching Formal Methods (TFM) ’09, Eindhoven (2009)&lt;/p&gt;
+
+&lt;p&gt;[6] C. Artho, K. Taguchi, Y. Tahara, S. Honiden, Y. Tanabe, “Teaching Software Model Checking” Proceedings in Formal Methods in Computer Science Education (FORMED) ’08, pp171-179, Budapest (2008)&lt;/p&gt;
+
+&lt;p&gt;[7] S. Honiden, Y. Tahara, N. Yoshioka, K. Taguchi, H. Washizaki, “TopSE: Educating Superarchitects Who Can Apply Software Engineering Tools to Practical Development in Japan”, in Proceedings of IEEE/ACM International Conference on Software Engineering (ICSE) ’07, pp708-718, Minneapolis (2007)
+Note: ICSE traditionally has a session on education. This paper appeared in the session.&lt;/p&gt;
+
+&lt;p&gt;[8] J. Bowen, S. Reeves: From a Community of Practice to a Body of Knowledge: A Case Study of the Formal Methods Community. FM 2011: 308-322&lt;/p&gt;
+
+&lt;p&gt;[9] S. Gruner, A. Kumar, T. Maibaum: Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge. FTSCS 2015: 87-102&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&#34;minutes&#34;&gt;Minutes&lt;/h2&gt;
 
