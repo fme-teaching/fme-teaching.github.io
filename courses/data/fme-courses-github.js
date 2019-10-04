@@ -17,7 +17,7 @@ var courses =
         ],
         "course_webpage": "http://cs.brown.edu/courses/cs195y",
         "course_title": "Logic for Systems",
-        "course_country": "US",
+        "course_country": "United States",
         "course_year_level": [
             "Unknown"
         ]
@@ -107,7 +107,7 @@ var courses =
         ],
         "course_webpage": "http://temporallogic.org/courses/AppliedFormalMethods",
         "course_title": "Applied Formal Methods",
-        "course_country": "US",
+        "course_country": "United States",
         "course_year_level": [
             "Unknown"
         ]
@@ -603,7 +603,7 @@ var courses =
         "course_webpage": "http://frederic.loulergue.eu/teaching/cs451.pdf",
         "course_year_level": "4, MSc, PhD",
         "course_title": "Mechanized Reasoning about Programs",
-        "course_country": "US"
+        "course_country": "United States"
     },
     {
         "course_institution": "University of Beira Interior",
@@ -659,7 +659,7 @@ var courses =
         "course_webpage": "http://www.cs.cmu.edu/~15811",
         "course_year_level": "PhD",
         "course_title": "Verifying Complex Systems",
-        "course_country": "US"
+        "course_country": "United States"
     },
     {
         "course_institution": "Politecnico di Milano",
@@ -1220,5 +1220,5 @@ var countries =
     "Sweden",
     "Switzerland",
     "UK",
-    "US"
+    "United States"
 ]
