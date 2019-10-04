@@ -91,6 +91,7 @@ select:focus, textarea:focus, input:focus{
   position: relative;
 }
 
+
 #logo{
   display: inline-block;
   width: 50px;
@@ -99,7 +100,7 @@ select:focus, textarea:focus, input:focus{
   background-size: 50px 50px;
 }
 
-.title a{
+#title-link {
   margin-left: 10px;
   text-decoration: none;
   color: #222;
@@ -110,6 +111,19 @@ select:focus, textarea:focus, input:focus{
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+#subtitle {
+  margin-left: 10px;
+  font-size: 14px;
+  position: absolute;
+  top: 100%;
+  -ms-transform: translateY(-100%);
+  transform: translateY(-100%);
+
+}
+
+
+
 
 .content{
   margin-top: 15px;
