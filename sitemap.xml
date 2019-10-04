@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/previous-members/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2019-10-03T12:05:12+01:00</lastmod>
   </url>
