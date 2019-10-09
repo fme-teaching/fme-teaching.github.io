@@ -15,7 +15,8 @@ var courses =
         ],
         "course_webpage": "https://mooc.imd.ufrn.br/course/the-b-method",
         "course_year_level": "2",
-        "course_title": "The B-Method: from Specification to Code"
+        "course_title": "The B-Method: from Specification to Code",
+        "course_country": "Brazil"
     },
     {
         "course_code": "COMP 6721",
@@ -36,7 +37,8 @@ var courses =
         ],
         "course_webpage": "http://www.cse.unsw.edu.au/~cs6721",
         "course_year_level": "Unknown",
-        "course_title": "(In-)Formal Methods"
+        "course_title": "(In-)Formal Methods",
+        "course_country": "Australia"
     },
     {
         "": "CSCI 195Y",
@@ -1250,6 +1252,7 @@ var tools =
 var countries = 
 [
     "Australia",
+    "Brazil",
     "France",
     "Germany",
     "Ireland",
