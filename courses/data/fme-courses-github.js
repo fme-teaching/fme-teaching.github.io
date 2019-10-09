@@ -1,6 +1,44 @@
 var courses = 
 [
     {
+        "course_code": "",
+        "course_institution": "Universidade Federal do Rio Grande do Norte",
+        "course_contact": "Marcel Oliveira",
+        "course_concepts": [
+            "B Method",
+            "Formal Specification",
+            "Specification"
+        ],
+        "course_tools": [
+            "Atelier-B",
+            "Prob"
+        ],
+        "course_webpage": "https://mooc.imd.ufrn.br/course/the-b-method",
+        "course_year_level": "2",
+        "course_title": "The B-Method: from Specification to Code"
+    },
+    {
+        "course_code": "COMP 6721",
+        "course_institution": "University of New South Wales",
+        "course_contact": "Carroll Morgan",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Axiomatic Semantics",
+            "Data Refinement",
+            "Hoare Logic",
+            "Proofs",
+            "Software Verification",
+            "Specification",
+            "Wp Calculus"
+        ],
+        "course_tools": [
+            "Dafny"
+        ],
+        "course_webpage": "http://www.cse.unsw.edu.au/~cs6721",
+        "course_year_level": "Unknown",
+        "course_title": "(In-)Formal Methods"
+    },
+    {
         "": "CSCI 195Y",
         "course_institution": "Brown University",
         "course_contact": "Tim Nelson",
@@ -1037,6 +1075,7 @@ var concepts =
     "Automation",
     "Axiomatic Semantics",
     "Axiomatisation",
+    "B Method",
     "Behavioural Equivalences",
     "Behavioural Modelling",
     "Buchi Automata",
@@ -1114,6 +1153,7 @@ var concepts =
     "Proof Assistant",
     "Proof Assistants",
     "Proof Of C Programs",
+    "Proofs",
     "Propositional Logic",
     "Propositional Natural Deduction",
     "Reactive Systems",
@@ -1131,6 +1171,7 @@ var concepts =
     "Software Verification",
     "Soundness And Completeness",
     "Spark Ada",
+    "Specification",
     "Specify An Information System By Means Of Constraints On A Data Space Built Up Of Relations.",
     "Static Analysis",
     "Static Program Analysis",
@@ -1165,6 +1206,7 @@ var tools =
     "Ampersand (The Tool)",
     "And Klee",
     "Antlr",
+    "Atelier-B",
     "Cbmc",
     "Coq",
     "Cpachecker",
@@ -1189,6 +1231,7 @@ var tools =
     "No Tools",
     "Nusmv",
     "Nuxmv",
+    "Prob",
     "Pvs",
     "Rapl",
     "Reo",
