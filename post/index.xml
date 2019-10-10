@@ -5,12 +5,50 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 12:05:12 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/fme.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Fifth Meeting (2019/10/06)</title>
+      <link>/post/meetings/fifth-meeting/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/meetings/fifth-meeting/</guid>
+      <description>
+
+&lt;ol&gt;
+&lt;li&gt;New members Brijesh Dongol and Pierluigi San Pietro joined us and shortly introduced themselves.&lt;/li&gt;
+&lt;li&gt;We checked the current database of FM Courses that are now saved in Github as issues: &lt;a href=&#34;https://github.com/luigiapetre/Formal-Methods-Courses/issues&#34; target=&#34;_blank&#34;&gt;https://github.com/luigiapetre/Formal-Methods-Courses/issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Graeme reminded that we agreed earlier to also have a repository for motivational papers - we agreed to set it up as a Github repo as well.&lt;/li&gt;
+&lt;li&gt;Luigia informed about the forthcoming Communication Committee at FME, to help with getting people to input their courses
+contact person: Claudio Menghi, cla.menghi@gmail.com&lt;/li&gt;
+&lt;li&gt;We decided to send a proposal to organise a workshop+tutorial at the FME congress in Porto: &lt;a href=&#34;http://formalmethods2019.inesctec.pt&#34; target=&#34;_blank&#34;&gt;http://formalmethods2019.inesctec.pt&lt;/a&gt; (in October 2019).&lt;/li&gt;
+&lt;li&gt;We brainstormed over applying for a COST Action to finance our actions, for instance the workshop at FME next year. As COST has a new policy to have at least half of the participants in a COST action to be from Inclusiveness Target Countries, we thought about possible partners in these countries.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;after-the-meeting&#34;&gt;After the meeting:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The members lists on FME site and in Duda were updated.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fmeurope.org/2018/04/23/teaching-committee/&#34; target=&#34;_blank&#34;&gt;http://www.fmeurope.org/2018/04/23/teaching-committee/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmeteaching.dudaone.com/about&#34; target=&#34;_blank&#34;&gt;https://fmeteaching.dudaone.com/about&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Plan: keep our more confidential docs on Google docs and the public ones on Duda&lt;/li&gt;
+&lt;li&gt;Make subgroups to tackle our other subtasks
+
+&lt;ul&gt;
+&lt;li&gt;BoK: Kenji and Luigia agreed to start working on this.&lt;/li&gt;
+&lt;li&gt;Case studies&lt;/li&gt;
+&lt;li&gt;Exam questions&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>(In-)Formal Methods: The Lost Art --- A Users’ Manual</title>
