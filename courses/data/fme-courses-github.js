@@ -1,6 +1,60 @@
 var courses = 
 [
     {
+        "course_code": "COMP4161",
+        "course_institution": "UNSW Sydney",
+        "course_contact": "Gerwin Klein",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Axiomatic Semantics",
+            "Deductive Software Verification",
+            "Deductive Proof",
+            "Deductive Verification",
+            "Formal Specification",
+            "Hoare Logic",
+            "Induction",
+            "Interactive Theorem Proving",
+            "Logic",
+            "Proofs",
+            "Proof Assistants",
+            "Software Verification",
+            "Specification",
+            "Structural Operational Semantics",
+            "Theorem Proving",
+            "Wp Calculus"
+        ],
+        "course_tools": [
+            "C",
+            "Isabelle"
+        ],
+        "course_webpage": "https://www.cse.unsw.edu.au/~cs4161",
+        "course_year_level": "3",
+        "course_title": "Advanced Topics in Software Verification",
+        "course_country": "Australia"
+    },
+    {
+        "course_code": "",
+        "course_institution": "Saarland University",
+        "course_contact": "Holger Hermanns",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Behavioural Equivalences",
+            "Distributed Systems",
+            "Labelled Transition Systems",
+            "Memory Models",
+            "Modelling",
+            "Process Algebra",
+            "Process Calculus"
+        ],
+        "course_tools": [
+            "Java"
+        ],
+        "course_webpage": "https://depend.cs.uni-saarland.de/teaching/np",
+        "course_year_level": "2",
+        "course_title": "Concurrent Programming",
+        "course_country": "Germany"
+    },
+    {
         "course_code": "",
         "course_institution": "Universidade Federal do Rio Grande do Norte",
         "course_contact": "Marcel Oliveira",
@@ -1092,6 +1146,7 @@ var concepts =
     "Data Refinement",
     "Deductive Program Verification",
     "Deductive Proof",
+    "Deductive Software Verification",
     "Deductive Verification",
     "Deductive Verification Tools",
     "Denotational Semantics",
@@ -1137,6 +1192,7 @@ var concepts =
     "Model-Based Testing",
     "Model-Oriented (Z) & Process-Oriented (Csp) Specification & Refinement",
     "Modeling",
+    "Modelling",
     "Mu-Calculus",
     "Natural Deduction",
     "Omega-Regular Properties",
@@ -1209,6 +1265,7 @@ var tools =
     "And Klee",
     "Antlr",
     "Atelier-B",
+    "C",
     "Cbmc",
     "Coq",
     "Cpachecker",
@@ -1222,6 +1279,7 @@ var tools =
     "Haskell",
     "Isabelle",
     "Jape",
+    "Java",
     "Key",
     "Logic Workbench (Https://Github.Com/Esb-Lwb/Lwb)",
     "Many",
