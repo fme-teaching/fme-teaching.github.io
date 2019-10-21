@@ -1,6 +1,29 @@
 var courses = 
 [
     {
+        "course_code": "",
+        "course_institution": "University of La Rioja",
+        "course_contact": "Ana Romero",
+        "course_concepts": [
+            "Data Structures",
+            "Deductive Software Verification",
+            "Formal Specification",
+            "Hoare Logic",
+            "Software Verification",
+            "Specification"
+        ],
+        "course_tools": [
+            "Java",
+            "Jml",
+            "Why3",
+            "Krakatoa"
+        ],
+        "course_webpage": "https://aps.unirioja.es/GuiasDocentes/servlet/agetguiahtml?2019-20,801G,830 (in Spanish)",
+        "course_year_level": "2",
+        "course_title": "Formal methods in programming",
+        "course_country": "Spain"
+    },
+    {
         "course_code": "COMP4161",
         "course_institution": "UNSW Sydney",
         "course_contact": "Gerwin Klein",
@@ -1144,6 +1167,7 @@ var concepts =
     "Ctl)",
     "Curry-Howard Isomorphism",
     "Data Refinement",
+    "Data Structures",
     "Deductive Program Verification",
     "Deductive Proof",
     "Deductive Software Verification",
@@ -1280,7 +1304,9 @@ var tools =
     "Isabelle",
     "Jape",
     "Java",
+    "Jml",
     "Key",
+    "Krakatoa",
     "Logic Workbench (Https://Github.Com/Esb-Lwb/Lwb)",
     "Many",
     "Maude",
