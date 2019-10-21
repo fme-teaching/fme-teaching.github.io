@@ -1,6 +1,53 @@
 var courses = 
 [
     {
+        "course_code": "20-00-0794-iv",
+        "course_institution": "TU Darmstadt",
+        "course_contact": "Reiner H\u00e4hnle",
+        "course_concepts": [
+            "Deductive Software Verification",
+            "Deductive Proof",
+            "Deductive Verification",
+            "Formal Specification",
+            "Interactive Theorem Proving",
+            "Logic",
+            "Proofs",
+            "Software Verification"
+        ],
+        "course_tools": [
+            "Key"
+        ],
+        "course_webpage": "(webpage only for participants)",
+        "course_year_level": "MSc",
+        "course_title": "Formal Specification and Verification",
+        "course_country": "Germany"
+    },
+    {
+        "course_code": "20-00-0901-iv",
+        "course_institution": "TU Darmstadt",
+        "course_contact": "Reiner H\u00e4hnle",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Deductive Software Verification",
+            "Distributed Systems",
+            "Formal Specification",
+            "Logic",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Modelling",
+            "Proofs",
+            "Software Verification"
+        ],
+        "course_tools": [
+            "Key",
+            "Spin"
+        ],
+        "course_webpage": "(webpage only accessible to participants)",
+        "course_year_level": "2",
+        "course_title": "Formal Methods in Software Design",
+        "course_country": "Germany"
+    },
+    {
         "course_code": "",
         "course_institution": "University of La Rioja",
         "course_contact": "Ana Romero",
@@ -1197,6 +1244,7 @@ var concepts =
     "Lambda Calculus",
     "Language Theory",
     "Linear Temporal Logic",
+    "Linear Temporal Logic (Ltl)",
     "Linear-Time Properties",
     "Logic",
     "Logic Programming",
