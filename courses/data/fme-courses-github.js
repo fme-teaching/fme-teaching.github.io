@@ -17,7 +17,7 @@ var courses =
         "course_tools": [
             "Key"
         ],
-        "course_webpage": "(webpage only for participants)",
+        "course_webpage": "#",
         "course_year_level": "MSc",
         "course_title": "Formal Specification and Verification",
         "course_country": "Germany"
@@ -42,7 +42,7 @@ var courses =
             "Key",
             "Spin"
         ],
-        "course_webpage": "(webpage only accessible to participants)",
+        "course_webpage": "#",
         "course_year_level": "2",
         "course_title": "Formal Methods in Software Design",
         "course_country": "Germany"
@@ -65,7 +65,7 @@ var courses =
             "Why3",
             "Krakatoa"
         ],
-        "course_webpage": "https://aps.unirioja.es/GuiasDocentes/servlet/agetguiahtml?2019-20,801G,830 (in Spanish)",
+        "course_webpage": "https://aps.unirioja.es/GuiasDocentes/servlet/agetguiahtml?2019-20,801G,830",
         "course_year_level": "2",
         "course_title": "Formal methods in programming",
         "course_country": "Spain"
@@ -289,7 +289,7 @@ var courses =
         "course_tools": [
             "Why3"
         ],
-        "course_webpage": "https://formations.univ-rennes1.fr/formation/programmation-de-confiance?studentstatus=112 (in French)",
+        "course_webpage": "https://formations.univ-rennes1.fr/formation/programmation-de-confiance?studentstatus=112",
         "course_year_level": "3",
         "course_title": "Trustworthy programming",
         "course_country": "France"
@@ -452,7 +452,7 @@ var courses =
         "course_tools": [
             "Mcrl2 (Www.Mcrl2.Org)"
         ],
-        "course_webpage": "https://www.canvas.net/browse/halmstad/courses/system-validation, https://ocw.tudelft.nl/courses/system-validation",
+        "course_webpage": "https://www.canvas.net/browse/halmstad/courses/system-validation,",
         "course_year_level": "MSc",
         "course_title": "System Validation",
         "course_country": "United Kingdom"
@@ -782,7 +782,7 @@ var courses =
             "Why3",
             "Frama-C"
         ],
-        "course_webpage": "http://www.di.ubi.pt/~desousa/CF/comfia.html, http://www.di.ubi.pt/~desousa/SFS/sfs.html",
+        "course_webpage": "http://www.di.ubi.pt/~desousa/CF/comfia.html,",
         "course_year_level": "MSc, PhD",
         "course_title": "Computa\u00e7\u00e3o Fi\u00e1vel (Reliable Programming)",
         "course_country": "Portugal"
@@ -886,7 +886,7 @@ var courses =
         "course_tools": [
             "Czt; Fdr4"
         ],
-        "course_webpage": "(Behind a firewall)",
+        "course_webpage": "#",
         "course_year_level": "3",
         "course_title": "Programming: Correctness by Construction",
         "course_country": "United Kingdom"
@@ -933,7 +933,7 @@ var courses =
             "Logic",
             "Program Verification"
         ],
-        "course_webpage": "https:/papers.waikato.ac.nz/subjects/COMPX/COMPX361",
+        "course_webpage": "#",
         "course_title": "Logic and Computation",
         "course_country": "New Zealand",
         "course_tools": [
