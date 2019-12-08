@@ -1,6 +1,30 @@
 var courses = 
 [
     {
+        "course_code": "",
+        "course_institution": "Instituto Superior T\u00e9cnico (University of Lisbon)",
+        "course_contact": "Jo\u00e3o F. Ferreira",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Calculational Method",
+            "Deductive Verification",
+            "Formal Specification",
+            "Hoare Logic",
+            "Modelling",
+            "Separation Logic",
+            "Software Verification",
+            "Specification"
+        ],
+        "course_tools": [
+            "Alloy",
+            "Dafny"
+        ],
+        "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/QS7/2019-2020/1-semestre",
+        "course_year_level": "MSc",
+        "course_title": "Software Specification",
+        "course_country": "Portugal"
+    },
+    {
         "course_code": "20-00-0794-iv",
         "course_institution": "TU Darmstadt",
         "course_contact": "Reiner H\u00e4hnle",
@@ -1206,6 +1230,7 @@ var concepts =
     "Behavioural Modelling",
     "Buchi Automata",
     "Calculational Design",
+    "Calculational Method",
     "Category Theory",
     "Classical Logic",
     "Constraint Logic Programming",
