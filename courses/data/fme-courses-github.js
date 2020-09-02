@@ -229,10 +229,12 @@ var courses =
             "Dynamic Analysis"
         ],
         "course_tools": [
-            "Dafny And The Checker Framework (For The Course'S Assignments). The Course Also Includes Brief Demos Of Frama-C",
+            "Dafny",
+            "Checker Framework",
+            "Frama-C",
             "Spin",
             "Cpachecker",
-            "And Klee"
+            "Klee"
         ],
         "course_webpage": "https://github.com/bugcounting/software-analysis",
         "course_year_level": "MSc",
@@ -456,7 +458,7 @@ var courses =
             "Natural Deduction"
         ],
         "course_tools": [
-            "Logic Workbench (Https://Github.Com/Esb-Lwb/Lwb)",
+            "Logic Workbench",
             "Alloy",
             "Spin",
             "Jape"
@@ -478,7 +480,7 @@ var courses =
             "Behavioural Equivalences"
         ],
         "course_tools": [
-            "Mcrl2 (Www.Mcrl2.Org)"
+            "Mcrl2"
         ],
         "course_webpage": "https://www.canvas.net/browse/halmstad/courses/system-validation,",
         "course_year_level": "MSc",
@@ -594,7 +596,7 @@ var courses =
             "Applied Formal Methods"
         ],
         "course_tools": [
-            "Mcrl2 (Www.Mcrl2.Org)"
+            "Mcrl2"
         ],
         "course_webpage": "https://mitpress.mit.edu/books/modeling-and-analysis-communicating-systems",
         "course_year_level": "MSc",
@@ -885,7 +887,9 @@ var courses =
             "Memory Models"
         ],
         "course_tools": [
-            "Frama-C (Wp Plug-In) And Why3"
+            "Frama-C",
+            "Frama-C (Wp Plug-In)",
+            "Why3"
         ],
         "course_webpage": "https://www.lri.fr/~conchon/parcours_fiil/science_logiciel.html",
         "course_title": "V\u00e9rification d\u00e9ductive de programmes (deductive verification of programs)",
@@ -1368,19 +1372,18 @@ var tools =
     "A Local Model Checker.",
     "Alloy",
     "Ampersand",
-    "And Klee",
     "Antlr",
     "Atelier-B",
     "C",
     "Cbmc",
+    "Checker Framework",
     "Coq",
     "Cpachecker",
     "Czt; Fdr4",
     "Dafny",
-    "Dafny And The Checker Framework (For The Course'S Assignments). The Course Also Includes Brief Demos Of Frama-C",
     "Daphny",
     "Frama-C",
-    "Frama-C (Wp Plug-In) And Why3",
+    "Frama-C (Wp Plug-In)",
     "Gnat",
     "Gnu Prolog",
     "Gps",
@@ -1390,13 +1393,13 @@ var tools =
     "Java",
     "Jml",
     "Key",
+    "Klee",
     "Krakatoa",
-    "Logic Workbench (Https://Github.Com/Esb-Lwb/Lwb)",
+    "Logic Workbench",
     "Many",
     "Maude",
     "Mcmas",
     "Mcrl2",
-    "Mcrl2 (Www.Mcrl2.Org)",
     "Minisat",
     "No Tools",
     "Nusmv",
