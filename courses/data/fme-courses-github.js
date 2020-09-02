@@ -56,7 +56,8 @@ var courses =
             "Distributed Systems",
             "Formal Specification",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic",
+            "Ltl",
             "Model Checking",
             "Modelling",
             "Proofs",
@@ -193,8 +194,10 @@ var courses =
         "course_institution": "Brown University",
         "course_contact": "Tim Nelson",
         "course_concepts": [
-            "Predicate And Relational Logic",
-            "Invariants And Induction",
+            "Predicate Logic",
+            "Relational Logic",
+            "Invariants",
+            "Induction",
             "Linear Temporal Logic",
             "Propositional Natural Deduction",
             "Sat",
@@ -331,7 +334,7 @@ var courses =
         "course_contact": "Sim\u00e3o Melo de Sousa",
         "course_concepts": [
             "Type Theory",
-            "Proof Assistant",
+            "Proof Assistants",
             "Hoare Logic",
             "Deductive Verification Tools"
         ],
@@ -499,7 +502,9 @@ var courses =
             "Hoare Logic",
             "Separation Logic",
             "Interactive Theorem Proving",
-            "Functional Programming"
+            "Functional Programming",
+            "Types",
+            "Simply Typed Lambda Calculus"
         ],
         "course_tools": [
             "Coq",
@@ -536,7 +541,7 @@ var courses =
             "Behavioural Equivalences",
             "Mu-Calculus",
             "Model Checking",
-            "Model Based Testing",
+            "Model-Based Testing",
             "Ioco"
         ],
         "course_tools": [
@@ -594,7 +599,8 @@ var courses =
             "Behavioural Equivalences",
             "Behavioural Modelling",
             "Reasoning About Processes",
-            "Modal Logics (Modal Mu-Calculus)",
+            "Modal Logics",
+            "Modal Mu-Calculus",
             "Applied Formal Methods"
         ],
         "course_tools": [
@@ -610,7 +616,7 @@ var courses =
         "course_contact": "Jose N. Oliveira",
         "course_concepts": [
             "Formal Specification",
-            "Modeling",
+            "Modelling",
             "Verification",
             "Calculational Design",
             "Software Architecture"
@@ -695,7 +701,9 @@ var courses =
         "course_institution": "Chalmers University",
         "course_contact": "Srinivas Pinisetty",
         "course_concepts": [
-            "Formal Specification And Verification Of Code"
+            "Formal Specification",
+            "Software Verification",
+            "Verification"
         ],
         "course_tools": [
             "Dafny"
@@ -791,11 +799,16 @@ var courses =
         "course_webpage": "#"
     },
     {
-        "": "CS 451/551",
+        "course_code": "CS 451/551",
         "course_institution": "Northern Arizona University",
         "course_contact": "Fr\u00e9d\u00e9ric Loulergue (frederic.loulergue@nau.edu)",
         "course_concepts": [
-            "Operational Semantics; Axiomatic Semantics; Deductive Verification; Certified Compilation; Formalization In Coq; Program Analysis With Frama-C"
+            "Operational Semantics",
+            "Axiomatic Semantics",
+            "Deductive Verification",
+            "Certified Compilation",
+            "Formalization In Coq",
+            "Program Analysis"
         ],
         "course_tools": [
             "Coq",
@@ -807,10 +820,11 @@ var courses =
         "course_country": "United States"
     },
     {
+        "course_code": "11480",
         "course_institution": "University of Beira Interior",
         "course_contact": "Simao Melo de Sousa (desousa@di.ubi.pt)",
         "course_concepts": [
-            "Deductive Program Verification",
+            "Deductive Software Verification",
             "Proof Assistants",
             "Static Program Analysis"
         ],
@@ -819,8 +833,8 @@ var courses =
             "Why3",
             "Frama-C"
         ],
-        "course_webpage": "http://www.di.ubi.pt/~desousa/CF/comfia.html,",
-        "course_year_level": "MSc, PhD",
+        "course_webpage": "http://www.di.ubi.pt/~desousa/CF/comfia.html",
+        "course_year_level": "MSc",
         "course_title": "Computa\u00e7\u00e3o Fi\u00e1vel (Reliable Programming)",
         "course_country": "Portugal"
     },
@@ -866,8 +880,13 @@ var courses =
         "course_institution": "Politecnico di Milano",
         "course_contact": "Dino Mandrioli (dino.mandrioli@polimi.it)",
         "course_concepts": [
-            "Logics For Specifying Syteme; Hoare'S Method; Timed Petri Nets",
-            "Trio (A Metric Temporal Logic For Real-Time Systems). Case Studies."
+            "Logics For Specifying Systems",
+            "Hoare Logic",
+            "Timed Petri Nets",
+            "Trio",
+            "Metric Temporal Logic",
+            "Real-Time Systems",
+            "Applied Formal Methods"
         ],
         "course_tools": [
             "Zot"
@@ -885,7 +904,7 @@ var courses =
         "course_concepts": [
             "Hoare Logic",
             "Wp Calculus",
-            "Formal Specifications",
+            "Formal Specification",
             "Memory Models"
         ],
         "course_tools": [
@@ -919,23 +938,26 @@ var courses =
         "course_institution": "University of York",
         "course_contact": "Jeremy Jacob",
         "course_concepts": [
-            "Model-Oriented (Z) & Process-Oriented (Csp) Specification & Refinement"
+            "Model-Oriented Specification (Z)",
+            "Process-Oriented (Csp) Specification",
+            "Refinement"
         ],
         "course_tools": [
             "Czt",
             "Fdr4"
         ],
-        "course_webpage": "#",
         "course_year_level": "3",
         "course_title": "Programming: Correctness by Construction",
-        "course_country": "United Kingdom"
+        "course_country": "United Kingdom",
+        "course_webpage": "#"
     },
     {
         "course_institution": "University of Limerick",
         "course_contact": "Tiziana Margaria",
         "course_concepts": [
-            "Ormal Models",
-            "Logics And Model Checking"
+            "Formal Models",
+            "Logics",
+            "Model Checking"
         ],
         "course_title": "Introduction to Model Driven Development",
         "course_country": "Ireland",
@@ -1246,6 +1268,7 @@ var concepts =
     "Calculational Design",
     "Calculational Method",
     "Category Theory",
+    "Certified Compilation",
     "Classical Logic",
     "Constraint Logic Programming",
     "Ctl",
@@ -1253,7 +1276,6 @@ var concepts =
     "Curry-Howard Isomorphism",
     "Data Refinement",
     "Data Structures",
-    "Deductive Program Verification",
     "Deductive Proof",
     "Deductive Software Verification",
     "Deductive Verification",
@@ -1262,12 +1284,12 @@ var concepts =
     "Distributed Systems",
     "Dynamic Analysis",
     "Explicit Model Checking",
+    "Formal Models",
     "Formal Specification",
-    "Formal Specification And Verification Of Code",
     "Formal Specification Of Interactive Systems",
     "Formal Specification Using Z",
-    "Formal Specifications",
     "Formal Verification",
+    "Formalization In Coq",
     "Frama-C",
     "Functional Programming",
     "Ghost Code",
@@ -1276,50 +1298,46 @@ var concepts =
     "Hoare Logic",
     "Induction",
     "Interactive Theorem Proving",
-    "Invariants And Induction",
+    "Invariants",
     "Ioco",
     "Jml",
     "Labelled Transition Systems",
     "Lambda Calculus",
     "Language Theory",
     "Linear Temporal Logic",
-    "Linear Temporal Logic (Ltl)",
     "Linear-Time Properties",
     "Logic",
     "Logic Programming",
     "Logic Specifications",
     "Logics",
-    "Logics And Model Checking",
-    "Logics For Specifying Syteme; Hoare'S Method; Timed Petri Nets",
+    "Logics For Specifying Systems",
     "Loop Invariants",
     "Ltl",
     "Ltl Model Checking",
     "Mcrl2",
     "Memory Models",
+    "Metric Temporal Logic",
     "Modal Logic",
-    "Modal Logics (Modal Mu-Calculus)",
-    "Model Based Testing",
+    "Modal Logics",
+    "Modal Mu-Calculus",
     "Model Checking",
     "Model-Based Testing",
-    "Model-Oriented (Z) & Process-Oriented (Csp) Specification & Refinement",
-    "Modeling",
+    "Model-Oriented Specification (Z)",
     "Modelling",
     "Mu-Calculus",
     "Natural Deduction",
     "Omega-Regular Properties",
     "Operational Semantics",
-    "Operational Semantics; Axiomatic Semantics; Deductive Verification; Certified Compilation; Formalization In Coq; Program Analysis With Frama-C",
-    "Ormal Models",
     "Pre And Post-Conditions",
     "Predicate Abstraction",
-    "Predicate And Relational Logic",
     "Predicate Logic",
     "Process Algebra",
     "Process Calculus",
+    "Process-Oriented (Csp) Specification",
+    "Program Analysis",
     "Program Proof",
     "Program Verification",
     "Programming Languages",
-    "Proof Assistant",
     "Proof Assistants",
     "Proof Of C Programs",
     "Proofs",
@@ -1328,8 +1346,11 @@ var concepts =
     "Propositional Natural Deduction",
     "Reactive Systems",
     "Real-Time And Probabilistic Model Checking",
+    "Real-Time Systems",
     "Reasoning About Processes",
+    "Refinement",
     "Refinement Calculus",
+    "Relational Logic",
     "Relations",
     "Sat",
     "Sat-Solving",
@@ -1354,12 +1375,14 @@ var concepts =
     "Temporal Logics",
     "Theorem Proving",
     "Timed Automata",
+    "Timed Petri Nets",
     "Tool-Based Testing",
     "Transition Systems",
-    "Trio (A Metric Temporal Logic For Real-Time Systems). Case Studies.",
+    "Trio",
     "Type Invariants",
     "Type Systems",
     "Type Theory",
+    "Types",
     "Uml",
     "Uml/Ocl",
     "Unknown",
