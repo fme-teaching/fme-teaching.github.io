@@ -193,9 +193,13 @@ var courses =
         "course_institution": "Brown University",
         "course_contact": "Tim Nelson",
         "course_concepts": [
-            "Predicate And Relational Logic; Invariants And Induction; (Basic) Linear Temporal Logic",
+            "Predicate And Relational Logic",
+            "Invariants And Induction",
+            "Linear Temporal Logic",
             "Propositional Natural Deduction",
-            "Sat- And Smt-Solving; Property-Based Testing."
+            "Sat",
+            "Smt",
+            "Property-Based Testing"
         ],
         "course_tools": [
             "Alloy",
@@ -506,10 +510,11 @@ var courses =
         "course_institution": "Open University of the Netherlands",
         "course_contact": "Stef Joosten",
         "course_concepts": [
-            "Specify An Information System By Means Of Constraints On A Data Space Built Up Of Relations."
+            "Specification",
+            "Relations"
         ],
         "course_tools": [
-            "Ampersand (The Tool)"
+            "Ampersand"
         ],
         "course_webpage": "https://www.ou.nl/-/IM0403_Rule-Based-Design",
         "course_title": "Rule Based Design",
@@ -633,15 +638,18 @@ var courses =
         "course_concepts": [
             "Ada",
             "Tool-Based Testing",
-            "The Theory And Practice Of Static Verification With Spark",
+            "Static Verification",
+            "Spark",
             "Distributed Systems"
+        ],
+        "course_tools": [
+            "Gnat",
+            "Spark Toolset",
+            "Gps"
         ],
         "course_webpage": "https://www.uni-weimar.de/de/medien/professuren/medieninformatik/mediensicherheit/teaching/ws-2018/security-engineering-course",
         "course_title": "Security Engineering",
         "course_country": "Germany",
-        "course_tools": [
-            "Unknown"
-        ],
         "course_year_level": [
             "Unknown"
         ]
@@ -1262,6 +1270,7 @@ var concepts =
     "Hoare Logic",
     "Induction",
     "Interactive Theorem Proving",
+    "Invariants And Induction",
     "Ioco",
     "Jml",
     "Labelled Transition Systems",
@@ -1297,7 +1306,7 @@ var concepts =
     "Ormal Models",
     "Pre And Post-Conditions",
     "Predicate Abstraction",
-    "Predicate And Relational Logic; Invariants And Induction; (Basic) Linear Temporal Logic",
+    "Predicate And Relational Logic",
     "Predicate Logic",
     "Process Algebra",
     "Process Calculus",
@@ -1308,14 +1317,15 @@ var concepts =
     "Proof Assistants",
     "Proof Of C Programs",
     "Proofs",
+    "Property-Based Testing",
     "Propositional Logic",
     "Propositional Natural Deduction",
     "Reactive Systems",
     "Real-Time And Probabilistic Model Checking",
     "Reasoning About Processes",
     "Refinement Calculus",
+    "Relations",
     "Sat",
-    "Sat- And Smt-Solving; Property-Based Testing.",
     "Sat-Solving",
     "Separation Logic",
     "Simply Typed Lambda Calculus",
@@ -1324,11 +1334,12 @@ var concepts =
     "Software Architecture",
     "Software Verification",
     "Soundness And Completeness",
+    "Spark",
     "Spark Ada",
     "Specification",
-    "Specify An Information System By Means Of Constraints On A Data Space Built Up Of Relations.",
     "Static Analysis",
     "Static Program Analysis",
+    "Static Verification",
     "Structural Operational Semantics",
     "Symbolic Execution",
     "Symbolic Model Checking",
@@ -1336,7 +1347,6 @@ var concepts =
     "Temporal Logic",
     "Temporal Logic (Ltl",
     "Temporal Logics (Ltl",
-    "The Theory And Practice Of Static Verification With Spark",
     "Theorem Proving",
     "Timed Automata",
     "Tool-Based Testing",
@@ -1357,7 +1367,7 @@ var tools =
 [
     "A Local Model Checker.",
     "Alloy",
-    "Ampersand (The Tool)",
+    "Ampersand",
     "And Klee",
     "Antlr",
     "Atelier-B",
@@ -1371,7 +1381,9 @@ var tools =
     "Daphny",
     "Frama-C",
     "Frama-C (Wp Plug-In) And Why3",
+    "Gnat",
     "Gnu Prolog",
+    "Gps",
     "Haskell",
     "Isabelle",
     "Jape",
@@ -1394,6 +1406,7 @@ var tools =
     "Rapl",
     "Reo",
     "Smt-Lib",
+    "Spark Toolset",
     "Spin",
     "Spot",
     "Staruml",
