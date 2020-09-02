@@ -287,8 +287,9 @@ var courses =
         "course_contact": "Kristin Yvonne Rozier (kyrozier@iastate.edu)",
         "course_concepts": [
             "Logic Specifications",
-            "Temporal Logics (Ltl",
-            "Ctl)",
+            "Temporal Logics",
+            "Ltl",
+            "Ctl",
             "Explicit Model Checking",
             "Symbolic Model Checking",
             "Theorem Proving"
@@ -424,13 +425,14 @@ var courses =
         ]
     },
     {
-        "": "COM3028",
+        "course_code": "COM3028",
         "course_institution": "University of Surrey",
         "course_contact": "Brijesh Dongol (b.dongol@surrey.ac.uk)",
         "course_concepts": [
             "Modal Logic",
-            "Temporal Logic (Ltl",
-            "Ctl)",
+            "Temporal Logic",
+            "Ltl",
+            "Ctl",
             "Model Checking",
             "Hoare Logic"
         ],
@@ -768,9 +770,10 @@ var courses =
         "course_institution": "University of Toulouse/INPT/ENSEEIHT",
         "course_contact": "Marc Pantel (Marc.Pantel@enseeiht.fr)",
         "course_concepts": [
-            "Software Analysis Tools (Weakest Precondition",
+            "Software Analysis Tools",
+            "Weakest Preconditions",
             "Model Checking",
-            "Abstract Interpretation)",
+            "Abstract Interpretation",
             "Logic Programming",
             "Constraint Logic Programming",
             "Sat",
@@ -1227,7 +1230,7 @@ var courses =
 ]
 var concepts = 
 [
-    "Abstract Interpretation)",
+    "Abstract Interpretation",
     "Ada",
     "Aliasing Issues",
     "Alloy",
@@ -1247,7 +1250,6 @@ var concepts =
     "Constraint Logic Programming",
     "Ctl",
     "Ctl Model Checking",
-    "Ctl)",
     "Curry-Howard Isomorphism",
     "Data Refinement",
     "Data Structures",
@@ -1334,7 +1336,7 @@ var concepts =
     "Separation Logic",
     "Simply Typed Lambda Calculus",
     "Smt",
-    "Software Analysis Tools (Weakest Precondition",
+    "Software Analysis Tools",
     "Software Architecture",
     "Software Verification",
     "Soundness And Completeness",
@@ -1349,8 +1351,7 @@ var concepts =
     "Symbolic Model Checking",
     "Systems",
     "Temporal Logic",
-    "Temporal Logic (Ltl",
-    "Temporal Logics (Ltl",
+    "Temporal Logics",
     "Theorem Proving",
     "Timed Automata",
     "Tool-Based Testing",
