@@ -2,6 +2,30 @@ var courses =
 [
     {
         "course_code": "",
+        "course_institution": "Universidade da Beira Interior",
+        "course_contact": "Alexandra Mendes",
+        "course_concepts": [
+            "Axiomatic Semantics",
+            "Calculational Method",
+            "Certified Compilation",
+            "Denotational Semantics",
+            "Functional Programming",
+            "Induction",
+            "Proofs",
+            "Proof Theory",
+            "Software Verification",
+            "Theorem Proving"
+        ],
+        "course_tools": [
+            "Haskell"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "MSc",
+        "course_title": "Programming Paradigms",
+        "course_country": "Portugal"
+    },
+    {
+        "course_code": "",
         "course_institution": "Instituto Superior T\u00e9cnico (University of Lisbon)",
         "course_contact": "Jo\u00e3o F. Ferreira",
         "course_concepts": [
@@ -1340,6 +1364,7 @@ var concepts =
     "Programming Languages",
     "Proof Assistants",
     "Proof Of C Programs",
+    "Proof Theory",
     "Proofs",
     "Property-Based Testing",
     "Propositional Logic",
