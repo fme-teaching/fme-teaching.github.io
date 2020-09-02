@@ -689,14 +689,14 @@ var courses =
         "course_country": "Norway"
     },
     {
-        "": "TDA567",
+        "course_code": "TDA567",
         "course_institution": "Chalmers University",
         "course_contact": "Srinivas Pinisetty",
         "course_concepts": [
             "Formal Specification And Verification Of Code"
         ],
         "course_tools": [
-            "Daphny"
+            "Dafny"
         ],
         "course_webpage": "http://www.cse.chalmers.se/edu/year/2017/course/TDA567/index.html",
         "course_title": "Testing, Debugging, and Verification",
@@ -912,14 +912,15 @@ var courses =
         "course_country": "France"
     },
     {
-        "": "COM00012H",
+        "course_code": "COM00012H",
         "course_institution": "University of York",
         "course_contact": "Jeremy Jacob",
         "course_concepts": [
             "Model-Oriented (Z) & Process-Oriented (Csp) Specification & Refinement"
         ],
         "course_tools": [
-            "Czt; Fdr4"
+            "Czt",
+            "Fdr4"
         ],
         "course_webpage": "#",
         "course_year_level": "3",
@@ -1377,9 +1378,9 @@ var tools =
     "Checker Framework",
     "Coq",
     "Cpachecker",
-    "Czt; Fdr4",
+    "Czt",
     "Dafny",
-    "Daphny",
+    "Fdr4",
     "Frama-C",
     "Frama-C (Wp Plug-In)",
     "Gnat",
