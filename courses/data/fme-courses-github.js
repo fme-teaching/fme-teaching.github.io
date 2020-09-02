@@ -586,7 +586,7 @@ var courses =
             "Behavioural Modelling",
             "Reasoning About Processes",
             "Modal Logics (Modal Mu-Calculus)",
-            "Application To An Industrial Case Study."
+            "Applied Formal Methods"
         ],
         "course_tools": [
             "Mcrl2 (Www.Mcrl2.Org)"
@@ -1219,7 +1219,6 @@ var concepts =
     "Ada",
     "Aliasing Issues",
     "Alloy",
-    "Application To An Industrial Case Study.",
     "Applied Formal Methods",
     "Automated Reasoning",
     "Automation",
