@@ -777,7 +777,7 @@ var courses =
             "Smt"
         ],
         "course_tools": [
-            "Students Develop Small Abstract Interpreter",
+            "Student-Developed Small Abstract Interpreter",
             "Gnu Prolog",
             "Minisat",
             "Z3"
@@ -867,8 +867,7 @@ var courses =
             "Trio (A Metric Temporal Logic For Real-Time Systems). Case Studies."
         ],
         "course_tools": [
-            "Zot",
-            "A Local Model Checker."
+            "Zot"
         ],
         "course_webpage": "http://home.deib.polimi.it/mandriol/Didattica/sitofms.html",
         "course_title": "Formal methods for concurrent and real-time systems",
@@ -905,7 +904,7 @@ var courses =
             "Applied Formal Methods"
         ],
         "course_tools": [
-            "Many"
+            "Unknown"
         ],
         "course_webpage": "http://hecs.imag.fr",
         "course_year_level": "MSc",
@@ -1369,7 +1368,6 @@ var concepts =
 ]
 var tools = 
 [
-    "A Local Model Checker.",
     "Alloy",
     "Ampersand",
     "Antlr",
@@ -1396,7 +1394,6 @@ var tools =
     "Klee",
     "Krakatoa",
     "Logic Workbench",
-    "Many",
     "Maude",
     "Mcmas",
     "Mcrl2",
@@ -1413,7 +1410,7 @@ var tools =
     "Spin",
     "Spot",
     "Staruml",
-    "Students Develop Small Abstract Interpreter",
+    "Student-Developed Small Abstract Interpreter",
     "Unknown",
     "Uppaal",
     "Use",
