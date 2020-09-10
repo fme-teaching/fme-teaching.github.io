@@ -2,6 +2,27 @@ var courses =
 [
     {
         "course_code": "",
+        "course_institution": "University of Oxford",
+        "course_contact": "Andrew Simpson",
+        "course_concepts": [
+            "Deductive Proof",
+            "Formal Specification",
+            "Induction",
+            "Logic",
+            "Proofs",
+            "Specification",
+            "Z Method"
+        ],
+        "course_tools": [
+            "No Tools"
+        ],
+        "course_webpage": "https://www.cs.ox.ac.uk/softeng/subjects/SEM.html",
+        "course_year_level": "MSc",
+        "course_title": "Software Engineering Mathematics",
+        "course_country": "United Kingdom"
+    },
+    {
+        "course_code": "",
         "course_institution": "Universidade da Beira Interior",
         "course_contact": "Alexandra Mendes",
         "course_concepts": [
@@ -1414,7 +1435,8 @@ var concepts =
     "Various Notions Of Bisimilarity",
     "Verification",
     "Weakest Preconditions",
-    "Wp Calculus"
+    "Wp Calculus",
+    "Z Method"
 ]
 var tools = 
 [
