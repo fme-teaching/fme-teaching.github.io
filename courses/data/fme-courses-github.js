@@ -2,6 +2,25 @@ var courses =
 [
     {
         "course_code": "",
+        "course_institution": "Universidad Nacional de Rosario",
+        "course_contact": "Maximiliano Cristi\u00e1",
+        "course_concepts": [
+            "Formal Specification",
+            "Process Algebra",
+            "Temporal Logic",
+            "Z Method"
+        ],
+        "course_tools": [
+            "Tla",
+            "Z"
+        ],
+        "course_webpage": "https://www.fceia.unr.edu.ar/asist/index.html",
+        "course_year_level": "4",
+        "course_title": "Ingenier\u00eda de software 1",
+        "course_country": "Argentina"
+    },
+    {
+        "course_code": "",
         "course_institution": "University of Oxford",
         "course_contact": "Andrew Simpson",
         "course_concepts": [
@@ -1483,15 +1502,18 @@ var tools =
     "Spot",
     "Staruml",
     "Student-Developed Small Abstract Interpreter",
+    "Tla",
     "Unknown",
     "Uppaal",
     "Use",
     "Why3",
+    "Z",
     "Z3",
     "Zot"
 ]
 var countries = 
 [
+    "Argentina",
     "Australia",
     "Brazil",
     "France",
