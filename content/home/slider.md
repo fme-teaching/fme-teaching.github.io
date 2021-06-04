@@ -11,18 +11,18 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "FMTea 2019"
-  content = "Formal Methods Teaching Workshop and Tutorial, affiliated with FM 2019, 7 October 2019, Porto, Portugal"
+  title = "FMTea 2021"
+  content = "Formal Methods Teaching Workshop and Tutorial, affiliated with FM 2021, 21 November 2021, Online"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#fff"  # An HTML color value.
   overlay_img = "headers/audience.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
