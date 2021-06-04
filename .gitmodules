@@ -1,6 +1,3 @@
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/fme-teaching/hugo-academic-theme
 [submodule "public"]
 	path = public
 	url = https://github.com/fme-teaching/fme-teaching.github.io.git
