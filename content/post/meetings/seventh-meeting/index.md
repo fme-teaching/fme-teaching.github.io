@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: [Meetings]
-date: 2020/12/03
-lastmod: 2020/12/03
+date: 2020-12-03
+lastmod: 2020-12-03
 featured: false
 draft: false
 
