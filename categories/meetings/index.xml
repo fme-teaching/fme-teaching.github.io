@@ -1,255 +1,297 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Meetings | Formal Methods Teaching Committee</title>
-    <link>/categories/meetings/</link>
-      <atom:link href="/categories/meetings/index.xml" rel="self" type="application/rss+xml" />
-    <description>Meetings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/fme.png</url>
-      <title>Meetings</title>
-      <link>/categories/meetings/</link>
-    </image>
-    
-    <item>
-      <title>Sixth Meeting (2020/03/04)</title>
-      <link>/post/meetings/sixth-meeting/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/post/meetings/sixth-meeting/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Present at the meeting:&lt;/strong&gt; Klaus, Claudio, Rustan, Leila, Catherine, Graeme, Brijesh, Pierluigi, Luigia&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;On the agenda:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;FMTea workshop&lt;/li&gt;
-&lt;li&gt;Overview&lt;/li&gt;
-&lt;li&gt;What went well and what did not&lt;/li&gt;
-&lt;li&gt;Next edition?&lt;/li&gt;
-&lt;li&gt;COST Action application (deadline April 29)&lt;/li&gt;
-&lt;li&gt;Courses in the database&lt;/li&gt;
-&lt;li&gt;Courses database flyer for Formalise conf&lt;/li&gt;
-&lt;li&gt;Case studies&lt;/li&gt;
-&lt;li&gt;BoK&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Minutes&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;We discussed first the FMTea workshop, held in Porto in connection to FM’19, on October 7, 2019, as not all present at the meeting attended the event.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Great success&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Next edition planned at the next FM symposium (which is scheduled to be held in China: &lt;a href=&#34;http://formalmethods2021.csp.escience.cn/dct/page/1&#34;&gt;http://formalmethods2021.csp.escience.cn/dct/page/1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;45 people registered, many more attending at all times&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;22 papers submitted, 14 selected for publication, 3 posters&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Invited speaker: Carroll Morgan&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tutorial speakers: Tony Hoare, Felix Freiberger, Bas Luttik&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The morning talks (invited and tutorial) nicely complemented each other, with Felix and Bas discussing essentially online methods to enhance formal methods teaching and Carroll and Tony standing up for more well-established methods and practices of joyfully teaching the fundamentals of formal methods&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Workshop papers: grouped in 3 sessions, shortly presented (10  min each), then discussed in half-hour panels (one panel per session)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;We discussed the panel presentation approach that followed very short paper presentations&lt;/li&gt;
-&lt;li&gt;It was very interesting as an alternative and it saved our workshop
-&lt;ul&gt;
-&lt;li&gt;We did not expect so many submissions&lt;/li&gt;
-&lt;li&gt;It’s hard to reject papers at this type of workshop; what makes a teaching approach bad, that we would not like to hear about it? We have what to learn even from less successful experiences&lt;/li&gt;
-&lt;li&gt;We need more than two reviews per paper – two authors complained about this&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Next time though, maybe we allocate 2 days for the workshop&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;An alternative would be to only have the workshop and not the tutorial part, but we all agreed that we loved the tutorials as well, and we should keep going with them&lt;/li&gt;
-&lt;li&gt;With 2 days, we could afford to schedule 30 min per paper presentation&lt;/li&gt;
-&lt;li&gt;We’ll see closer to the workshop if we still need the panels 🡪 we could also have more general panels including more than 3-4 papers as we had now&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We did not discuss much the poster session; the chairs of the next workshop edition should ponder whether such session it’s needed. We added it more because of the “hard to reject” papers situation&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We discussed in some details the forthcoming COST application for funding. Here is a summary of these discussions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;COST is an European association for funding networking activities of 4-year projects that bring  together at least 7 COST countries&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Examples of activities funded
-&lt;ul&gt;
-&lt;li&gt;Training schools&lt;/li&gt;
-&lt;li&gt;Short term scientific visits (from 7 days to six months)&lt;/li&gt;
-&lt;li&gt;Conference organization and participation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;COST countries
-&lt;ul&gt;
-&lt;li&gt;essentially all European countries&lt;/li&gt;
-&lt;li&gt;split into research-challenged countries (ITC – inclusiveness target countries) and research-strong countries (non-ITC)&lt;/li&gt;
-&lt;li&gt;every project proposal has to contain 50% ITC countries&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;from each country, many participants can adhere&lt;/li&gt;
-&lt;li&gt;international partners are encouraged to participate
-&lt;ul&gt;
-&lt;li&gt;they do not get funded as the COST countries partners are&lt;/li&gt;
-&lt;li&gt;participants from the international partners can be funded if they are invited speakers&lt;/li&gt;
-&lt;li&gt;they can host visits from the other participants in the project&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The application is double blind, which makes a bit challenging: for instance, we have to argue we have a critical mass of participants to implement the project activities, without saying who we are&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We can assume about the reviewers that they are not formal methods specialists, so we need to write the application with this in mind&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A catalyst for a successful proposal is to demonstrate a high impact as well as a sustained focus on supporting early-career investigators (less than 8 years elapsed from their PhD degree)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The application consists on a 15-page document focusing on S/T excellence, Networking, Impact and Implementation. There are a few other online forms to fill in as well.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Deadline: 29 April&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The status of our application&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;16 countries
-&lt;ul&gt;
-&lt;li&gt;COST Countries (12): Cyprus , Czech Republic , Denmark , Estonia , Finland , France , Italy , Luxembourg , Norway , Portugal , Romania , United Kingdom&lt;/li&gt;
-&lt;li&gt;International Partner Country (4) : Australia , Brazil , Canada , United States&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;23 proposers (people)&lt;/li&gt;
-&lt;li&gt;ITC rate: 50% (Cyprus, Czech Republic, Estonia, Luxembourg, Portugal, Romania)&lt;/li&gt;
-&lt;li&gt;Gender distribution: 70% males, 30% females&lt;/li&gt;
-&lt;li&gt;Average number of years elapsed since PhD graduation: 20.6&lt;/li&gt;
-&lt;li&gt;Number of early career investigators: 3 (out of 23)&lt;/li&gt;
-&lt;li&gt;S/T excellence section written, and some Networking section parts&lt;/li&gt;
-&lt;li&gt;Link to Google file distributed so that people can comment and contribute&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We should extend our network, so if you know of people who are likely to enjoy joining us, please let Luigia know, so that an invitation is sent to them from the COST system&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Apparently an average COST action has 25 COST countries (although people can join also after the action starts)&lt;/li&gt;
-&lt;li&gt;We would anyway benefit from having more early career investigators&lt;/li&gt;
-&lt;li&gt;We need to keep the 50% balance with ITS countries&lt;/li&gt;
-&lt;li&gt;From this map you can see what countries are ITC (the green ones): &lt;a href=&#34;https://www.cost.eu/who-we-are/members/&#34;&gt;https://www.cost.eu/who-we-are/members/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The rest of the items on the agenda remained for a future meeting.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fifth Meeting (2019/10/06)</title>
-      <link>/post/meetings/fifth-meeting/</link>
-      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/meetings/fifth-meeting/</guid>
-      <description>&lt;p&gt;Present at the meeting: Catherine Dubois, Kristin Rozier, Alexandra Mendes, João Ferreira, Claudio Menghi, Klaus Havelund, Emil Sekerinski, Brijesh Dongol, Graeme Smith and Luigia Petre.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;We started by a round table introduction of everyone present&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;We briefly reviewed the slides previously distributed about the current vision of the application and the COST format&lt;/li&gt;
-&lt;li&gt;We checked the current version of the technical annex needed for submission (also previously distributed)&lt;/li&gt;
-&lt;li&gt;It might be the case that a new invitation will be sent for joining the application, since the network seems to have expired at the previous collection deadline (September 5)&lt;/li&gt;
-&lt;li&gt;We discussed the effort/benefit of pursuing the application, given that the acceptance rate is 11%. We agreed that this is about the rate of many serious funding foundations, and since the submission deadline is on April 29, we should be able to produce a successful application&lt;/li&gt;
-&lt;li&gt;The reviewing of the application will be performed by domain experts (in computer science/formal methods) but the decision is taken by science advisers from the European Commission, so we should make the impact clear&lt;/li&gt;
-&lt;li&gt;We need to propose measures/metrics that can quantify the success of our network. (A network has a timespan of 4 years). We thought about
-&lt;ul&gt;
-&lt;li&gt;the number of courses collected in the FME database (54 now)&lt;/li&gt;
-&lt;li&gt;the next editions of the FMTea workshop we had on Monday on formal methods teaching - it was a great success, 45 people registered, many more present at all times, 22 papers submitted and 14 accepted, 3 tutorials, an invited lecture (Carroll Morgan)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;At the same time, the main goal of a successful COST application is to show that the proposed network will increase an important scientific/technological aspect of society. We start with the Formal Methods Body-of-Knowledge idea, which is envisioned to lead to formal methods researchers meeting up and creating new material where needed, streamline and refine existing approaches, etc&lt;/li&gt;
-&lt;li&gt;We agreed that sometime in November we will start circulating a version of the proposal and brainstorming ideas.&lt;/li&gt;
-&lt;li&gt;We will create a Google repository with all resources we gathered so far.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We then discussed the adding of various resources to the FME Teaching repository (&lt;a href=&#34;https://fme-teaching.github.io&#34;&gt;https://fme-teaching.github.io&lt;/a&gt;), such as various tutorials given here during the FM week on various formal methods and tools as well as teaching resources for those of us who teach and need new ideas (midterms, exam questions, exercises, etc)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fourth Meeting (2019/04/02)</title>
-      <link>/post/meetings/fourth-meeting/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/post/meetings/fourth-meeting/</guid>
-      <description>&lt;p&gt;As we are all over the world, for some the (skype) meeting took place on April
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meetings | Formal Methods Teaching Committee</title><link>/categories/meetings/</link><atom:link href="/categories/meetings/index.xml" rel="self" type="application/rss+xml"/><description>Meetings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>/media/logo_hub96a365879c5829aace43d4a4da98a91_104111_300x300_fit_lanczos_2.png</url><title>Meetings</title><link>/categories/meetings/</link></image><item><title>Seventh Meeting (2020/12/03)</title><link>/2020/12/03/seventh-meeting-2020/12/03/</link><pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate><guid>/2020/12/03/seventh-meeting-2020/12/03/</guid><description>&lt;p>&lt;strong>Present at the meeting:&lt;/strong> Klaus, Claudio, Rustan, Leila, Catherine, Graeme, Brijesh, Pierluigi, Luigia&lt;/p>
+&lt;p>&lt;strong>On the agenda:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>FMTea workshop&lt;/li>
+&lt;li>Overview&lt;/li>
+&lt;li>What went well and what did not&lt;/li>
+&lt;li>Next edition?&lt;/li>
+&lt;li>COST Action application (deadline April 29)&lt;/li>
+&lt;li>Courses in the database&lt;/li>
+&lt;li>Courses database flyer for Formalise conf&lt;/li>
+&lt;li>Case studies&lt;/li>
+&lt;li>BoK&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Minutes&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>FMTea next edition&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Beijing, 20-21.11.2021&lt;/li>
+&lt;li>tutorial and workshop? 2 days maybe&lt;/li>
+&lt;li>one invited speaker can be funded by FME/organisers&lt;/li>
+&lt;li>we need one/some PC chairs&lt;/li>
+&lt;li>Feb 15 deadline for submitting proposal, March 15 notification&lt;/li>
+&lt;li>Alexandra and Joao next PC chairs! Claudio possibly joining!&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>COST application&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>abstract and technical annex&lt;/li>
+&lt;li>Evaluation Feedback Wednesday, May 26, 2021 @ 12:00 CET&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>Training school&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>May? June? second half of August?&lt;/li>
+&lt;li>we focus now on collecting online materials and create a repository online , linked from our webpages
+&lt;ul>
+&lt;li>TLA+ videos of Leslie Lamport: &lt;a href="http://lamport.azurewebsites.net/video/videos.html">http://lamport.azurewebsites.net/video/videos.html&lt;/a>&lt;/li>
+&lt;li>Rustan’s Verification corner (other videos?): &lt;a href="https://www.youtube.com/channel/UCP2eLEql4tROYmIYm5mA27A/videos">https://www.youtube.com/channel/UCP2eLEql4tROYmIYm5mA27A/videos&lt;/a>&lt;/li>
+&lt;li>Open JML (Graeme mentioned this)
+…&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>We come back to this issue in March, because FME has 2 deadlines for applying for funding – one in December and one in April&lt;/li>
+&lt;li>Kenji –&amp;gt; proposed to organise some training school connected with the FM symposium, addressing Asian industry?&lt;/li>
+&lt;li>we need to focus all these ideas a bit
+&lt;ul>
+&lt;li>what would the audience be?&lt;/li>
+&lt;li>what should we teach?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="4">
+&lt;li>Recording a lecture with your favourite formal method&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Luigia plans to record something with Event-B –&amp;gt; let’s see how it works&lt;/li>
+&lt;/ul>
+&lt;ol start="5">
+&lt;li>Collecting interesting info&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;a href="http://www.icse-conferences.org/mostinfluential.html">http://www.icse-conferences.org/mostinfluential.html&lt;/a> –&amp;gt; best paper awards at the relevant conferences, for instance&lt;/li>
+&lt;/ul>
+&lt;ol start="6">
+&lt;li>Body of Knowledge&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>starting points: SWEBoK (Software Engineering BoK): &lt;a href="https://software-engineering-handbook.com">https://software-engineering-handbook.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://link.springer.com/book/10.1007/978-3-030-44648-2:">https://link.springer.com/book/10.1007/978-3-030-44648-2:&lt;/a> On the construction of Engineering handbooks, by Stefan Gruner, Tom Maibaum and others; on railway domain, interlocks, etc&lt;/li>
+&lt;li>Kenji, here are your slides from 10 years ago 🙂 &lt;a href="https://drive.google.com/file/d/1wsOI-d_BHC0c3eqTF_1vRQooA5o7qokN/view?usp=sharing">https://drive.google.com/file/d/1wsOI-d_BHC0c3eqTF_1vRQooA5o7qokN/view?usp=sharing&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;ol start="7">
+&lt;li>Claudio’s FMTeaching brochure&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1wsOI-d_BHC0c3eqTF_1vRQooA5o7qokN/view?usp=sharing">https://drive.google.com/file/d/1wsOI-d_BHC0c3eqTF_1vRQooA5o7qokN/view?usp=sharing&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Sixth Meeting (2020/03/04)</title><link>/2020/03/04/sixth-meeting-2020/03/04/</link><pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate><guid>/2020/03/04/sixth-meeting-2020/03/04/</guid><description>&lt;p>&lt;strong>Present at the meeting:&lt;/strong> Klaus, Claudio, Rustan, Leila, Catherine, Graeme, Brijesh, Pierluigi, Luigia&lt;/p>
+&lt;p>&lt;strong>On the agenda:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>FMTea workshop&lt;/li>
+&lt;li>Overview&lt;/li>
+&lt;li>What went well and what did not&lt;/li>
+&lt;li>Next edition?&lt;/li>
+&lt;li>COST Action application (deadline April 29)&lt;/li>
+&lt;li>Courses in the database&lt;/li>
+&lt;li>Courses database flyer for Formalise conf&lt;/li>
+&lt;li>Case studies&lt;/li>
+&lt;li>BoK&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Minutes&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>We discussed first the FMTea workshop, held in Porto in connection to FM’19, on October 7, 2019, as not all present at the meeting attended the event.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Great success&lt;/p>
+&lt;ul>
+&lt;li>Next edition planned at the next FM symposium (which is scheduled to be held in China: &lt;a href="http://formalmethods2021.csp.escience.cn/dct/page/1">http://formalmethods2021.csp.escience.cn/dct/page/1&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>45 people registered, many more attending at all times&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>22 papers submitted, 14 selected for publication, 3 posters&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Invited speaker: Carroll Morgan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tutorial speakers: Tony Hoare, Felix Freiberger, Bas Luttik&lt;/p>
+&lt;ul>
+&lt;li>The morning talks (invited and tutorial) nicely complemented each other, with Felix and Bas discussing essentially online methods to enhance formal methods teaching and Carroll and Tony standing up for more well-established methods and practices of joyfully teaching the fundamentals of formal methods&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Workshop papers: grouped in 3 sessions, shortly presented (10 min each), then discussed in half-hour panels (one panel per session)&lt;/p>
+&lt;ul>
+&lt;li>We discussed the panel presentation approach that followed very short paper presentations&lt;/li>
+&lt;li>It was very interesting as an alternative and it saved our workshop
+&lt;ul>
+&lt;li>We did not expect so many submissions&lt;/li>
+&lt;li>It’s hard to reject papers at this type of workshop; what makes a teaching approach bad, that we would not like to hear about it? We have what to learn even from less successful experiences&lt;/li>
+&lt;li>We need more than two reviews per paper – two authors complained about this&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Next time though, maybe we allocate 2 days for the workshop&lt;/p>
+&lt;ul>
+&lt;li>An alternative would be to only have the workshop and not the tutorial part, but we all agreed that we loved the tutorials as well, and we should keep going with them&lt;/li>
+&lt;li>With 2 days, we could afford to schedule 30 min per paper presentation&lt;/li>
+&lt;li>We’ll see closer to the workshop if we still need the panels 🡪 we could also have more general panels including more than 3-4 papers as we had now&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>We did not discuss much the poster session; the chairs of the next workshop edition should ponder whether such session it’s needed. We added it more because of the “hard to reject” papers situation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>We discussed in some details the forthcoming COST application for funding. Here is a summary of these discussions:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>COST is an European association for funding networking activities of 4-year projects that bring together at least 7 COST countries&lt;/p>
+&lt;ul>
+&lt;li>Examples of activities funded
+&lt;ul>
+&lt;li>Training schools&lt;/li>
+&lt;li>Short term scientific visits (from 7 days to six months)&lt;/li>
+&lt;li>Conference organization and participation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>COST countries
+&lt;ul>
+&lt;li>essentially all European countries&lt;/li>
+&lt;li>split into research-challenged countries (ITC – inclusiveness target countries) and research-strong countries (non-ITC)&lt;/li>
+&lt;li>every project proposal has to contain 50% ITC countries&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>from each country, many participants can adhere&lt;/li>
+&lt;li>international partners are encouraged to participate
+&lt;ul>
+&lt;li>they do not get funded as the COST countries partners are&lt;/li>
+&lt;li>participants from the international partners can be funded if they are invited speakers&lt;/li>
+&lt;li>they can host visits from the other participants in the project&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>The application is double blind, which makes a bit challenging: for instance, we have to argue we have a critical mass of participants to implement the project activities, without saying who we are&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>We can assume about the reviewers that they are not formal methods specialists, so we need to write the application with this in mind&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>A catalyst for a successful proposal is to demonstrate a high impact as well as a sustained focus on supporting early-career investigators (less than 8 years elapsed from their PhD degree)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The application consists on a 15-page document focusing on S/T excellence, Networking, Impact and Implementation. There are a few other online forms to fill in as well.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deadline: 29 April&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The status of our application&lt;/p>
+&lt;ul>
+&lt;li>16 countries
+&lt;ul>
+&lt;li>COST Countries (12): Cyprus , Czech Republic , Denmark , Estonia , Finland , France , Italy , Luxembourg , Norway , Portugal , Romania , United Kingdom&lt;/li>
+&lt;li>International Partner Country (4) : Australia , Brazil , Canada , United States&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>23 proposers (people)&lt;/li>
+&lt;li>ITC rate: 50% (Cyprus, Czech Republic, Estonia, Luxembourg, Portugal, Romania)&lt;/li>
+&lt;li>Gender distribution: 70% males, 30% females&lt;/li>
+&lt;li>Average number of years elapsed since PhD graduation: 20.6&lt;/li>
+&lt;li>Number of early career investigators: 3 (out of 23)&lt;/li>
+&lt;li>S/T excellence section written, and some Networking section parts&lt;/li>
+&lt;li>Link to Google file distributed so that people can comment and contribute&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>We should extend our network, so if you know of people who are likely to enjoy joining us, please let Luigia know, so that an invitation is sent to them from the COST system&lt;/p>
+&lt;ul>
+&lt;li>Apparently an average COST action has 25 COST countries (although people can join also after the action starts)&lt;/li>
+&lt;li>We would anyway benefit from having more early career investigators&lt;/li>
+&lt;li>We need to keep the 50% balance with ITS countries&lt;/li>
+&lt;li>From this map you can see what countries are ITC (the green ones): &lt;a href="https://www.cost.eu/who-we-are/members/">https://www.cost.eu/who-we-are/members/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>The rest of the items on the agenda remained for a future meeting.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Fifth Meeting (2019/10/06)</title><link>/2019/10/08/fifth-meeting-2019/10/06/</link><pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate><guid>/2019/10/08/fifth-meeting-2019/10/06/</guid><description>&lt;p>Present at the meeting: Catherine Dubois, Kristin Rozier, Alexandra Mendes, João Ferreira, Claudio Menghi, Klaus Havelund, Emil Sekerinski, Brijesh Dongol, Graeme Smith and Luigia Petre.&lt;/p>
+&lt;ol>
+&lt;li>We started by a round table introduction of everyone present&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>We briefly reviewed the slides previously distributed about the current vision of the application and the COST format&lt;/li>
+&lt;li>We checked the current version of the technical annex needed for submission (also previously distributed)&lt;/li>
+&lt;li>It might be the case that a new invitation will be sent for joining the application, since the network seems to have expired at the previous collection deadline (September 5)&lt;/li>
+&lt;li>We discussed the effort/benefit of pursuing the application, given that the acceptance rate is 11%. We agreed that this is about the rate of many serious funding foundations, and since the submission deadline is on April 29, we should be able to produce a successful application&lt;/li>
+&lt;li>The reviewing of the application will be performed by domain experts (in computer science/formal methods) but the decision is taken by science advisers from the European Commission, so we should make the impact clear&lt;/li>
+&lt;li>We need to propose measures/metrics that can quantify the success of our network. (A network has a timespan of 4 years). We thought about
+&lt;ul>
+&lt;li>the number of courses collected in the FME database (54 now)&lt;/li>
+&lt;li>the next editions of the FMTea workshop we had on Monday on formal methods teaching - it was a great success, 45 people registered, many more present at all times, 22 papers submitted and 14 accepted, 3 tutorials, an invited lecture (Carroll Morgan)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>At the same time, the main goal of a successful COST application is to show that the proposed network will increase an important scientific/technological aspect of society. We start with the Formal Methods Body-of-Knowledge idea, which is envisioned to lead to formal methods researchers meeting up and creating new material where needed, streamline and refine existing approaches, etc&lt;/li>
+&lt;li>We agreed that sometime in November we will start circulating a version of the proposal and brainstorming ideas.&lt;/li>
+&lt;li>We will create a Google repository with all resources we gathered so far.&lt;/li>
+&lt;/ul>
+&lt;p>We then discussed the adding of various resources to the FME Teaching repository (&lt;a href="https://fme-teaching.github.io">https://fme-teaching.github.io&lt;/a>), such as various tutorials given here during the FM week on various formal methods and tools as well as teaching resources for those of us who teach and need new ideas (midterms, exam questions, exercises, etc)&lt;/p></description></item><item><title>Fourth Meeting (2019/04/02)</title><link>/2019/04/02/fourth-meeting-2019/04/02/</link><pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate><guid>/2019/04/02/fourth-meeting-2019/04/02/</guid><description>&lt;p>As we are all over the world, for some the (skype) meeting took place on April
 2nd and for some on April 3rd. Present at this meeting: Rustan Leino (US,
 Seattle), Catherine Dubois (France, Paris), Pierluigi Sanpietro (Italy,
 Milano), Luigia Petre (Finland, Turku), Kenji Taguchi (Japan, Kyoto), Graeme
-Smith (New Zealand).&lt;/p&gt;
-&lt;p&gt;Bernd Fisher stepped down the committee as he became head of his department at
-Stellenbosch University, in South Africa.&lt;/p&gt;
-&lt;p&gt;We had two points to discuss at this meeting:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The FMTea19 workshop webpage and call for papers (CfP), to be released soon&lt;/li&gt;
-&lt;li&gt;The course repository – future changes&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;point-1&#34;&gt;Point 1&lt;/h2&gt;
-&lt;p&gt;There were no suggestions for the webpage update, except to include the
-tutorial programme as  soon as we can. The tutorial program is quite stable at
-this point, having the following main structure:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Talk&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;9-10&lt;/td&gt;
-&lt;td&gt;Carroll Morgan (invited talk)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10-10.45&lt;/td&gt;
-&lt;td&gt;Tony Hoare (foundations talk)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10.45-11.15&lt;/td&gt;
-&lt;td&gt;Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11.15-12&lt;/td&gt;
-&lt;td&gt;Holger Hermanns (tutorial on teaching concurrency with pseuCo.com) &lt;a href=&#34;https://depend.cs.uni-saarland.de/~hermanns/,&#34;&gt;https://depend.cs.uni-saarland.de/~hermanns/,&lt;/a&gt; &lt;a href=&#34;https://pseuco.com/#/landing&#34;&gt;https://pseuco.com/#/landing&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12-12:45&lt;/td&gt;
-&lt;td&gt;Bas Luttik (tutorial on online teaching Logic and Set Theory) &lt;a href=&#34;https://www.win.tue.nl/~luttik/index.shtml&#34;&gt;https://www.win.tue.nl/~luttik/index.shtml&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Regarding the first paragraph of the CfP, Rustan suggested it is abit too
+Smith (New Zealand).&lt;/p>
+&lt;p>Bernd Fisher stepped down the committee as he became head of his department at
+Stellenbosch University, in South Africa.&lt;/p>
+&lt;p>We had two points to discuss at this meeting:&lt;/p>
+&lt;ol>
+&lt;li>The FMTea19 workshop webpage and call for papers (CfP), to be released soon&lt;/li>
+&lt;li>The course repository – future changes&lt;/li>
+&lt;/ol>
+&lt;h2 id="point-1">Point 1&lt;/h2>
+&lt;p>There were no suggestions for the webpage update, except to include the
+tutorial programme as soon as we can. The tutorial program is quite stable at
+this point, having the following main structure:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Time&lt;/th>
+&lt;th>Talk&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>9-10&lt;/td>
+&lt;td>Carroll Morgan (invited talk)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10-10.45&lt;/td>
+&lt;td>Tony Hoare (foundations talk)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10.45-11.15&lt;/td>
+&lt;td>Break&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11.15-12&lt;/td>
+&lt;td>Holger Hermanns (tutorial on teaching concurrency with pseuCo.com) &lt;a href="https://depend.cs.uni-saarland.de/~hermanns/,">https://depend.cs.uni-saarland.de/~hermanns/,&lt;/a> &lt;a href="https://pseuco.com/#/landing">https://pseuco.com/#/landing&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12-12:45&lt;/td>
+&lt;td>Bas Luttik (tutorial on online teaching Logic and Set Theory) &lt;a href="https://www.win.tue.nl/~luttik/index.shtml">https://www.win.tue.nl/~luttik/index.shtml&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Regarding the first paragraph of the CfP, Rustan suggested it is abit too
 gloomy, at least from the industry’s point of view. Graeme argued that the
 situation is however far from pink in universities. So Rustan wrote a new
-beginning of the CfP proposal, which at least I like very much.&lt;/p&gt;
-&lt;h3 id=&#34;old-version&#34;&gt;Old version:&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Teaching Formal Methods is an important aspect of the Formal Methods world, as
+beginning of the CfP proposal, which at least I like very much.&lt;/p>
+&lt;h3 id="old-version">Old version:&lt;/h3>
+&lt;blockquote>
+&lt;p>“Teaching Formal Methods is an important aspect of the Formal Methods world, as
 it invests in the future of Formal Methods (FM). However, in many universities
 around the world, Formal Methods courses have decreased in number and/or
 content, have been transformed into (smaller) postgraduate courses, or have
@@ -262,11 +304,11 @@ our lives.
 We need to find ways to teach Formal Methods to the next generation, but we
 obviously need to adapt our teaching to the 21st century’s students. We will
 explore these ideas in FMTea19, a combined workshop and tutorial associated
-with the 3rd World Congress on Formal Methods, FM2019.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;new-proposal&#34;&gt;New proposal:&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Formal Methods provide software engineering with tools and techniques for
+with the 3rd World Congress on Formal Methods, FM2019.”&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="new-proposal">New proposal:&lt;/h3>
+&lt;blockquote>
+&lt;p>“Formal Methods provide software engineering with tools and techniques for
 rigorously reasoning about the correctness of systems. While in recent years
 formal methods are increasingly being used in industry, university curricula
 are not adapting at the same pace. Some existing formal methods classes
@@ -277,336 +319,304 @@ students.
 FMTea19 is a combined workshop and tutorial at the 3rd World Congress on Formal
 Methods, FM2019. Its aim is to share experiences of teaching formal methods
 that have gone well, or that failed in surprising ways, as well as to develop
-ways to reboot the presence of formal methods in curricula.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;point-2&#34;&gt;Point 2&lt;/h2&gt;
-&lt;p&gt;About the course repository, the opinions were unanimous that we should choose
+ways to reboot the presence of formal methods in curricula.”&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="point-2">Point 2&lt;/h2>
+&lt;p>About the course repository, the opinions were unanimous that we should choose
 the format proposed by Alexandra and Joao. They have revived a 10-year old
 database of formal methods courses (117 courses) and discovered that only 20
-are still alive:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Old database: &lt;a href=&#34;https://jff.github.io/fme-teaching/courses_all/&#34;&gt;https://jff.github.io/fme-teaching/courses_all/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Only 20 courses out of 117 are still active: &lt;a href=&#34;https://jff.github.io/fme-teaching/courses_live/&#34;&gt;https://jff.github.io/fme-teaching/courses_live/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;They have also re-written our current repository in their format: &lt;a href=&#34;https://jff.github.io/fme-teaching/&#34;&gt;https://jff.github.io/fme-teaching/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The proposal is to move to this new format, but to find a way to add the
+are still alive:&lt;/p>
+&lt;ul>
+&lt;li>Old database: &lt;a href="https://jff.github.io/fme-teaching/courses_all/">https://jff.github.io/fme-teaching/courses_all/&lt;/a>&lt;/li>
+&lt;li>Only 20 courses out of 117 are still active: &lt;a href="https://jff.github.io/fme-teaching/courses_live/">https://jff.github.io/fme-teaching/courses_live/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>They have also re-written our current repository in their format: &lt;a href="https://jff.github.io/fme-teaching/">https://jff.github.io/fme-teaching/&lt;/a>&lt;/p>
+&lt;p>The proposal is to move to this new format, but to find a way to add the
 university, country and teaching year. We should also find a way of
 re-organizing the topics, as right now every course has its own topics
 basically. And we should be able to search based on everything (teacher,
-country, etc). If possible :-)&lt;/p&gt;
-&lt;p&gt;Graeme observed that, when clicking on the course taught by Jeff Sanders
+country, etc). If possible :-)&lt;/p>
+&lt;p>Graeme observed that, when clicking on the course taught by Jeff Sanders
 (Application Oriented Program Semantics), this leads to an alphabetical list of
 courses at Oxford. This course seems to have disappeared. The same with Domain
 theory. I have clicked on other Oxford courses and it’s the same: Lambda
 Calculus leads to the same alphabetical list of courses, and when searching for
 the course, I found that it’s not A. Ker who teaches it anymore, but somebody
-else who uses the lecture notes of A. Ker. The webpage for  “Formal Methods for
+else who uses the lecture notes of A. Ker. The webpage for “Formal Methods for
 Software Engineering” is also gone. So maybe we should check them once more.
 Finally, we should implement a way of checking annually if courses are still
 alive. Maybe collect all contacts in a group email, or something in that
-direction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Third Meeting (2018/11/06)</title>
-      <link>/post/meetings/third-meeting/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/post/meetings/third-meeting/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;New members Brijesh Dongol and Pierluigi San Pietro joined us and shortly introduced themselves.&lt;/li&gt;
-&lt;li&gt;We checked the current database of FM Courses that are now saved in Github as issues: &lt;a href=&#34;https://github.com/luigiapetre/Formal-Methods-Courses/issues&#34;&gt;https://github.com/luigiapetre/Formal-Methods-Courses/issues&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Graeme reminded that we agreed earlier to also have a repository for motivational papers - we agreed to set it up as a Github repo as well.&lt;/li&gt;
-&lt;li&gt;Luigia informed about the forthcoming Communication Committee at FME, to help with getting people to input their courses
-contact person: Claudio Menghi, &lt;a href=&#34;mailto:cla.menghi@gmail.com&#34;&gt;cla.menghi@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;We decided to send a proposal to organise a workshop+tutorial at the FME congress in Porto: &lt;a href=&#34;http://formalmethods2019.inesctec.pt&#34;&gt;http://formalmethods2019.inesctec.pt&lt;/a&gt; (in October 2019).&lt;/li&gt;
-&lt;li&gt;We brainstormed over applying for a COST Action to finance our actions, for instance the workshop at FME next year. As COST has a new policy to have at least half of the participants in a COST action to be from Inclusiveness Target Countries, we thought about possible partners in these countries.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;after-the-meeting&#34;&gt;After the meeting:&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The members lists on FME site and in Duda were updated.
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.fmeurope.org/2018/04/23/teaching-committee/&#34;&gt;http://www.fmeurope.org/2018/04/23/teaching-committee/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fmeteaching.dudaone.com/about&#34;&gt;https://fmeteaching.dudaone.com/about&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Plan: keep our more confidential docs on Google docs and the public ones on Duda&lt;/li&gt;
-&lt;li&gt;Make subgroups to tackle our other subtasks
-&lt;ul&gt;
-&lt;li&gt;BoK: Kenji and Luigia agreed to start working on this.&lt;/li&gt;
-&lt;li&gt;Case studies&lt;/li&gt;
-&lt;li&gt;Exam questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Second Meeting (2018/05/23)</title>
-      <link>/post/meetings/second-meeting/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      <guid>/post/meetings/second-meeting/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Welcome back!&lt;/strong&gt;
-This time Alexandra and Joao could not make it, otherwise everyone was in, despite the challenging hours. We had this meeting exactly three months after the first one. Thanks Kenji and Dino in particular for agreeing to join this slot, although not among their initial favourites.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;The github repository of FM courses.&lt;/strong&gt;
-We have thought on how to store our repository of courses. Dino and Bernd mentioned ResearchGate (&lt;a href=&#34;https://www.researchgate.net&#34;&gt;https://www.researchgate.net&lt;/a&gt;) and Researchr (&lt;a href=&#34;https://researchr.org/),&#34;&gt;https://researchr.org/),&lt;/a&gt; but in the end we agreed to give GitHub a try. GitHub is primarily a tool for storing and sharing code, but other repositories can be formed, for instance all the papers published on a topic, check the Github repository for reaction systems: &lt;a href=&#34;https://github.com/RS-Repo/library&#34;&gt;https://github.com/RS-Repo/library&lt;/a&gt;. The papers are now stored as “Issues”, and Rustan made a good point in that maybe we should investigate whether the Wiki menu is more appropriate. Bernd thought the “Issues” might offer better measurability. We agreed to investigate this.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Courses we found.&lt;/strong&gt;
-Graeme sent FM courses he uncovered in Australia and New Zealand. It’s quite nice to see our first courses collected! In particular, New Zealand seems strong! Graeme made these lists by individually emailing people he knew from a forum called “Formal Methods Australia” and from other sources. The response was great, and people commented on how teaching in Formal Methods decreased and how they are quite interested in our actions, wanting to follow and contribute if possible.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;FMBoK.&lt;/strong&gt;
-No new developments so far and we agreed we have to start from somewhere. Bernd proposed the ACM classification of terms (&lt;a href=&#34;http://delivery.acm.org/10.1145/2380000/2371137/ACMCCSTaxonomy.html?ip=105.226.111.82&amp;amp;id=2371137&amp;amp;acc=OPEN&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&amp;amp;__acm__=1527107802_08980bfd5d30a9c8c73731f196803528&#34;&gt;http://delivery.acm.org/10.1145/2380000/2371137/ACMCCSTaxonomy.html?ip=105.226.111.82&amp;amp;id=2371137&amp;amp;acc=OPEN&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&amp;amp;__acm__=1527107802_08980bfd5d30a9c8c73731f196803528&lt;/a&gt;) also check this link &lt;a href=&#34;https://www.acm.org/about-acm/class&#34;&gt;https://www.acm.org/about-acm/class&lt;/a&gt;. We should also check the FMBoK efforts of Jonathan Bowen, Kenji Taguchi and others, sent as links and references in a previous email. I re-attach the file to this email for easier handling. We could also check the Software Engineering BoK for reference.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Other advances on repositories.&lt;/strong&gt;
+direction.&lt;/p></description></item><item><title>Third Meeting (2018/11/06)</title><link>/2018/11/06/third-meeting-2018/11/06/</link><pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate><guid>/2018/11/06/third-meeting-2018/11/06/</guid><description>&lt;ol>
+&lt;li>New members Brijesh Dongol and Pierluigi San Pietro joined us and shortly introduced themselves.&lt;/li>
+&lt;li>We checked the current database of FM Courses that are now saved in Github as issues: &lt;a href="https://github.com/luigiapetre/Formal-Methods-Courses/issues">https://github.com/luigiapetre/Formal-Methods-Courses/issues&lt;/a>&lt;/li>
+&lt;li>Graeme reminded that we agreed earlier to also have a repository for motivational papers - we agreed to set it up as a Github repo as well.&lt;/li>
+&lt;li>Luigia informed about the forthcoming Communication Committee at FME, to help with getting people to input their courses
+contact person: Claudio Menghi, &lt;a href="mailto:cla.menghi@gmail.com">cla.menghi@gmail.com&lt;/a>&lt;/li>
+&lt;li>We decided to send a proposal to organise a workshop+tutorial at the FME congress in Porto: &lt;a href="http://formalmethods2019.inesctec.pt">http://formalmethods2019.inesctec.pt&lt;/a> (in October 2019).&lt;/li>
+&lt;li>We brainstormed over applying for a COST Action to finance our actions, for instance the workshop at FME next year. As COST has a new policy to have at least half of the participants in a COST action to be from Inclusiveness Target Countries, we thought about possible partners in these countries.&lt;/li>
+&lt;/ol>
+&lt;h2 id="after-the-meeting">After the meeting:&lt;/h2>
+&lt;ol>
+&lt;li>The members lists on FME site and in Duda were updated.
+&lt;ul>
+&lt;li>&lt;a href="http://www.fmeurope.org/2018/04/23/teaching-committee/">http://www.fmeurope.org/2018/04/23/teaching-committee/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://fmeteaching.dudaone.com/about">https://fmeteaching.dudaone.com/about&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Plan: keep our more confidential docs on Google docs and the public ones on Duda&lt;/li>
+&lt;li>Make subgroups to tackle our other subtasks
+&lt;ul>
+&lt;li>BoK: Kenji and Luigia agreed to start working on this.&lt;/li>
+&lt;li>Case studies&lt;/li>
+&lt;li>Exam questions&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol></description></item><item><title>Second Meeting (2018/05/23)</title><link>/2018/05/23/second-meeting-2018/05/23/</link><pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate><guid>/2018/05/23/second-meeting-2018/05/23/</guid><description>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Welcome back!&lt;/strong>
+This time Alexandra and Joao could not make it, otherwise everyone was in, despite the challenging hours. We had this meeting exactly three months after the first one. Thanks Kenji and Dino in particular for agreeing to join this slot, although not among their initial favourites.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>The github repository of FM courses.&lt;/strong>
+We have thought on how to store our repository of courses. Dino and Bernd mentioned ResearchGate (&lt;a href="https://www.researchgate.net">https://www.researchgate.net&lt;/a>) and Researchr (&lt;a href="https://researchr.org/),">https://researchr.org/),&lt;/a> but in the end we agreed to give GitHub a try. GitHub is primarily a tool for storing and sharing code, but other repositories can be formed, for instance all the papers published on a topic, check the Github repository for reaction systems: &lt;a href="https://github.com/RS-Repo/library">https://github.com/RS-Repo/library&lt;/a>. The papers are now stored as “Issues”, and Rustan made a good point in that maybe we should investigate whether the Wiki menu is more appropriate. Bernd thought the “Issues” might offer better measurability. We agreed to investigate this.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Courses we found.&lt;/strong>
+Graeme sent FM courses he uncovered in Australia and New Zealand. It’s quite nice to see our first courses collected! In particular, New Zealand seems strong! Graeme made these lists by individually emailing people he knew from a forum called “Formal Methods Australia” and from other sources. The response was great, and people commented on how teaching in Formal Methods decreased and how they are quite interested in our actions, wanting to follow and contribute if possible.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>FMBoK.&lt;/strong>
+No new developments so far and we agreed we have to start from somewhere. Bernd proposed the ACM classification of terms (&lt;a href="http://delivery.acm.org/10.1145/2380000/2371137/ACMCCSTaxonomy.html?ip=105.226.111.82&amp;amp;id=2371137&amp;amp;acc=OPEN&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&amp;amp;__acm__=1527107802_08980bfd5d30a9c8c73731f196803528">http://delivery.acm.org/10.1145/2380000/2371137/ACMCCSTaxonomy.html?ip=105.226.111.82&amp;amp;id=2371137&amp;amp;acc=OPEN&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&amp;amp;__acm__=1527107802_08980bfd5d30a9c8c73731f196803528&lt;/a>) also check this link &lt;a href="https://www.acm.org/about-acm/class">https://www.acm.org/about-acm/class&lt;/a>. We should also check the FMBoK efforts of Jonathan Bowen, Kenji Taguchi and others, sent as links and references in a previous email. I re-attach the file to this email for easier handling. We could also check the Software Engineering BoK for reference.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Other advances on repositories.&lt;/strong>
 Not yet.
-In addition to what we agreed to store in repos last time though (case studies, simpler and more complex and exam questions), Graeme pointed out that resources on how to teach formal methods are quite valuable as well. A first paper to check on this topic was “(In)formal methods: the lost art” by Carroll Morgan, 2016, link here:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;@inproceedings{DBLP:conf/setss/Morgan14,
-  author = {Carroll Morgan},
-  title = {(In-)Formal Methods: The Lost Art - {A} Users&#39; Manual},
-  booktitle = {Engineering Trustworthy Software Systems - First International School,
-               {SETSS} 2014, Chongqing, China, September 8-13, 2014. Tutorial Lectures},
-  pages = {1--79},
-  year = {2014},
-  crossref = {DBLP:conf/setss/2014},
-  url = {https://doi.org/10.1007/978-3-319-29628-9_1},
-  doi = {10.1007/978-3-319-29628-9_1},
-  timestamp = {Wed, 17 May 2017 14:24:31 +0200},
-  biburl = {https://dblp.org/rec/bib/conf/setss/Morgan14},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+In addition to what we agreed to store in repos last time though (case studies, simpler and more complex and exam questions), Graeme pointed out that resources on how to teach formal methods are quite valuable as well. A first paper to check on this topic was “(In)formal methods: the lost art” by Carroll Morgan, 2016, link here:&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;pre>&lt;code>@inproceedings{DBLP:conf/setss/Morgan14,
+author = {Carroll Morgan},
+title = {(In-)Formal Methods: The Lost Art - {A} Users' Manual},
+booktitle = {Engineering Trustworthy Software Systems - First International School,
+{SETSS} 2014, Chongqing, China, September 8-13, 2014. Tutorial Lectures},
+pages = {1--79},
+year = {2014},
+crossref = {DBLP:conf/setss/2014},
+url = {https://doi.org/10.1007/978-3-319-29628-9_1},
+doi = {10.1007/978-3-319-29628-9_1},
+timestamp = {Wed, 17 May 2017 14:24:31 +0200},
+biburl = {https://dblp.org/rec/bib/conf/setss/Morgan14},
+bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;There is/was? also a course: &lt;a href=&#34;http://www.cse.unsw.edu.au/~cs6721/&#34;&gt;http://www.cse.unsw.edu.au/~cs6721/&lt;/a&gt;.&lt;/p&gt;
-&lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Some common doc storage for us.&lt;/strong&gt;
-We agreed on GoogleDocs, at least for the time being.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Other issues.&lt;/strong&gt;
-The issue of taking advantage of the Formal Methods community arose and we discussed how we can obtain info on FM courses from people we will anyway meet at FM conference in Oxford, at Formalise in Götenborg, Sweden, at ABZ in Southampton, etc. We agreed that maybe we ask the chairs to inform participants of our committee and to create some handouts for people to fill in wrt FM courses they know about. Rustan made a good point that it is interesting to see how FM teaching evolves over time, for instance to also ask questions like “what tool do you use to teach model checking”.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Next steps.&lt;/strong&gt;
-This is how we continue.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Luigia creates a repository in github and adds the courses sent by Graeme there. We then think whether we are happy with this storing mechanism or not.&lt;/li&gt;
-&lt;li&gt;We all check the ACM classification and the previous work on FMBoK and come up with proposals on how to revive this initiative.&lt;/li&gt;
-&lt;li&gt;Luigia copies all our materials to GoogleDocs and so we’ll have a sharing mechanism&lt;/li&gt;
-&lt;li&gt;We make a format for what to ask people about (in emails or in handouts at conferences) wrt FM courses&lt;/li&gt;
-&lt;li&gt;We meet again in September, Luigia sends Doodle poll at the end of August&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>First Meeting (2018/02/23)</title>
-      <link>/post/meetings/first-meeting/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/post/meetings/first-meeting/</guid>
-      <description>&lt;h2 id=&#34;february-23-24-2018-fme-teaching-committee-first-meeting-agenda-and-references&#34;&gt;February 23-24, 2018, FME Teaching Committee, first meeting: Agenda and references&lt;/h2&gt;
-&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Welcome and introductions&lt;/li&gt;
-&lt;li&gt;What does Teaching FM will focus on?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Database of courses&lt;/li&gt;
-&lt;li&gt;Resources&lt;/li&gt;
-&lt;li&gt;BoK (body of knowledge)&lt;/li&gt;
-&lt;li&gt;Examples/Case Studies repositories&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Short term goals&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Database of formal methods courses&lt;/li&gt;
-&lt;li&gt;What is a formal methods course&lt;/li&gt;
-&lt;li&gt;Format of database (pointers to courses, not content)&lt;/li&gt;
-&lt;li&gt;Assign person(s) to design the database and maintain it on some webpage, should be yearly updated and made available to FME&lt;/li&gt;
-&lt;li&gt;Some deadline for all of us populating it with what we know of so far (May-June 2018?)&lt;/li&gt;
-&lt;li&gt;Some kind of presence at the FM Conference this year? Workshop chairs: Maurice ter Beek, CNR/ISTI, IT and Helen Treharne, University of Surrey, UK&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;Improve the teaching of FM&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;MOOC courses?&lt;/li&gt;
-&lt;li&gt;Database of formal methods case studies&lt;/li&gt;
-&lt;li&gt;There are databases/repositories for software: GitHub&lt;/li&gt;
-&lt;li&gt;There are databases/repositories for biological models: BioModels&lt;/li&gt;
-&lt;li&gt;Are there any such repositories for formal models? Archive of Formal Proofs (for Isabelle)&lt;/li&gt;
-&lt;li&gt;Body of Knowledge&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Coordinate the FM education of researchers&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;If someone needs a course on some method, connect teachers with respective researchers&lt;/li&gt;
-&lt;li&gt;organize seasonal schools on FM; is Marktoberdorf “the” current FM school? what other schools are there, if?&lt;/li&gt;
-&lt;li&gt;apply for some mobility funding for researchers to travel in order to get familiar with some method&lt;/li&gt;
-&lt;li&gt;organize some MSc program in FM, with the graduated getting a FME badge/certification&lt;/li&gt;
-&lt;li&gt;if some requirements are met?&lt;/li&gt;
-&lt;li&gt;what about teachers? can they earn badges in what they are teaching and if yes, what should be the criteria?&lt;/li&gt;
-&lt;li&gt;if we find there’s interest, we could later transform this into a PhD program&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;Make industry and life sciences beneficiaries of FM&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;provide case studies from Academia to Industry/Science to demonstrate potential&lt;/li&gt;
-&lt;li&gt;get interesting/real life problems to analyse from Industry/Science to Academia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;old Subgroup of Education &lt;a href=&#34;http://www4.di.uminho.pt/FME-SoE/index.html&#34;&gt;http://www4.di.uminho.pt/FME-SoE/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;the course list compiled up to 2004, &lt;a href=&#34;http://www4.di.uminho.pt/FME-SoE/resources.html&#34;&gt;http://www4.di.uminho.pt/FME-SoE/resources.html&lt;/a&gt; by Jose Nuno Oliveira: &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-30472-2_16&#34;&gt;https://link.springer.com/chapter/10.1007/978-3-540-30472-2_16&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;FME members suggest (there was a survey)
-&lt;ul&gt;
-&lt;li&gt;FME could try to have more political involvement with respect to the education systems in Europe to raise concern about the importance of giving, at least, one full mandatory course on FM in every undergraduate curricula.&lt;/li&gt;
-&lt;li&gt;Maybe organising an informal event like ”Fun with Formal Methods”: &lt;a href=&#34;http://www.iis.nsk.su/fwfm2013&#34;&gt;http://www.iis.nsk.su/fwfm2013&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Formal Methods BoK: &lt;a href=&#34;http://formalmethods.wikia.com/wiki/FMBoK&#34;&gt;http://formalmethods.wikia.com/wiki/FMBoK&lt;/a&gt; (maintained by Jonathan Bowen)&lt;/li&gt;
-&lt;li&gt;References collected by Kenji Taguchi with respect to BoK on FM:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; References &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/p&gt;
-&lt;p&gt;[1] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), “Preface Special Issue on Formal Methods Education and Training”, ACM SIGCSE Bulletin inroads, vol. 41, issue 2, June, pp14-16 (2009)&lt;/p&gt;
-&lt;p&gt;[2] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), &amp;ldquo;Proceedings of the First International Workshop on Formal Methods Education and Training&amp;rdquo; Technical Report GRACE-TR-2008-03, Grace Center, National Institute of Informatics (2008)
-Note: &amp;ldquo;XXX education and training&amp;rdquo; is a conventional naming of conferences/workshops on education in Software Engineering (e.g., CSEE&amp;amp;T (Software Engineering Education and Training). I preferred this rather than &amp;ldquo;Teaching Formal Methods&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;[3] H. Nishihara, K. Shinozaki, K. Hayamizu, T. Aoki, K. Taguchi, F. Kumeno, “Model Checking Education for Software Engineers in Japan”, in ACM SIGCSE Bulletin inroads, vol 41, issue 2, June, pp45-50 (2009)&lt;/p&gt;
-&lt;p&gt;[4] K. Taguchi, H. Nishihara, T. Aoki, F. Kumeno, K. Hayamizu, K. Shinozaki, “Building a Body of Knowledge on Model Checking for Software Development”, in Proceedings of COMPSAC ’13, pp784-789, IEEE (2013)
-[5] F. Ishikawa, K. Taguchi, N. Yoshioka, S. Honiden, “What Top-Level Engineers Tackle after Learning Formal Methods –Experiences from the Top SE Project”, in Proceedings of Teaching Formal Methods (TFM) ’09, Eindhoven (2009)&lt;/p&gt;
-&lt;p&gt;[6] C. Artho, K. Taguchi, Y. Tahara, S. Honiden, Y. Tanabe, “Teaching Software Model Checking” Proceedings in Formal Methods in Computer Science Education (FORMED) ’08, pp171-179, Budapest (2008)&lt;/p&gt;
-&lt;p&gt;[7] S. Honiden, Y. Tahara, N. Yoshioka, K. Taguchi, H. Washizaki, “TopSE: Educating Superarchitects Who Can Apply Software Engineering Tools to Practical Development in Japan”, in Proceedings of IEEE/ACM International Conference on Software Engineering (ICSE) ’07, pp708-718, Minneapolis (2007)
-Note: ICSE traditionally has a session on education. This paper appeared in the session.&lt;/p&gt;
-&lt;p&gt;[8] J. Bowen, S. Reeves: From a Community of Practice to a Body of Knowledge: A Case Study of the Formal Methods Community. FM 2011: 308-322&lt;/p&gt;
-&lt;p&gt;[9] S. Gruner, A. Kumar, T. Maibaum: Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge. FTSCS 2015: 87-102&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;minutes&#34;&gt;Minutes&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;We introduced ourselves.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Luigia Petre
-&lt;ul&gt;
-&lt;li&gt;Working with Action Systems and Event-B at Åbo Akademi University in Turku, Finland. Currently on sabbatical at University of South Florida in Tampa, US. Originally from Romania. Been involved in organising several formal methods conferences. In the process of changing my teaching profile, but have taught before courses on Software Architecture, Networks, Approximation and Randomised Algorithms. Interested in integrating formal methods.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Rustan Leino&lt;/li&gt;
-&lt;li&gt;Leila Ribeiro&lt;/li&gt;
-&lt;li&gt;Alexandra Mendes&lt;/li&gt;
-&lt;li&gt;Joao Ferreira&lt;/li&gt;
-&lt;li&gt;Catherine Dubois
-&lt;ul&gt;
-&lt;li&gt;I work at ENSIIE, a computer science engeneering school in France, near Paris. My research topics concern deductive formal methods and currently I am very much i interested in interoperability of provers.
+&lt;/code>&lt;/pre>&lt;p>There is/was? also a course: &lt;a href="http://www.cse.unsw.edu.au/~cs6721/">http://www.cse.unsw.edu.au/~cs6721/&lt;/a>.&lt;/p>
+&lt;ol start="6">
+&lt;li>
+&lt;p>&lt;strong>Some common doc storage for us.&lt;/strong>
+We agreed on GoogleDocs, at least for the time being.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Other issues.&lt;/strong>
+The issue of taking advantage of the Formal Methods community arose and we discussed how we can obtain info on FM courses from people we will anyway meet at FM conference in Oxford, at Formalise in Götenborg, Sweden, at ABZ in Southampton, etc. We agreed that maybe we ask the chairs to inform participants of our committee and to create some handouts for people to fill in wrt FM courses they know about. Rustan made a good point that it is interesting to see how FM teaching evolves over time, for instance to also ask questions like “what tool do you use to teach model checking”.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Next steps.&lt;/strong>
+This is how we continue.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Luigia creates a repository in github and adds the courses sent by Graeme there. We then think whether we are happy with this storing mechanism or not.&lt;/li>
+&lt;li>We all check the ACM classification and the previous work on FMBoK and come up with proposals on how to revive this initiative.&lt;/li>
+&lt;li>Luigia copies all our materials to GoogleDocs and so we’ll have a sharing mechanism&lt;/li>
+&lt;li>We make a format for what to ask people about (in emails or in handouts at conferences) wrt FM courses&lt;/li>
+&lt;li>We meet again in September, Luigia sends Doodle poll at the end of August&amp;hellip;&lt;/li>
+&lt;/ul></description></item><item><title>First Meeting (2018/02/23)</title><link>/2018/02/23/first-meeting-2018/02/23/</link><pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate><guid>/2018/02/23/first-meeting-2018/02/23/</guid><description>&lt;h2 id="february-23-24-2018-fme-teaching-committee-first-meeting-agenda-and-references">February 23-24, 2018, FME Teaching Committee, first meeting: Agenda and references&lt;/h2>
+&lt;h3 id="agenda">Agenda&lt;/h3>
+&lt;ol>
+&lt;li>Welcome and introductions&lt;/li>
+&lt;li>What does Teaching FM will focus on?&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Database of courses&lt;/li>
+&lt;li>Resources&lt;/li>
+&lt;li>BoK (body of knowledge)&lt;/li>
+&lt;li>Examples/Case Studies repositories&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>Short term goals&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Database of formal methods courses&lt;/li>
+&lt;li>What is a formal methods course&lt;/li>
+&lt;li>Format of database (pointers to courses, not content)&lt;/li>
+&lt;li>Assign person(s) to design the database and maintain it on some webpage, should be yearly updated and made available to FME&lt;/li>
+&lt;li>Some deadline for all of us populating it with what we know of so far (May-June 2018?)&lt;/li>
+&lt;li>Some kind of presence at the FM Conference this year? Workshop chairs: Maurice ter Beek, CNR/ISTI, IT and Helen Treharne, University of Surrey, UK&lt;/li>
+&lt;/ul>
+&lt;ol start="4">
+&lt;li>Improve the teaching of FM&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>MOOC courses?&lt;/li>
+&lt;li>Database of formal methods case studies&lt;/li>
+&lt;li>There are databases/repositories for software: GitHub&lt;/li>
+&lt;li>There are databases/repositories for biological models: BioModels&lt;/li>
+&lt;li>Are there any such repositories for formal models? Archive of Formal Proofs (for Isabelle)&lt;/li>
+&lt;li>Body of Knowledge&lt;/li>
+&lt;/ul>
+&lt;ol start="5">
+&lt;li>Coordinate the FM education of researchers&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>If someone needs a course on some method, connect teachers with respective researchers&lt;/li>
+&lt;li>organize seasonal schools on FM; is Marktoberdorf “the” current FM school? what other schools are there, if?&lt;/li>
+&lt;li>apply for some mobility funding for researchers to travel in order to get familiar with some method&lt;/li>
+&lt;li>organize some MSc program in FM, with the graduated getting a FME badge/certification&lt;/li>
+&lt;li>if some requirements are met?&lt;/li>
+&lt;li>what about teachers? can they earn badges in what they are teaching and if yes, what should be the criteria?&lt;/li>
+&lt;li>if we find there’s interest, we could later transform this into a PhD program&lt;/li>
+&lt;/ul>
+&lt;ol start="6">
+&lt;li>Make industry and life sciences beneficiaries of FM&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>provide case studies from Academia to Industry/Science to demonstrate potential&lt;/li>
+&lt;li>get interesting/real life problems to analyse from Industry/Science to Academia&lt;/li>
+&lt;/ul>
+&lt;h3 id="references">References&lt;/h3>
+&lt;ul>
+&lt;li>old Subgroup of Education &lt;a href="http://www4.di.uminho.pt/FME-SoE/index.html">http://www4.di.uminho.pt/FME-SoE/index.html&lt;/a>&lt;/li>
+&lt;li>the course list compiled up to 2004, &lt;a href="http://www4.di.uminho.pt/FME-SoE/resources.html">http://www4.di.uminho.pt/FME-SoE/resources.html&lt;/a> by Jose Nuno Oliveira: &lt;a href="https://link.springer.com/chapter/10.1007/978-3-540-30472-2_16">https://link.springer.com/chapter/10.1007/978-3-540-30472-2_16&lt;/a>&lt;/li>
+&lt;li>FME members suggest (there was a survey)
+&lt;ul>
+&lt;li>FME could try to have more political involvement with respect to the education systems in Europe to raise concern about the importance of giving, at least, one full mandatory course on FM in every undergraduate curricula.&lt;/li>
+&lt;li>Maybe organising an informal event like ”Fun with Formal Methods”: &lt;a href="http://www.iis.nsk.su/fwfm2013">http://www.iis.nsk.su/fwfm2013&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Formal Methods BoK: &lt;a href="http://formalmethods.wikia.com/wiki/FMBoK">http://formalmethods.wikia.com/wiki/FMBoK&lt;/a> (maintained by Jonathan Bowen)&lt;/li>
+&lt;li>References collected by Kenji Taguchi with respect to BoK on FM:&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; References &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/p>
+&lt;p>[1] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), “Preface Special Issue on Formal Methods Education and Training”, ACM SIGCSE Bulletin inroads, vol. 41, issue 2, June, pp14-16 (2009)&lt;/p>
+&lt;p>[2] J. Davies, J. Gibbons, M. Hinchey and K. Taguchi (editors), &amp;ldquo;Proceedings of the First International Workshop on Formal Methods Education and Training&amp;rdquo; Technical Report GRACE-TR-2008-03, Grace Center, National Institute of Informatics (2008)
+Note: &amp;ldquo;XXX education and training&amp;rdquo; is a conventional naming of conferences/workshops on education in Software Engineering (e.g., CSEE&amp;amp;T (Software Engineering Education and Training). I preferred this rather than &amp;ldquo;Teaching Formal Methods&amp;rdquo;.&lt;/p>
+&lt;p>[3] H. Nishihara, K. Shinozaki, K. Hayamizu, T. Aoki, K. Taguchi, F. Kumeno, “Model Checking Education for Software Engineers in Japan”, in ACM SIGCSE Bulletin inroads, vol 41, issue 2, June, pp45-50 (2009)&lt;/p>
+&lt;p>[4] K. Taguchi, H. Nishihara, T. Aoki, F. Kumeno, K. Hayamizu, K. Shinozaki, “Building a Body of Knowledge on Model Checking for Software Development”, in Proceedings of COMPSAC ’13, pp784-789, IEEE (2013)
+[5] F. Ishikawa, K. Taguchi, N. Yoshioka, S. Honiden, “What Top-Level Engineers Tackle after Learning Formal Methods –Experiences from the Top SE Project”, in Proceedings of Teaching Formal Methods (TFM) ’09, Eindhoven (2009)&lt;/p>
+&lt;p>[6] C. Artho, K. Taguchi, Y. Tahara, S. Honiden, Y. Tanabe, “Teaching Software Model Checking” Proceedings in Formal Methods in Computer Science Education (FORMED) ’08, pp171-179, Budapest (2008)&lt;/p>
+&lt;p>[7] S. Honiden, Y. Tahara, N. Yoshioka, K. Taguchi, H. Washizaki, “TopSE: Educating Superarchitects Who Can Apply Software Engineering Tools to Practical Development in Japan”, in Proceedings of IEEE/ACM International Conference on Software Engineering (ICSE) ’07, pp708-718, Minneapolis (2007)
+Note: ICSE traditionally has a session on education. This paper appeared in the session.&lt;/p>
+&lt;p>[8] J. Bowen, S. Reeves: From a Community of Practice to a Body of Knowledge: A Case Study of the Formal Methods Community. FM 2011: 308-322&lt;/p>
+&lt;p>[9] S. Gruner, A. Kumar, T. Maibaum: Towards a Body of Knowledge in Formal Methods for the Railway Domain: Identification of Settled Knowledge. FTSCS 2015: 87-102&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="minutes">Minutes&lt;/h2>
+&lt;ol>
+&lt;li>We introduced ourselves.&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Luigia Petre
+&lt;ul>
+&lt;li>Working with Action Systems and Event-B at Åbo Akademi University in Turku, Finland. Currently on sabbatical at University of South Florida in Tampa, US. Originally from Romania. Been involved in organising several formal methods conferences. In the process of changing my teaching profile, but have taught before courses on Software Architecture, Networks, Approximation and Randomised Algorithms. Interested in integrating formal methods.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Rustan Leino&lt;/li>
+&lt;li>Leila Ribeiro&lt;/li>
+&lt;li>Alexandra Mendes&lt;/li>
+&lt;li>Joao Ferreira&lt;/li>
+&lt;li>Catherine Dubois
+&lt;ul>
+&lt;li>I work at ENSIIE, a computer science engeneering school in France, near Paris. My research topics concern deductive formal methods and currently I am very much i interested in interoperability of provers.
 I teach formal methods in different courses.
 The first course is a brief introduction to reasoning about programs (Hoare logic, Frama-C WP), the rest of the course being about testing. A second course (42 hours) is about B and refinement and application to security (access control policies). And a last course (again 42 hours) concerns Coq, type theory and formal semantics.
-I also teach an introduction to abstract interpretation in a master course.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dino Mandrioli
-&lt;ul&gt;
-&lt;li&gt;I am at Politcnico di Milano
+I also teach an introduction to abstract interpretation in a master course.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Dino Mandrioli
+&lt;ul>
+&lt;li>I am at Politcnico di Milano
 I teach a basic course on theoretical computer science and algorihms (automata, languages, computatbility, complexity, fundamental algorithms) at the undergraduate level and a Formal methods for concurrent and real-time systems one (Hoare method, timed Petri nets, logic proofs, industrial case studies) for graduate students.
-As for research, my group developed the logic language TRIO for the specificaion and verification of real-time systems and applied it in various industrial cooperations. Recently, we addressed our efforts towards innnovative techniques to empower model checking.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Bernd Fisher&lt;/li&gt;
-&lt;li&gt;Kenji Taguchi&lt;/li&gt;
-&lt;li&gt;Graeme Smith
-&lt;ul&gt;
-&lt;li&gt;I work at the University of Queensland, Australia. I currently research in the area of formal verification of concurrent programs, and have an ongoing collaboration with John Derrick at the University of Sheffield, UK.
+As for research, my group developed the logic language TRIO for the specificaion and verification of real-time systems and applied it in various industrial cooperations. Recently, we addressed our efforts towards innnovative techniques to empower model checking.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Bernd Fisher&lt;/li>
+&lt;li>Kenji Taguchi&lt;/li>
+&lt;li>Graeme Smith
+&lt;ul>
+&lt;li>I work at the University of Queensland, Australia. I currently research in the area of formal verification of concurrent programs, and have an ongoing collaboration with John Derrick at the University of Sheffield, UK.
 I also teach formal methods in 2 courses. The first course is an introduction to reasoning about programs. I cover Hoare logic and use the KeY tool to allow students to perform program verification on a simple while-language in the first part of the course, and on Java programs (using JML as the specification language) later in the course. The course also introduces weakest preconditions and the refinement calculus.
-The second course is on concurrent programming. It is not primarily a formal methods course, but I do teach the students how to use the Spin model checker to check properties of simple concurrent code&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;We wanted to set up the focus of this teaching committee. At least we have identified the following directions we would like to focus on&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Database of formal methods courses
-&lt;ul&gt;
-&lt;li&gt;we will start from the 2004 database that Jose Nuno Oliveira has compiled&lt;/li&gt;
-&lt;li&gt;Alexandra and Joao will scan the database to prune it of old courses no longer active and they will have a version of it in GitHub where everyone will be able to upload courses&lt;/li&gt;
-&lt;li&gt;in the meantime everyone should collect courses that they think qualify as formal methods courses; we leave it at the discretion of each of us as to what qualifies and what not; for instance there are programming courses with only some invariants that could also be good to add now in the beginning, and maybe we store them under a distinct section&lt;/li&gt;
-&lt;li&gt;while we collect these courses, we can also think if the database we now have needs some extensions, maybe we need some extra information stored for each course, so that we easily find information given some search terms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Repository of examples and case studies on using formal methods
-&lt;ul&gt;
-&lt;li&gt;this we felt would be very good to have and sadly missing right now, from the simple examples that one can use in class for explaining simple things to the more complex case studies that really show the potential of various methods&lt;/li&gt;
-&lt;li&gt;there is GitHub for software and BioModels for biological case studies; there is even the Archive of Formal Proofs for Isabelle models, but not for formal methods in general&lt;/li&gt;
-&lt;li&gt;we need a strategy for designing it and then we will start populating it; any ideas here?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Body of Knowledge on Formal Methods
-&lt;ul&gt;
-&lt;li&gt;we have a starting point here, led by Kenji Taguchi, Jonathan Bowen, and others&lt;/li&gt;
-&lt;li&gt;need to study it and start adding to it&lt;/li&gt;
-&lt;li&gt;there are some links in the attached word doc to what exists now&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Repository of exercises and exam questions on formal methods (under lock, to be released by their authors for fellow-teachers when needed, ie not for students)
-&lt;ul&gt;
-&lt;li&gt;this should be similar to the repository of case studies in principle, so when we design one, we have the other too, with the exception of securing the exam questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;List of summer/winter schools on formal methods
-&lt;ul&gt;
-&lt;li&gt;Marktoberdorf, yearly: &lt;a href=&#34;https://asimod.in.tum.de/2017/index.shtml&#34;&gt;https://asimod.in.tum.de/2017/index.shtml&lt;/a&gt; or the wikipedia link: &lt;a href=&#34;https://en.wikipedia.org/wiki/Summer_School_Marktoberdorf&#34;&gt;https://en.wikipedia.org/wiki/Summer_School_Marktoberdorf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bertinoro: &lt;a href=&#34;http://www.sti.uniurb.it/events/sfm16quanticol/&#34;&gt;http://www.sti.uniurb.it/events/sfm16quanticol/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SRI: (Rustan mentioned)&lt;/li&gt;
-&lt;li&gt;Tallinn: (Rustan mentioned, Bernd concurred)&lt;/li&gt;
-&lt;li&gt;UK: Midlands&lt;/li&gt;
-&lt;li&gt;China: Ian Hayes speaker
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.swu-rise.net.cn/SETSS2017/&#34;&gt;http://www.swu-rise.net.cn/SETSS2017/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Petter Miller in Zurich in autumn (Rustan mentioned)&lt;/li&gt;
-&lt;li&gt;Betrand Meyer on Elba (Rustan mentioned)&lt;/li&gt;
-&lt;li&gt;Laser Summer School. It is larger than formal methods.&lt;/li&gt;
-&lt;li&gt;ISoLa? (Rustan mentioned)&lt;/li&gt;
-&lt;li&gt;DeepSpec
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepspec.org/event/dsss18/&#34;&gt;https://deepspec.org/event/dsss18/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;“FME Approved” courses - we need to discuss this more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;FME is a professional society, so we could take advantage of this&lt;/li&gt;
-&lt;li&gt;Organising certification (and curricula) might be difficult, we should focus on a lighter objective; keep this on our minds&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;We don’t plan anything at the moment for FM in Oxford, we will maybe send some info later on&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Someone mentioned getting a 2-minute slot to promote what we are doing. This might be a way to help get the database(s) populated.&lt;/li&gt;
-&lt;li&gt;We discussed about having online forms to distribute so that we get input from other people too&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;We will have the next meeting in May, Luigia sends a Doodle poll searching for a reasonable date for everyone. In the meantime we keep in touch via email.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+The second course is on concurrent programming. It is not primarily a formal methods course, but I do teach the students how to use the Spin model checker to check properties of simple concurrent code&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>We wanted to set up the focus of this teaching committee. At least we have identified the following directions we would like to focus on&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Database of formal methods courses
+&lt;ul>
+&lt;li>we will start from the 2004 database that Jose Nuno Oliveira has compiled&lt;/li>
+&lt;li>Alexandra and Joao will scan the database to prune it of old courses no longer active and they will have a version of it in GitHub where everyone will be able to upload courses&lt;/li>
+&lt;li>in the meantime everyone should collect courses that they think qualify as formal methods courses; we leave it at the discretion of each of us as to what qualifies and what not; for instance there are programming courses with only some invariants that could also be good to add now in the beginning, and maybe we store them under a distinct section&lt;/li>
+&lt;li>while we collect these courses, we can also think if the database we now have needs some extensions, maybe we need some extra information stored for each course, so that we easily find information given some search terms&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Repository of examples and case studies on using formal methods
+&lt;ul>
+&lt;li>this we felt would be very good to have and sadly missing right now, from the simple examples that one can use in class for explaining simple things to the more complex case studies that really show the potential of various methods&lt;/li>
+&lt;li>there is GitHub for software and BioModels for biological case studies; there is even the Archive of Formal Proofs for Isabelle models, but not for formal methods in general&lt;/li>
+&lt;li>we need a strategy for designing it and then we will start populating it; any ideas here?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Body of Knowledge on Formal Methods
+&lt;ul>
+&lt;li>we have a starting point here, led by Kenji Taguchi, Jonathan Bowen, and others&lt;/li>
+&lt;li>need to study it and start adding to it&lt;/li>
+&lt;li>there are some links in the attached word doc to what exists now&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Repository of exercises and exam questions on formal methods (under lock, to be released by their authors for fellow-teachers when needed, ie not for students)
+&lt;ul>
+&lt;li>this should be similar to the repository of case studies in principle, so when we design one, we have the other too, with the exception of securing the exam questions&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>List of summer/winter schools on formal methods
+&lt;ul>
+&lt;li>Marktoberdorf, yearly: &lt;a href="https://asimod.in.tum.de/2017/index.shtml">https://asimod.in.tum.de/2017/index.shtml&lt;/a> or the wikipedia link: &lt;a href="https://en.wikipedia.org/wiki/Summer_School_Marktoberdorf">https://en.wikipedia.org/wiki/Summer_School_Marktoberdorf&lt;/a>&lt;/li>
+&lt;li>Bertinoro: &lt;a href="http://www.sti.uniurb.it/events/sfm16quanticol/">http://www.sti.uniurb.it/events/sfm16quanticol/&lt;/a>&lt;/li>
+&lt;li>SRI: (Rustan mentioned)&lt;/li>
+&lt;li>Tallinn: (Rustan mentioned, Bernd concurred)&lt;/li>
+&lt;li>UK: Midlands&lt;/li>
+&lt;li>China: Ian Hayes speaker
+&lt;ul>
+&lt;li>&lt;a href="http://www.swu-rise.net.cn/SETSS2017/">http://www.swu-rise.net.cn/SETSS2017/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Petter Miller in Zurich in autumn (Rustan mentioned)&lt;/li>
+&lt;li>Betrand Meyer on Elba (Rustan mentioned)&lt;/li>
+&lt;li>Laser Summer School. It is larger than formal methods.&lt;/li>
+&lt;li>ISoLa? (Rustan mentioned)&lt;/li>
+&lt;li>DeepSpec
+&lt;ul>
+&lt;li>&lt;a href="https://deepspec.org/event/dsss18/">https://deepspec.org/event/dsss18/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>“FME Approved” courses - we need to discuss this more&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>FME is a professional society, so we could take advantage of this&lt;/li>
+&lt;li>Organising certification (and curricula) might be difficult, we should focus on a lighter objective; keep this on our minds&lt;/li>
+&lt;/ul>
+&lt;ol start="4">
+&lt;li>We don’t plan anything at the moment for FM in Oxford, we will maybe send some info later on&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Someone mentioned getting a 2-minute slot to promote what we are doing. This might be a way to help get the database(s) populated.&lt;/li>
+&lt;li>We discussed about having online forms to distribute so that we get input from other people too&lt;/li>
+&lt;/ul>
+&lt;ol start="5">
+&lt;li>We will have the next meeting in May, Luigia sends a Doodle poll searching for a reasonable date for everyone. In the meantime we keep in touch via email.&lt;/li>
+&lt;/ol></description></item></channel></rss>
