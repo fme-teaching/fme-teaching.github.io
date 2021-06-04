@@ -17,12 +17,12 @@ Our searchable database of formal methods courses is [available online](https://
 You can use the form below to add a new course.
 
 ## Submit a new course
-{{< alert note >}}
+{{< callout note >}}
 Once you submit your course, an external Github page will open.
 **To confirm your submission, click the button *Submit
 new issue*.**
 
 If you can't find a concept or tool in the list below, you can manually add
 them after submission, using the Github interface.
-{{< /alert >}}
+{{< /callout >}}
 
