@@ -2,6 +2,80 @@ var courses =
 [
     {
         "course_code": "",
+        "course_institution": "Newcastle University",
+        "course_contact": "Cliff Jones",
+        "course_concepts": [
+            "Programming Languages",
+            "Axiomatic Semantics",
+            "Constraints",
+            "Data Structures",
+            "Denotational Semantics",
+            "Operational Semantics"
+        ],
+        "course_tools": [
+            "No Tools"
+        ],
+        "course_webpage": "https://www.dropbox.com/s/d02qswbq9hk5g7f/UPLs-slides.zip?dl=0",
+        "course_year_level": "1",
+        "course_title": "Understanding Programming Languages",
+        "course_country": "United Kingdom"
+    },
+    {
+        "course_code": "COMPSCI4031",
+        "course_institution": "University of Glasgow",
+        "course_contact": "Dr Oana Andrei",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Automated Reasoning",
+            "Behavioural Equivalences",
+            "Formal Specification",
+            "Labelled Transition Systems",
+            "Modelling",
+            "Temporal Logic",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Probabilistic Model Checking"
+        ],
+        "course_tools": [
+            "Spin",
+            "Prism"
+        ],
+        "course_webpage": "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4031",
+        "course_year_level": "4 & MSc",
+        "course_title": "Modelling Reactive Systems",
+        "course_country": "United Kingdom"
+    },
+    {
+        "course_code": "",
+        "course_institution": "LMU Munich",
+        "course_contact": "Gidon Ernst",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Axiomatic Semantics",
+            "Behavioural Equivalences",
+            "Formal Specification",
+            "Hoare Logic",
+            "Labelled Transition Systems",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Model-Oriented",
+            "Sat",
+            "Smt",
+            "Specification",
+            "Tool-Based Testing"
+        ],
+        "course_tools": [
+            "Dafny",
+            "Java",
+            "Z3"
+        ],
+        "course_webpage": "https://uni2work.ifi.lmu.de/course/W20/IfI/FSV1",
+        "course_year_level": "3",
+        "course_title": "Formale Spezifikation und Verifikation",
+        "course_country": "Germany"
+    },
+    {
+        "course_code": "",
         "course_institution": "Universidad Nacional de Rosario",
         "course_contact": "Maximiliano Cristi\u00e1",
         "course_concepts": [
@@ -1335,6 +1409,7 @@ var concepts =
     "Certified Compilation",
     "Classical Logic",
     "Constraint Logic Programming",
+    "Constraints",
     "Ctl",
     "Ctl Model Checking",
     "Curry-Howard Isomorphism",
@@ -1369,6 +1444,7 @@ var concepts =
     "Lambda Calculus",
     "Language Theory",
     "Linear Temporal Logic",
+    "Linear Temporal Logic (Ltl)",
     "Linear-Time Properties",
     "Logic",
     "Logic Programming",
@@ -1386,6 +1462,7 @@ var concepts =
     "Modal Mu-Calculus",
     "Model Checking",
     "Model-Based Testing",
+    "Model-Oriented",
     "Model-Oriented Specification (Z)",
     "Modelling",
     "Mu-Calculus",
@@ -1395,6 +1472,7 @@ var concepts =
     "Pre And Post-Conditions",
     "Predicate Abstraction",
     "Predicate Logic",
+    "Probabilistic Model Checking",
     "Process Algebra",
     "Process Calculus",
     "Process-Oriented (Csp) Specification",
@@ -1492,6 +1570,7 @@ var tools =
     "No Tools",
     "Nusmv",
     "Nuxmv",
+    "Prism",
     "Prob",
     "Pvs",
     "Rapl",
