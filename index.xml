@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Formal Methods Teaching Committee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hub96a365879c5829aace43d4a4da98a91_104111_300x300_fit_lanczos_2.png</url>
       <title>Formal Methods Teaching Committee</title>
@@ -22,6 +22,74 @@
 &lt;li&gt;(2017 &amp;ndash; 2019) &lt;a href=&#34;http://www.cs.sun.ac.za/~bfischer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bernd Fisher&lt;/a&gt;, Stellenbosch University, South Africa&lt;/li&gt;
 &lt;li&gt;(2017 &amp;ndash; 2018) &lt;a href=&#34;http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dino
 Mandrioli&lt;/a&gt;, Politecnico di Milano, Italy&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eighth Meeting (2021/6/14)</title>
+      <link>/2021/06/14/eighth-meeting-2021/6/14/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/2021/06/14/eighth-meeting-2021/6/14/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Present at the meeting:&lt;/strong&gt; Kenji, Graeme, Catherine, Brijesh, Alexandra, Joao, Leila, Luigia&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Minutes&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Teaching Committee so far: FME has changed the rules of its committees, the length of one term is now 3 years and we are now in our second term. In the summer of 2023, there will be a question of whether we continue in this team or not - we will wonder when it comes. Here is what we have achieved so far (in the meeting we agreed on these contributions):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;FMTea workshop &amp;ndash;&amp;gt; we revived it and it goes very nicely&lt;/li&gt;
+&lt;li&gt;the Formal Methods courses database &amp;ndash;&amp;gt; as above&lt;/li&gt;
+&lt;li&gt;we have a nice webpage where we collected many of our thoughts about what this committee should be working on&lt;/li&gt;
+&lt;li&gt;we have applied (unsuccessfully so far) to a COST action
+Related to the FME rules, they (vaguely) suggest there should be 4 meetings per year, and we had in average 2 meetings per year, so we might meet once per season if everyone is ok with it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Alexandra and Joao informed us about FMTea&amp;rsquo;s status&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Tobias Nipkow &amp;ndash;&amp;gt; invited speaker&lt;/li&gt;
+&lt;li&gt;one more confirmed tutorial speaker&lt;/li&gt;
+&lt;li&gt;a third tutorial speaker needed &amp;ndash;&amp;gt; we discussed Laura Kovacs and her automated approach to generate personalised exams
+submission deadline: July 2&lt;/li&gt;
+&lt;li&gt;more publicity needed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;COST application - rejected, but we agreed to try once more; next deadline at the end of October&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;we discussed a bit the comments we received from the reviewers and we will start a new iteration from there
+in a separate email we will discuss these comments with the people involved (this meeting summary will go into our webpage, so this is not the place to add the comments)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;What do we do next&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;we decided to start a tutorial series on teaching formal methods &amp;ndash;&amp;gt; thanks Brijesh for the excellent suggestion!
+monthly (or every other week, depending on the availability of speakers; we decided to start monthly)
+online
+&lt;ul&gt;
+&lt;li&gt;start with the FMTea19 participants, see if we can convince people to discuss their approaches&lt;/li&gt;
+&lt;li&gt;record the sessions if the speaker agrees and upload them in the webpage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;we need to recheck the courses database, to see if courses are still up to date
+&lt;ul&gt;
+&lt;li&gt;possibly recheck our countries for FM courses if we get to it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;on the would-be-nice-to-do list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;organise (establish) a training school
+&lt;ul&gt;
+&lt;li&gt;main question here: what is the level, beginner or advanced?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;each of us makes a video of our favorite formal method (a la Lamport&amp;rsquo;s teaching of TLA+)&lt;/li&gt;
+&lt;li&gt;collect interesting papers and materials (we have a section in the webpage for inspiration)&lt;/li&gt;
+&lt;li&gt;we wanted to collect exams, solutions, case studies (simple ones, as the complex case studies are handled by the Industry Committee; proof-of-concept) &amp;ndash;&amp;gt; we can upload them in the webpage&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
