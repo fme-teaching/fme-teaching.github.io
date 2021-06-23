@@ -1,6 +1,24 @@
 var courses = 
 [
     {
+        "course_code": "CS420",
+        "course_institution": "University of Massachusetts Boston",
+        "course_contact": "Tiago Cogumbreiro",
+        "course_concepts": [
+            "Interactive Theorem Proving",
+            "Language Theory",
+            "Logic",
+            "Proofs"
+        ],
+        "course_tools": [
+            "Coq"
+        ],
+        "course_webpage": "https://cogumbreiro.github.io/teaching/cs420/s20",
+        "course_year_level": "4",
+        "course_title": "Introduction to the Theory of Computation",
+        "course_country": "United States"
+    },
+    {
         "course_code": "",
         "course_institution": "Newcastle University",
         "course_contact": "Cliff Jones",
@@ -17,6 +35,7 @@ var courses =
         ],
         "course_webpage": "https://www.dropbox.com/s/d02qswbq9hk5g7f/UPLs-slides.zip?dl=0",
         "course_year_level": "1",
+        "": "2021/06/21",
         "course_title": "Understanding Programming Languages",
         "course_country": "United Kingdom"
     },
@@ -71,6 +90,7 @@ var courses =
         ],
         "course_webpage": "https://uni2work.ifi.lmu.de/course/W20/IfI/FSV1",
         "course_year_level": "3",
+        "": "2021/06/23",
         "course_title": "Formale Spezifikation und Verifikation",
         "course_country": "Germany"
     },
@@ -113,30 +133,6 @@ var courses =
         "course_year_level": "MSc",
         "course_title": "Software Engineering Mathematics",
         "course_country": "United Kingdom"
-    },
-    {
-        "course_code": "",
-        "course_institution": "Universidade da Beira Interior",
-        "course_contact": "Alexandra Mendes",
-        "course_concepts": [
-            "Axiomatic Semantics",
-            "Calculational Method",
-            "Certified Compilation",
-            "Denotational Semantics",
-            "Functional Programming",
-            "Induction",
-            "Proofs",
-            "Proof Theory",
-            "Software Verification",
-            "Theorem Proving"
-        ],
-        "course_tools": [
-            "Haskell"
-        ],
-        "course_webpage": "#",
-        "course_year_level": "MSc",
-        "course_title": "Programming Paradigms",
-        "course_country": "Portugal"
     },
     {
         "course_code": "",
@@ -323,7 +319,8 @@ var courses =
             "Dafny"
         ],
         "course_webpage": "http://www.cse.unsw.edu.au/~cs6721",
-        "course_year_level": "Unknown",
+        "course_year_level": "2",
+        "": "2021/06/23",
         "course_title": "(In-)Formal Methods",
         "course_country": "Australia"
     },
@@ -894,8 +891,8 @@ var courses =
         ]
     },
     {
-        "course_institution": "University of Toulouse/INPT/ENSEEIHT",
-        "course_contact": "Marc Pantel (Marc.Pantel@enseeiht.fr)",
+        "course_institution": "Universit\u00e9 de  Toulouse/Toulouse INP/ENSEEIHT",
+        "course_contact": "Marc Pantel (Marc.Pantel@toulouse-inp.fr)",
         "course_concepts": [
             "Logic",
             "Induction",
@@ -1482,7 +1479,6 @@ var concepts =
     "Programming Languages",
     "Proof Assistants",
     "Proof Of C Programs",
-    "Proof Theory",
     "Proofs",
     "Property-Based Testing",
     "Propositional Logic",
