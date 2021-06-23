@@ -645,7 +645,7 @@ var courses =
             "Coq",
             "Haskell"
         ],
-        "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/LPro26/2018-2019/2-semestre",
+        "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/LPro2646/2020-2021/2-semestre",
         "course_year_level": "MSc",
         "course_title": "Programming Languages",
         "course_country": "Portugal"
