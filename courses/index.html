@@ -128,6 +128,11 @@
                 <dd><%= course_concepts %></dt>
                 <dt>Languages/Tools</dt>
                 <dd><%= course_tools %></dt>
+		<% if(typeof course_reviewed != 'undefined') { %>
+		<dt>Last review date</dt>
+                <dd><%= course_reviewed %></dt>
+		<% } %>
+		</script>
               </dl>
             </div>
           </div>
