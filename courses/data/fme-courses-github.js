@@ -15,6 +15,7 @@ var courses =
         ],
         "course_webpage": "https://cogumbreiro.github.io/teaching/cs420/s20",
         "course_year_level": "4",
+        "": "2021/06/23",
         "course_title": "Introduction to the Theory of Computation",
         "course_country": "United States"
     },
@@ -153,8 +154,9 @@ var courses =
             "Alloy",
             "Dafny"
         ],
-        "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/QS7/2019-2020/1-semestre",
+        "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/QS7/2020-2021/1-semestre",
         "course_year_level": "MSc",
+        "course_reviewed": "2021/06/26",
         "course_title": "Software Specification",
         "course_country": "Portugal"
     },
@@ -647,6 +649,7 @@ var courses =
         ],
         "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/LPro2646/2020-2021/2-semestre",
         "course_year_level": "MSc",
+        "": "2021/06/23",
         "course_title": "Programming Languages",
         "course_country": "Portugal"
     },
@@ -929,6 +932,7 @@ var courses =
             "Z3"
         ],
         "course_year_level": "MSc",
+        "": "2021/06/23",
         "course_title": "Certified Software",
         "course_country": "France",
         "course_webpage": "#"
