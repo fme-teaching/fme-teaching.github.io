@@ -884,7 +884,8 @@ var courses =
         "course_tools": [
             "Frama-C"
         ],
-        "course_webpage": "https://allan-blanchard.fr/publis/frama-c-wp-tutorial-en.pdf",
+        "course_webpage": "https://allan-blanchard.fr/frama-c-wp-tutorial.html",
+        "course_reviewed": "2021/06/25",
         "course_title": "Introduction to C program proof using Frama-C and its WP plugin",
         "course_country": "France",
         "course_institution": [
