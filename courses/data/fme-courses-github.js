@@ -15,7 +15,7 @@ var courses =
         ],
         "course_webpage": "https://cogumbreiro.github.io/teaching/cs420/s20",
         "course_year_level": "4",
-        "": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Introduction to the Theory of Computation",
         "course_country": "United States"
     },
@@ -424,7 +424,7 @@ var courses =
     {
         "course_code": "AERE/COMS 407/507",
         "course_institution": "Iowa State University (Ames, IA, USA)",
-        "course_contact": "Kristin Yvonne Rozier (kyrozier@iastate.edu)",
+        "course_contact": "Kristin Yvonne Rozier",
         "course_concepts": [
             "Logic Specifications",
             "Temporal Logics",
@@ -567,7 +567,7 @@ var courses =
     {
         "course_code": "COM3028",
         "course_institution": "University of Surrey",
-        "course_contact": "Brijesh Dongol (b.dongol@surrey.ac.uk)",
+        "course_contact": "Brijesh Dongol",
         "course_concepts": [
             "Modal Logic",
             "Temporal Logic",
@@ -874,7 +874,7 @@ var courses =
         ]
     },
     {
-        "course_contact": "Allan Blanchard (mail@allan-blanchard.fr)",
+        "course_contact": "Allan Blanchard",
         "course_concepts": [
             "Frama-C",
             "Deductive Proof",
@@ -895,7 +895,7 @@ var courses =
     },
     {
         "course_institution": "Universit\u00e9 de  Toulouse/Toulouse INP/ENSEEIHT",
-        "course_contact": "Marc Pantel (Marc.Pantel@toulouse-inp.fr)",
+        "course_contact": "Marc Pantel",
         "course_concepts": [
             "Logic",
             "Induction",
@@ -914,7 +914,7 @@ var courses =
     },
     {
         "course_institution": "University of Toulouse/INPT/ENSEEIHT",
-        "course_contact": "Marc Pantel (Marc.Pantel@enseeiht.fr)",
+        "course_contact": "Marc Pantel",
         "course_concepts": [
             "Software Analysis Tools",
             "Weakest Preconditions",
@@ -932,7 +932,7 @@ var courses =
             "Z3"
         ],
         "course_year_level": "MSc",
-        "": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Certified Software",
         "course_country": "France",
         "course_webpage": "#"
@@ -940,7 +940,7 @@ var courses =
     {
         "course_code": "CS 451/551",
         "course_institution": "Northern Arizona University",
-        "course_contact": "Fr\u00e9d\u00e9ric Loulergue (frederic.loulergue@nau.edu)",
+        "course_contact": "Fr\u00e9d\u00e9ric Loulergue",
         "course_concepts": [
             "Operational Semantics",
             "Axiomatic Semantics",
@@ -961,7 +961,7 @@ var courses =
     {
         "course_code": "11480",
         "course_institution": "University of Beira Interior",
-        "course_contact": "Simao Melo de Sousa (desousa@di.ubi.pt)",
+        "course_contact": "Simao Melo de Sousa",
         "course_concepts": [
             "Deductive Software Verification",
             "Proof Assistants",
@@ -979,7 +979,7 @@ var courses =
     },
     {
         "course_institution": "Universit\u00e9 Paris-Diderot",
-        "course_contact": "Claude March\u00e9 (Claude.Marche@inria.fr)",
+        "course_contact": "Claude March\u00e9",
         "course_concepts": [
             "Hoare Logic",
             "Weakest Preconditions",
@@ -999,7 +999,7 @@ var courses =
     },
     {
         "course_institution": "Carnegie Mellon University",
-        "course_contact": "Bryan Parno (parno@cmu.edu)",
+        "course_contact": "Bryan Parno",
         "course_concepts": [
             "Software Verification",
             "Systems",
@@ -1017,7 +1017,7 @@ var courses =
     },
     {
         "course_institution": "Politecnico di Milano",
-        "course_contact": "Dino Mandrioli (dino.mandrioli@polimi.it)",
+        "course_contact": "Dino Mandrioli",
         "course_concepts": [
             "Logics For Specifying Systems",
             "Hoare Logic",
@@ -1039,7 +1039,7 @@ var courses =
     },
     {
         "course_institution": "Universit\u00e9 Paris-Saclay",
-        "course_contact": "Andrei Paskevich and Julien Signoles (julien.signoles@cea.fr)",
+        "course_contact": "Andrei Paskevich and Julien Signoles",
         "course_concepts": [
             "Hoare Logic",
             "Wp Calculus",
@@ -1060,7 +1060,7 @@ var courses =
     },
     {
         "course_institution": "Univ. Grenoble Alpes",
-        "course_contact": "Hubert Garavel & Laurence Pierre (hubert.garavel@inria.fr)",
+        "course_contact": "Hubert Garavel & Laurence Pierre",
         "course_concepts": [
             "Applied Formal Methods"
         ],
