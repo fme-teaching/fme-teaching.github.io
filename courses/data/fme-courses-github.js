@@ -260,6 +260,7 @@ var courses =
         ],
         "course_webpage": "https://www.cse.unsw.edu.au/~cs4161",
         "course_year_level": "3",
+        "course_reviewed": "2021/06/25",
         "course_title": "Advanced Topics in Software Verification",
         "course_country": "Australia"
     },
@@ -649,7 +650,7 @@ var courses =
         ],
         "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/LPro2646/2020-2021/2-semestre",
         "course_year_level": "MSc",
-        "": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Programming Languages",
         "course_country": "Portugal"
     },
