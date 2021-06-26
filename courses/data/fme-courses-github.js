@@ -258,7 +258,7 @@ var courses =
             "C",
             "Isabelle"
         ],
-        "course_webpage": "https://www.cse.unsw.edu.au/~cs4161",
+        "course_webpage": "http://www.cse.unsw.edu.au/~cs4161",
         "course_year_level": "3",
         "course_reviewed": "2021/06/25",
         "course_title": "Advanced Topics in Software Verification",
