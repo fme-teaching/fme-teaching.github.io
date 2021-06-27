@@ -527,7 +527,7 @@ var courses =
         ]
     },
     {
-        "": "CM30226",
+        "course_code": "CM30226",
         "course_institution": "Bath",
         "course_contact": "???",
         "course_concepts": [
@@ -539,7 +539,8 @@ var courses =
         "course_tools": [
             "Unknown"
         ],
-        "course_webpage": "http://www.bath.ac.uk/catalogues/2011-2012/cm/CM30226.htm",
+        "course_webpage": "https://www.bath.ac.uk/catalogues/2020-2021/cm/CM30226.html",
+        "course_reviewed": "2021/06/25",
         "course_title": "Logic and Semantics of Programming Languages ",
         "course_country": "United Kingdom",
         "course_year_level": [
@@ -1359,26 +1360,27 @@ var courses =
         ]
     },
     {
-        "": "CSSE3100",
+        "course_code": "CSSE3100",
         "course_institution": "The University of Queensland",
         "course_contact": "Graeme Smith",
         "course_concepts": [
-            "Hoare Logic",
-            "Theorem Proving",
-            "Refinement Calculus"
+            "Weakest Preconditions",
+            "Program Derivation",
+            "Data Abstraction"
         ],
         "course_tools": [
-            "Key"
+            "Dafny"
         ],
         "course_webpage": "https://my.uq.edu.au/programs-courses/course.html?course_code=csse3100",
         "course_year_level": "3",
+        "course_reviewed": "2021/06/27",
         "course_title": "Reasoning about Programs",
         "course_country": "Australia"
     },
     {
-        "": "CSSE7610",
+        "course_code": "CSSE7610",
         "course_institution": "The University of Queensland",
-        "course_contact": "Graeme Smith",
+        "course_contact": "Guangdong Bai",
         "course_concepts": [
             "Model Checking"
         ],
@@ -1387,6 +1389,7 @@ var courses =
         ],
         "course_webpage": "https://my.uq.edu.au/programs-courses/course.html?course_code=csse7610",
         "course_year_level": "MSc",
+        "course_reviewed": "2021/06/27",
         "course_title": "Concurrency: Theory and Practice",
         "course_country": "Australia"
     }
@@ -1416,6 +1419,7 @@ var concepts =
     "Ctl",
     "Ctl Model Checking",
     "Curry-Howard Isomorphism",
+    "Data Abstraction",
     "Data Refinement",
     "Data Structures",
     "Deductive Proof",
@@ -1480,6 +1484,7 @@ var concepts =
     "Process Calculus",
     "Process-Oriented (Csp) Specification",
     "Program Analysis",
+    "Program Derivation",
     "Program Proof",
     "Program Verification",
     "Programming Languages",
@@ -1494,7 +1499,6 @@ var concepts =
     "Real-Time Systems",
     "Reasoning About Processes",
     "Refinement",
-    "Refinement Calculus",
     "Relational Logic",
     "Relations",
     "Sat",
