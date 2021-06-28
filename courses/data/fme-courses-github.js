@@ -510,27 +510,6 @@ var courses =
         ]
     },
     {
-        "": "COS6020-B",
-        "course_institution": "University of Bradford",
-        "course_contact": "???",
-        "course_concepts": [
-            "Classical Logic",
-            "Formal Specification",
-            "Model Checking",
-            "Reactive Systems",
-            "Program Verification"
-        ],
-        "course_webpage": "https://www.bradford.ac.uk/repos/modules/2020-21/cos6020-b.php",
-        "course_title": "Software Verification",
-        "course_country": "United Kingdom",
-        "course_tools": [
-            "Unknown"
-        ],
-        "course_year_level": [
-            "Unknown"
-        ]
-    },
-    {
         "course_code": "CM30226",
         "course_institution": "Bath",
         "course_contact": "???",
@@ -1417,7 +1396,6 @@ var concepts =
     "Calculational Method",
     "Category Theory",
     "Certified Compilation",
-    "Classical Logic",
     "Constraint Logic Programming",
     "Constraints",
     "Ctl",
@@ -1498,7 +1476,6 @@ var concepts =
     "Property-Based Testing",
     "Propositional Logic",
     "Propositional Natural Deduction",
-    "Reactive Systems",
     "Real-Time And Probabilistic Model Checking",
     "Real-Time Systems",
     "Reasoning About Processes",
