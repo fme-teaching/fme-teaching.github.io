@@ -179,6 +179,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "MSc",
+        "course_reviewed": "2021/06/27",
         "course_title": "Formal Specification and Verification",
         "course_country": "Germany"
     },
@@ -205,6 +206,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "2",
+        "course_reviewed": "2021/06/27",
         "course_title": "Formal Methods in Software Design",
         "course_country": "Germany"
     },
@@ -379,6 +381,7 @@ var courses =
         ],
         "course_webpage": "https://github.com/bugcounting/software-analysis",
         "course_year_level": "MSc",
+        "course_reviewed": "2021/06/27",
         "course_title": "Software Analysis",
         "course_country": "Switzerland"
     },
@@ -463,6 +466,7 @@ var courses =
         ],
         "course_webpage": "https://formations.univ-rennes1.fr/formation/programmation-de-confiance?studentstatus=112",
         "course_year_level": "3",
+        "course_reviewed": "2021/06/28",
         "course_title": "Trustworthy programming",
         "course_country": "France"
     },
@@ -916,7 +920,7 @@ var courses =
         "course_webpage": "#"
     },
     {
-        "course_institution": "University of Toulouse/INPT/ENSEEIHT",
+        "course_institution": "Universit\u00e9 de Toulouse/Toulouse INP/ENSEEIHT",
         "course_contact": "Marc Pantel",
         "course_concepts": [
             "Software Analysis Tools",
