@@ -36,13 +36,14 @@ image:
 - the Formal Methods courses database --> as above
 - we have a nice webpage where we collected many of our thoughts about what this committee should be working on
 - we have applied (unsuccessfully so far) to a COST action
+
 Related to the FME rules, they (vaguely) suggest there should be 4 meetings per year, and we had in average 2 meetings per year, so we might meet once per season if everyone is ok with it
 
 2. Alexandra and Joao informed us about FMTea's status
 - Tobias Nipkow --> invited speaker
 - one more confirmed tutorial speaker
 - a third tutorial speaker needed --> we discussed Laura Kovacs and her automated approach to generate personalised exams
-submission deadline: July 2
+- submission deadline: July 2
 - more publicity needed 
 
 3. COST application - rejected, but we agreed to try once more; next deadline at the end of October
