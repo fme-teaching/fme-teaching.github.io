@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Formal Methods Teaching Committee</title>
+    <link>/categories/events/</link>
+      <atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 12:05:12 +0100</lastBuildDate>
+    <image>
+      <url>/media/logo_hub96a365879c5829aace43d4a4da98a91_104111_300x300_fit_lanczos_2.png</url>
+      <title>Events</title>
+      <link>/categories/events/</link>
+    </image>
+    
+    <item>
+      <title>FMTea 2019: Formal Methods Teaching Workshop and Tutorial</title>
+      <link>/2019/10/03/fmtea-2019-formal-methods-teaching-workshop-and-tutorial/</link>
+      <pubDate>Thu, 03 Oct 2019 12:05:12 +0100</pubDate>
+      <guid>/2019/10/03/fmtea-2019-formal-methods-teaching-workshop-and-tutorial/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FMTea 2019 Website:&lt;/strong&gt; &lt;a href=&#34;https://fmtea.github.io&#34;&gt;https://fmtea.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Formal Methods provide software engineering with tools and techniques for
+rigorously reasoning about the correctness of systems. While in recent years
+formal methods are increasingly being used in industry, university curricula
+are not adapting at the same pace. Some existing formal methods classes
+interest and challenge students, whereas others fail to ignite student
+motivation. We need to find ways to teach formal methods to the next
+generation, and doing so will require us to adapt our teaching to the 21st
+century students.&lt;/p&gt;
+&lt;p&gt;FMTea19 is a combined workshop and tutorial at the 3rd World Congress on Formal
+Methods, FM2019. Its aim is to share experiences of teaching formal methods
+that have gone well, or that failed in surprising ways, as well as to develop
+ways to reboot the presence of formal methods in curricula.&lt;/p&gt;
+&lt;h2 id=&#34;tutorial-part-of-fmtea19&#34;&gt;Tutorial part of FMTea19&lt;/h2&gt;
+&lt;p&gt;We are very pleased to have Carroll Morgan giving an invited talk on his
+approach to and experiences with teaching formal methods to undergraduate
+students. Sir Tony Hoare will also join us to give a talk on the foundations of
+teaching computer science for future formal methods scientists. We will run two
+more tutorial presentations, held by Holger Hermanns and Bas Luttik, on
+experiences with concurrency and online teaching. Our goal is to discuss
+various models of existing FM teaching, together with innovative proposals for
+remaining relevant as educators of Formal Methods in the 21st century.&lt;/p&gt;
+&lt;h2 id=&#34;workshop-part-of-fmtea19&#34;&gt;Workshop Part of FMTea19&lt;/h2&gt;
+&lt;p&gt;In the workshop part of the event, we aim to attract papers detailing authors’
+experiences with FM Teaching. We would like to get papers discussing successes
+and failures of various methods, case studies, tools, etc. As self-learning
+seems to be an important aspect of FM teaching, we appreciate experiences with
+online teaching, including experiences with teaching formal methods via MOOCs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
