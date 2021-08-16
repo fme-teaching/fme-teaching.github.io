@@ -43,7 +43,7 @@ Related to the FME rules, they (vaguely) suggest there should be 4 meetings per 
 - Tobias Nipkow --> invited speaker
 - one more confirmed tutorial speaker
 - a third tutorial speaker needed --> we discussed Laura Kovacs and her automated approach to generate personalised exams
-- submission deadline: July 2, probably to be prolonged
+- submission deadline: July 2, probably to be prolonged with 2 more weeks
 - more publicity needed 
 
 3. COST application - rejected, but we agreed to try once more; next deadline at the end of October
