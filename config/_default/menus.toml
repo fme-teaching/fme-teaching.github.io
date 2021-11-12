@@ -38,6 +38,11 @@
   url = "#meetings"
   weight = 50
 
+[[main]]
+  name = "Tutorials"
+  url = "#tutorials"
+  weight = 55
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
