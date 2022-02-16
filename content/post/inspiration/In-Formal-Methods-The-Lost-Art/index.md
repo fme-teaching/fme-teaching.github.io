@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-**Link to article:** [InformalMethods-Morgan.pdf](InformalMethods-Morgan.pdf)
+**Link to article:** [InformalMethods-Morgan.pdf](Morgan2016_Chapter_In-FormalMethodsTheLostArt.pdf)
 
 ## Abstract
 This article describes an experimental course in "(In-)Formal

@@ -30,12 +30,12 @@ image:
 
 **Schedule for FMTea tutorials**
  
-In the FME Teaching Committee, we are launching a new tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The tutorial will be held online via zoom. We will record (whenever the speaker agrees) these presentations and collect them on the [FME Teaching Committee website](https://fme-teaching.github.io).
+In the FME Teaching Committee, we launched a new tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The tutorial will be held online via zoom. We will record (whenever the speaker agrees) these presentations and collect them on the [FME Teaching Committee website](https://fme-teaching.github.io).
 
 If you wish to receive announcements on these lectures, please subscribe to our mailing list fmtea@fmeurope.org by sending an email to sympa@lists.uu.se with the subject line  
 **SUBSCRIBE IT-FMEUROPE-FMTEA firstname lastname**
 
-## Below you'll find the list of speakers who agreed to share their FM teaching insight:
+## Below you'll find the list of speakers who shared their formal methods teaching insight in 2021:
 - September 24, 2021, 3pm CET: [Prof Sandrine Blazy](https://people.irisa.fr/Sandrine.Blazy/) (University of Rennes 1, France): **Why3 tool for deductive program verification**. The recording of Prof. Blazy's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=63fe9f17-4ee7-4bd1-b9e4-adad00fd64ac). 
 - October 29, 2021, 3pm CET: [Dr Ran Ettinger](https://www.cs.bgu.ac.il/~ranger/) (Ben-Gurion University, Israel): **Teaching Cantor's theorem, a pumping lemma, and the derivation of a heapsort algorithm using Dafny**. The recording of Dr. Ettinger's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1e79e969-5ea5-40fd-b84a-adf30081a96c). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/317v6s68cjusb4i/AACg3JOZ14jcJNxyA9O0_y3Ha?dl=0). Ran demonstrates in this lecture a hands-on approach on how to prove mathematical theorems with Dafny, a programming language generally used for verifying the correctness of software. This is a refreshing approach that Ran continues to teach even now when he moved to industry (NVidia). Dafny was initiated by Rustan Leino at Microsoft Research and is now (since Rustan moved to Amazon) maintained by Amazon Web Services. [Here](https://github.com/dafny-lang/dafny) is Dafny's github website and [here](https://en.wikipedia.org/wiki/Dafny) is Dafny's Wikipedia page.
 - November 20-21, 9am-4pm CET: [Tutorials@FM21](http://lcs.ios.ac.cn/fm2021/workshops-and-tutorials/) 
@@ -44,6 +44,11 @@ If you wish to receive announcements on these lectures, please subscribe to our 
  	* Event-B IDE videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/eventb_dsl_cet/); Event-B IDE is a tutorial about developing an IDE for the Event-B language.
  	* Momba videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/momba_cet/); Momba is a tutorial about quantitative modelling with python.
 - December 10, 9am CET: [Assoc Prof David Pearce](https://whileydave.com) (Victoria University of Wellington, New Zealand): **Teaching Software Verification with Whiley**. The recording of Assoc. Prof. Pearce's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=e24278d5-8690-401e-8b0d-adfa009c1e6e). Screenshots from the lecture as well as the chat with questions can be checked from [here](https://www.dropbox.com/sh/hbtg9x2bj3uwsin/AAAoa5r_OTXOy0rKjih5vNjza?dl=0). [Whiley](http://whiley.org) is a programming language that can be used for verification and it was initiated by David himself. [Here](https://en.wikipedia.org/wiki/Whiley_(programming_language)) is the Wikipedia page for it and [here](https://github.com/Whiley/) the github page. David's talk is divided into two parts - the first one describing and demonstrating Whiley and the second one offering hints on teaching it.
+
+## Below we list the speakers who plan to share their teaching experiences in formal methods in 2022:
+- February 25, 2022, 3 pm CET: [Prof Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University, US): **From Tests to Properties: Property-Based Testing Using Relational Problems**
+- May 27, 2022, 3 pm CET: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
+- August 26, 2022, 3 pm CET: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**
 
 ## Zoom coordinates
 Luigia Petre is inviting you to a scheduled Zoom meeting.
