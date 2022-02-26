@@ -30,10 +30,21 @@ image:
 
 **Schedule for FMTea tutorials**
  
-In the FME Teaching Committee, we launched a new tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The tutorial will be held online via zoom. We will record (whenever the speaker agrees) these presentations and collect them on the [FME Teaching Committee website](https://fme-teaching.github.io).
+In the FME Teaching Committee, we coordinate a (new) tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The series is held online via zoom. We record (whenever the speaker agrees) these presentations and collect them on the [FME Teaching Committee website](https://fme-teaching.github.io).
 
 If you wish to receive announcements on these lectures, please subscribe to our mailing list fmtea@fmeurope.org by sending an email to sympa@lists.uu.se with the subject line  
 **SUBSCRIBE IT-FMEUROPE-FMTEA firstname lastname**
+
+## Below we list the speakers who (will) share their teaching experiences in formal methods in 2022:
+- February 25, 2022, 3 pm CET: [Prof Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University, US): **From Tests to Properties: Property-Based Testing Using Relational Problems**. The recording of Prof.  Krishnamurthi's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=44f23b72-521a-4e11-9792-ae470100ea96). Screenshots from the lecture, as well as the chat window can be checked [here](https://www.dropbox.com/sh/7c3n11z8n6qacg9/AADvxsspMhP0LyF60ToNzcG0a?dl=0). Shriram is involved in teaching 3 formal methods courses at Brown, with audiences varying between 70 and 200 students. In his talk, he discusses the importance of understanding the properties our programs should conform to, the role of unit testing in coding, as well as how students could gain from focusing on the problem to solve before programming a solution to it. Shriram's talk is based on two papers:
+	* Using Relational Problems to Teach Property-Based Testing (John Wrenn, Tim Nelson, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/wnk-use-rel-prob-pbt/)
+	* Automated, Targeted Testing of Property-Based Testing Predicates (Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
+
+- May 27, 2022, 3 pm CET: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
+- June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/), (Brown University, US)
+- July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/), (RWTH Aachen University, Germany)
+- August 26, 2022, 3 pm CET: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**
+
 
 ## Below you'll find the list of speakers who shared their formal methods teaching insight in 2021:
 - September 24, 2021, 3pm CET: [Prof Sandrine Blazy](https://people.irisa.fr/Sandrine.Blazy/) (University of Rennes 1, France): **Why3 tool for deductive program verification**. The recording of Prof. Blazy's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=63fe9f17-4ee7-4bd1-b9e4-adad00fd64ac). 
@@ -45,15 +56,6 @@ If you wish to receive announcements on these lectures, please subscribe to our 
  	* Momba videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/momba_cet/); Momba is a tutorial about quantitative modelling with python.
 - December 10, 9am CET: [Assoc Prof David Pearce](https://whileydave.com) (Victoria University of Wellington, New Zealand): **Teaching Software Verification with Whiley**. The recording of Assoc. Prof. Pearce's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=fc17ba8d-a69e-447e-828c-ae4700a3a370). Screenshots from the lecture as well as the chat with questions can be checked from [here](https://www.dropbox.com/sh/hbtg9x2bj3uwsin/AAAoa5r_OTXOy0rKjih5vNjza?dl=0). [Whiley](http://whiley.org) is a programming language that can be used for verification and it was initiated by David himself. [Here](https://en.wikipedia.org/wiki/Whiley_(programming_language)) is the Wikipedia page for it and [here](https://github.com/Whiley/) the github page. David's talk is divided into two parts - the first one describing and demonstrating Whiley and the second one offering hints on teaching it.
 
-## Below we list the speakers who plan to share their teaching experiences in formal methods in 2022:
-- February 25, 2022, 3 pm CET: [Prof Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University, US): **From Tests to Properties: Property-Based Testing Using Relational Problems**. The recording of Prof.  Krishnamurthi's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=44f23b72-521a-4e11-9792-ae470100ea96). Screenshots from the lecture, as well as the chat window can be checked [here](https://www.dropbox.com/sh/7c3n11z8n6qacg9/AADvxsspMhP0LyF60ToNzcG0a?dl=0). Shriram is involved in teaching 3 formal methods courses at Brown, with audiences varying between 70 and 200 students. In his talk, he discusses the importance of understanding the properties our programs should conform to, the role of unit testing in coding, as well as how students could gain from focusing on the problem to solve before programming a solution to it. Shriram's talk is based on two papers:
-	* Using Relational Problems to Teach Property-Based Testing (John Wrenn, Tim Nelson, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/wnk-use-rel-prob-pbt/)
-	* Automated, Targeted Testing of Property-Based Testing Predicates (Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
-
-- May 27, 2022, 3 pm CET: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
-- June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/), (Brown University, US)
-- July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/), (RWTH Aachen University, Germany)
-- August 26, 2022, 3 pm CET: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**
 
 ## Zoom coordinates
 Luigia Petre is inviting you to a scheduled Zoom meeting.
