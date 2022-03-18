@@ -42,7 +42,11 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 
 - April 29, 2022, 3 pm CET: [Prof. Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/) (University of Oxford, UK) 
 - May 27, 2022, 3 pm CET: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
-- June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/) (Brown University, US)
+- June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/) (Brown University, US): **Building Formal Methods Classes for Everybody**. The abstract of Dr Nelson's lecture is here: 
+
+	> We think math and logic are beautiful and essential. If you teach a formal methods class, you probably agree. Some of our students, perhaps the most visible to us, also feel that way. But what about the other 90\%, the students who aren't inclined to take our classes or any non-required "theory" class at all? If formal methods really are essential, we owe *every* student an opportunity to explore them, discover useful ideas, and maybe even fall in love. 
+
+	> Some people derisively respond to a more inclusive class by assuming it will coddle students. On the contrary, these students have their own strengths and abilities that we can and should design rigorous content around. After all, many of them will build the technologies we all use every day, so deepening their view of formalism satisfies both moral and selfish imperatives. This talk will cover the design space of such a course: pedagogy, tool choice (sometimes building our own!), assignment design, and even TA hiring. I'll talk about things that have worked well for us, other things that didn't, and what we learned along the way.
 - July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/) (RWTH Aachen University, Germany)
 - August 26, 2022, 3 pm CET: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**
 
