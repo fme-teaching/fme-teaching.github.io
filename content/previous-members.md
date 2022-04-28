@@ -50,5 +50,6 @@ subtitle = ""
 Previous members:
 
  - (2017 -- 2019) [Bernd Fisher](http://www.cs.sun.ac.za/~bfischer), Stellenbosch University, South Africa
- - (2017 -- 2018) [Dino
-   Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html), Politecnico di Milano, Italy
+ - (2017 -- 2018) [Dino Mandrioli](https://mandrioli.faculty.polimi.it), Politecnico di Milano, Italy
+ - (2017 -- 2021) [Kenji Taguchi](https://www.linkedin.com/in/kenji-taguchi-22727b), CAV, Japan
+ - (2017 -- 2021) [Rustan Leino](http://leino.science/), Amazon Web Services, US

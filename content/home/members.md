@@ -52,13 +52,11 @@ The committee has members from all over the world:
  - [Brijesh Dongol](https://brijeshdongol.github.io), University of Surrey, UK
  - [Catherine Dubois](http://www.ensiie.fr/~dubois), ENSIIE, France
  - [João F. Ferreira](http://joaoff.com), IST, University of Lisbon, Portugal
- - [Rustan Leino](http://leino.science), Amazon Web Services, US
  - [Alexandra Mendes](http://archimendes.com), University of Beira Interior, Portugal
  - [Luigia Petre](http://users.abo.fi/lpetre) (chair), Åbo Akademi University, Finland 
  - [Leila Ribeiro](http://www.inf.ufrgs.br/~leila), Federal University of Rio Grande do Sul, Brazil
  - [Pierluigi San
    Pietro](https://www.deib.polimi.it/ita/personale/dettagli/355798), Politecnico di Milano, Italy
  - [Graeme Smith](http://staff.itee.uq.edu.au/smith), The University of Queensland, Australia
- - [Kenji Taguchi](https://www.linkedin.com/in/kenji-taguchi-22727b), CAV, Japan
 
 We also keep a [list of previous members](previous-members).
