@@ -40,11 +40,10 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 	* Using Relational Problems to Teach Property-Based Testing (John Wrenn, Tim Nelson, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/wnk-use-rel-prob-pbt/)
 	* Automated, Targeted Testing of Property-Based Testing Predicates (Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
 
-- (Thursday!!) April 28, 2022, 3 pm CET: [Prof. Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/) (University of Oxford, UK): **How to Design Co−Programs**. The abstract of Prof. Gibbons is here:
+- (Thursday!!) April 28, 2022, 3 pm CET: [Prof. Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/) (University of Oxford, UK): **How to Design Co−Programs**. The abstract of Prof. Gibbons' lecture is here:
 
 	>The observation that program structure follows data structure is a key lesson in introductory programming: good hints for possible program designs can be found by considering the structure of the data concerned. In particular, this lesson is a core message of the influential textbook "How to Design Programs" by Felleisen, Findler, Flatt, and Krishnamurthi. However, that book discusses using only the structure of input data for guiding program design, typically leading towards structurally recursive programs. We argue that novice programmers should also be taught to consider the structure of output data, leading them also towards structurally corecursive programs.
 
-- May 27, 2022, 3 pm CET: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
 - June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/) (Brown University, US): **Building Formal Methods Classes for Everybody**. The abstract of Dr Nelson's lecture is here: 
 
 	> We think math and logic are beautiful and essential. If you teach a formal methods class, you probably agree. Some of our students, perhaps the most visible to us, also feel that way. But what about the other 90\%, the students who aren't inclined to take our classes or any non-required "theory" class at all? If formal methods really are essential, we owe *every* student an opportunity to explore them, discover useful ideas, and maybe even fall in love. 
@@ -52,6 +51,7 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 	> Some people derisively respond to a more inclusive class by assuming it will coddle students. On the contrary, these students have their own strengths and abilities that we can and should design rigorous content around. After all, many of them will build the technologies we all use every day, so deepening their view of formalism satisfies both moral and selfish imperatives. This talk will cover the design space of such a course: pedagogy, tool choice (sometimes building our own!), assignment design, and even TA hiring. I'll talk about things that have worked well for us, other things that didn't, and what we learned along the way.
 - July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/) (RWTH Aachen University, Germany)
 - August 26, 2022, 3 pm CET: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**
+- September 30, 2022, 3 pm CET: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
 - October 28, 2022, 3 pm CET: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France)
 
 
