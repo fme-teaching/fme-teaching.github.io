@@ -55,7 +55,30 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 	> We think math and logic are beautiful and essential. If you teach a formal methods class, you probably agree. Some of our students, perhaps the most visible to us, also feel that way. But what about the other 90\%, the students who aren't inclined to take our classes or any non-required "theory" class at all? If formal methods really are essential, we owe *every* student an opportunity to explore them, discover useful ideas, and maybe even fall in love. 
 
 	> Some people derisively respond to a more inclusive class by assuming it will coddle students. On the contrary, these students have their own strengths and abilities that we can and should design rigorous content around. After all, many of them will build the technologies we all use every day, so deepening their view of formalism satisfies both moral and selfish imperatives. This talk will cover the design space of such a course: pedagogy, tool choice (sometimes building our own!), assignment design, and even TA hiring. I'll talk about things that have worked well for us, other things that didn't, and what we learned along the way.
-- July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/) (RWTH Aachen University, Germany)
+	
+- July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/) (RWTH Aachen University, Germany): **Automatic exercise generation for satisfiability checking**. The abstract of Prof. Abraham's lecture is here:
+
+	>We offer a lecture on satisfiability checking, repeated annually each 
+winter term since 2009. The contents cover SAT solving to check the 
+satisfiability of propositional logic formulas as well as 
+SAT-modulo-theories (SMT) solving for checking the satisfiability of 
+logical formulas over different theories (equality logic with 
+uninterpreted functions, bit-vector arithmetic, linear and nonlinear 
+real and integer arithmetic).
+
+	>This lecture is challenging to teach, as the underlying math is - at 
+least for the arithmetic theories - quite involved. The manual execution 
+of the algorithms by the students plays a substantial role, thus it is 
+important to offer the students a pool of exercises. Furthermore, with 
+more that 500 registered students in the last winter term under pandemic 
+conditions, we needed a large number of individual but comparable 
+exercises for interactions during the lecture as well as for the online 
+exam.
+
+	>However, the automated generation of comparable SMT-solving exercises 
+turned out to be a hard nut. In this talk we discuss the obstacles and 
+propose some solutions.
+
 - August 26, 2022, 3 pm CEST: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**
 - September 30, 2022, 3 pm CEST: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**
 - October 28, 2022, 3 pm CET: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France)
