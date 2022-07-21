@@ -78,17 +78,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic"
 
-
-# JFF: Update security configuration (Hugo 0.91.0)
-[security]
-  enableInlineShortcodes = false
-  [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
-    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
-
-  [security.funcs]
-    getenv = ['^HUGO_', '^WC_']
-
-  [security.http]
-    methods = ['(?i)GET|POST']
-    urls = ['.*']
