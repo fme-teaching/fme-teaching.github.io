@@ -1,14 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FMTea 2019: Formal Methods Teaching Workshop and Tutorial"
+title: "FMTea 2023: Formal Methods Teaching Workshop and Tutorial"
 subtitle: ""
-summary: "Porto, Portugal. Oct 7, 2019"
+summary: "Lübeck, Germany. March 6, 2023"
 authors: []
 tags: []
 categories: [Events]
-date: 2019-10-03T12:05:12+01:00
-lastmod: 2019-10-03T12:05:12+01:00
+lastmod: 2023-03-06T12:05:12+01:00
 featured: false
 draft: false
 
@@ -28,7 +27,7 @@ image:
 projects: []
 ---
 
-**FMTea 2019 Website:** https://fmtea.github.io
+**FMTea 2023 Website:** https://fmtea.github.io
 
 Formal Methods provide software engineering with tools and techniques for
 rigorously reasoning about the correctness of systems. While in recent years
@@ -39,23 +38,11 @@ motivation. We need to find ways to teach formal methods to the next
 generation, and doing so will require us to adapt our teaching to the 21st
 century students.
 
-FMTea19 is a combined workshop and tutorial at the 3rd World Congress on Formal
-Methods, FM2019. Its aim is to share experiences of teaching formal methods
+FMTea23 is a combined workshop and tutorial at the 25th International Symposium on Formal
+Methods, FM2023. Its aim is to share experiences of teaching formal methods
 that have gone well, or that failed in surprising ways, as well as to develop
 ways to reboot the presence of formal methods in curricula. 
 
-## Tutorial part of FMTea19
-
-We are very pleased to have Carroll Morgan giving an invited talk on his
-approach to and experiences with teaching formal methods to undergraduate
-students. Sir Tony Hoare will also join us to give a talk on the foundations of
-teaching computer science for future formal methods scientists. We will run two
-more tutorial presentations, held by Holger Hermanns and Bas Luttik, on
-experiences with concurrency and online teaching. Our goal is to discuss
-various models of existing FM teaching, together with innovative proposals for
-remaining relevant as educators of Formal Methods in the 21st century. 
-
-## Workshop Part of FMTea19
 
 In the workshop part of the event, we aim to attract papers detailing authors’
 experiences with FM Teaching. We would like to get papers discussing successes
