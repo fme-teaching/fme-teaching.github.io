@@ -66,7 +66,7 @@ These will be available only to teachers.
 can enable self-learning as well as various future certifications in Formal
 Methods. This objective will start up from [earlier efforts in this direction](http://formalmethods.wikia.com/wiki/FMBoK).
 
- 5. To setup a list of "summer" schools in Formal Methods.
+ 5. To setup a list of "summer" schools in Formal Methods
 
 
 In the long run, we have the following goals:
