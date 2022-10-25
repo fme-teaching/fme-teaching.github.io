@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <!--
+    <link href="https://fme-teaching.github.io/fme-teaching.github.io/courses/assets/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://fme-teaching.github.io/fme-teaching.github.io/courses/assets/css/jquery-ui-1.10.2.custom.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="assets/css/fme.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="https://fme-teaching.github.io/fme-teaching.github.io/courses/assets/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="https://fme-teaching.github.io/fme-teaching.github.io/courses/assets/js/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
+    <script src="https://fme-teaching.github.io/fme-teaching.github.io/courses/assets/js/filter.min.js" type="text/javascript"></script>
+    -->
+    <link href="assets/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="assets/css/jquery-ui-1.10.2.custom.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="assets/css/fme.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="assets/js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="assets/js/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
+    <script src="assets/js/filter.min.js" type="text/javascript"></script>
+    <script src="data/fme-courses-github.js" type="text/javascript"></script>
+    <script src="fme-github.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <div class="container">
+            <h1 class="title"><i id="logo"></i><a id="title-link"
+                            href="https://fme-teaching.github.io/courses">FME
+                            Education Course Database</a><span id="subtitle">Maintained by
+                            the <a href="https://fme-teaching.github.io">Formal
+                                    Methods Teaching Committee</a></span></h1>
+      <div style="float: right">
+        <a href="https://fme-teaching.github.io/#fm-courses">Add new course</a>
+      </div>
+      <div class="sidebar col-md-3">
+        <div>
+          <h4 class='col-md-6'>Courses (<span id="total_courses">0</span>)</h4>
+        </div>
+        <div>
+          <label class="sr-only" for="searchbox">Search</label>
+          <input type="text" class="form-control" id="searchbox" placeholder="Search &hellip;" autocomplete="off">
+          <span class="glyphicon glyphicon-search search-icon"></span>
+        </div>
+        <br>
+	
+        <div class="well">
+            <fieldset id="course_year_level_criteria">
+                <legend>Year/Level</legend>
+                <select class="form-control" id="course_year_level_filter">
+                    <option value="all">All</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="MSc">MSc</option>
+                    <option value="PhD">PhD</option>
+                </select>
+            </fieldset>
+        </div>
+
+        <div class="well">
+            <fieldset id="course_concepts_criteria">
+                <legend>Topics</legend>
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" value="All" id="all_course_concepts">
+                    <span>All</span>
+                  </label>
+                </div>
+            </fieldset>
+        </div>
+        <div class="well">
+            <fieldset id="course_tools_criteria">
+                <legend>Languages/Tools</legend>
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" value="All" id="all_course_tools">
+                    <span>All</span>
+                  </label>
+                </div>
+            </fieldset>
+        </div>
+        <div class="well">
+            <fieldset id="course_countries_criteria">
+                <legend>Country</legend>
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" value="All" id="all_course_countries">
+                    <span>All</span>
+                  </label>
+                </div>
+            </fieldset>
+        </div>
+
+    </div>
+
+<!-- /.col-md-3 -->
+    <div class="col-md-9">
+      <div class="row">
+        <div class="content col-md-12">
+          <div id="pagination" class="courses-pagination col-md-9"></div>
+          <div class="col-md-3 content">
+            Per Page: <span id="per_page" class="content"></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="courses row" id="courses"> </div>
+    </div>
+<!-- /.col-md-9 -->
+</div>
+<!-- /.container -->
+
+      <script id="course-template" type="text/html">
+        <div class="col-md-4 course">
+          <div class="thumbnail">
+            <span class="label label-success year_level">
+              Year/Level: <%= course_year_level %>
+            </span>
+          <div class="caption">
+            <h4><a href=<%= course_webpage %>><%= course_title %></a></h4>
+            <div class="detail">
+              <dl>
+                <dt>Contact</dt>
+                <dd><%= course_contact %></dd>
+                <dt>Institution</dt>
+                <dd><%= course_institution %></dd>
+                <dt>Country</dt>
+                <dd><%= course_country %></dd>
+                <dt>Course concepts</dt>
+                <dd><%= course_concepts %></dt>
+                <dt>Languages/Tools</dt>
+                <dd><%= course_tools %></dt>
+		<% if(typeof course_reviewed != 'undefined') { %>
+		<dt>Last review date</dt>
+                <dd><%= course_reviewed %></dt>
+		<% } %>
+		</script>
+              </dl>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+      </script>
+    </body>
+    <script src="load-concepts-tools.js" type="text/javascript"></script>
+  </html>
