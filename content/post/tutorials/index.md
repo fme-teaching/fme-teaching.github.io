@@ -39,6 +39,7 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 	
 ## 2023
 - January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.
+- February 28
 
 
 ## 2022:
