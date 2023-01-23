@@ -38,6 +38,7 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 
 	
 ## 2023
+- May 26, 2023, 3 pm CEST: [Research Director Thierry Lecomte](https://www.researchgate.net/profile/Thierry-Lecomte-2), [ClearSy](https://www.clearsy.com/en/), France: **Teaching and Training in Formalisation with B**
 - *Postponed* --> ~~*January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.*~~
 
 
