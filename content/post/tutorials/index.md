@@ -38,6 +38,7 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 
 	
 ## 2023
+- June 16, 2023, 3 pm CEST: [Prof Laura Kovács](http://lkovacs.com), Vienna University of Technology ([TU Wien](https://www.tuwien.at/en/)), Austria: ****
 - May 26, 2023, 3 pm CEST: [Research Director Thierry Lecomte](https://www.researchgate.net/profile/Thierry-Lecomte-2), [ClearSy](https://www.clearsy.com/en/), France: **Teaching and Training in Formalisation with B**
 - April 28, 3 pm CEST: [Associate Prof Stefan Hallerstede](https://pure.au.dk/portal/en/persons/stefan-hallerstede(65c96a3f-b4af-473c-a0d8-7909b2f2903c).html) (Aarhus University, Denmark): **A guide for not teaching Formal Methods**
 - March 31, 3 pm CET: [Associate Prof Emil Sekerinski](http://www.cas.mcmaster.ca/~emil/) (McMaster University, Canada): **Teaching Concurrent Programming**. The abstract of the talk follows below: 
