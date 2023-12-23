@@ -1,6 +1,117 @@
 var courses = 
 [
     {
+        "course_code": "AIF339",
+        "course_institution": "Parahyangan Catholic University",
+        "course_contact": "Aditya Bagoes Saputra",
+        "course_concepts": [
+            "Logic",
+            "Formal Specification",
+            "Temporal Logic",
+            "Model Checking"
+        ],
+        "course_tools": [
+            "Alloy",
+            "Coloured Petri Nets"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "3",
+        "course_title": "Pemodelan Formal",
+        "course_country": "Indonesia"
+    },
+    {
+        "course_code": "",
+        "course_institution": "University of Trento",
+        "course_contact": "Roberto Sebastiani",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Automated Reasoning",
+            "Labelled Transition Systems",
+            "Logic",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Sat",
+            "Smt",
+            "Software Verification",
+            "Theorem Proving",
+            "Timed Automata",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Minisat",
+            "Nusmv",
+            "Smt-Lib"
+        ],
+        "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/fm2023",
+        "course_year_level": "MSc",
+        "": "2023/12/23",
+        "course_title": "Formal Methods",
+        "course_country": "Italy"
+    },
+    {
+        "course_code": "",
+        "course_institution": "Karlsruhe Institute of Technology and Carnegie Mellon University",
+        "course_contact": "Andr\u00e9 Platzer",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Axiomatisation",
+            "Axiomatic Semantics",
+            "Deductive Software Verification",
+            "Deductive Proof",
+            "Deductive Verification",
+            "Denotational Semantics",
+            "Formal Specification",
+            "Hoare Logic",
+            "Induction",
+            "Interactive Theorem Proving",
+            "Logic",
+            "Modal Logics",
+            "Proofs",
+            "Proof Assistants",
+            "Specification",
+            "Theorem Proving"
+        ],
+        "course_tools": [
+            "Keymaera X"
+        ],
+        "course_webpage": "https://lfcps.org/course/lfcps.html",
+        "course_year_level": "3",
+        "": "2023/12/23",
+        "course_title": "Logical Foundations of Cyber-Physical Systems",
+        "course_country": "Germany"
+    },
+    {
+        "course_code": "17-614",
+        "course_institution": "Carnegie Mellon University",
+        "course_contact": "Eunsuk Kang",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Automated Reasoning",
+            "Behavioural Modelling",
+            "Constraints",
+            "Data Refinement",
+            "Formal Specification",
+            "Labelled Transition Systems",
+            "Logic",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Modelling",
+            "Process Calculus",
+            "Relations",
+            "Specification",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Alloy",
+            "Fsp"
+        ],
+        "course_webpage": "https://mse.s3d.cmu.edu/0_documents/syllabi/fa2021/17614-formal-methods.pdf",
+        "course_year_level": "MSc",
+        "": "2023/12/23",
+        "course_title": "Formal Methods",
+        "course_country": "United States"
+    },
+    {
         "course_code": "",
         "course_institution": "Microsoft Research",
         "course_contact": "Markus Kuppe",
@@ -1984,6 +2095,7 @@ var tools =
     "C",
     "Cbmc",
     "Checker Framework",
+    "Coloured Petri Nets",
     "Coq",
     "Cpachecker",
     "Cubicle",
@@ -1994,6 +2106,7 @@ var tools =
     "Fdr4",
     "Frama-C",
     "Frama-C (Wp Plug-In)",
+    "Fsp",
     "Gnat",
     "Gnu Prolog",
     "Go Programming Language",
@@ -2005,6 +2118,7 @@ var tools =
     "Java",
     "Jml",
     "Key",
+    "Keymaera X",
     "Klee",
     "Krakatoa",
     "Lean",
@@ -2053,6 +2167,7 @@ var countries =
     "Croatia",
     "France",
     "Germany",
+    "Indonesia",
     "Ireland",
     "Italy",
     "Luxembourg",
