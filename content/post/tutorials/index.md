@@ -36,6 +36,7 @@ If you wish to receive announcements on these lectures, please subscribe to our 
 **SUBSCRIBE IT-FMEUROPE-FMTEA firstname lastname**
 
 ## 2024
+- March 28, 2024, 3pm CET: [Prof Wolfram Kahl](https://www.cas.mcmaster.ca/~kahl/), McMaster University, Canada: **Teaching with CalcCheck**
 - March 1, 2024, **10 am CET**: [Prof Carroll Morgan](https://www.unsw.edu.au/staff/carroll-morgan), University of New South Wales, Australia: **Teaching formal methods informally: a report from the front line**.
 - January 26, 2024, 3pm CET: [Prof Alcino Cunha](https://alcinocunha.github.io/), University of Minho ([Department of Informatics](https://www.di.uminho.pt/)), Portugal: **Teaching Alloy with Alloy4Fun**.
 	
