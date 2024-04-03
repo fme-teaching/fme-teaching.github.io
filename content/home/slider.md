@@ -17,8 +17,7 @@ height = "400px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "FMTea 2024"
-  content = "Formal Methods Teaching Workshop, affiliated with FM 2024
-  10 September 2024, Milan, Italy"
+  content = "Formal Methods Teaching Workshop, affiliated with FM 2024 10 September 2024, Milan, Italy"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
