@@ -27,7 +27,7 @@ image:
 projects: []
 ---
 
-**FMTea 2023 Website:** https://fmtea.github.io
+**FMTea 2024 Website:** https://fmtea.github.io
 
 Formal Methods provide software engineering with tools and techniques for
 rigorously reasoning about the correctness of systems. While in recent years
@@ -38,8 +38,8 @@ motivation. We need to find ways to teach formal methods to the next
 generation, and doing so will require us to adapt our teaching to the 21st
 century students.
 
-FMTea23 is a combined workshop and tutorial at the 25th International Symposium on Formal
-Methods, FM2023. Its aim is to share experiences of teaching formal methods
+FMTea24 is a combined workshop and tutorial at the 26th International Symposium on Formal
+Methods, FM2024. Its aim is to share experiences of teaching formal methods
 that have gone well, or that failed in surprising ways, as well as to develop
 ways to reboot the presence of formal methods in curricula. 
 
