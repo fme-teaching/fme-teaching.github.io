@@ -1,6 +1,140 @@
 var courses = 
 [
     {
+        "course_code": "SOEN 331",
+        "course_institution": "Concordia University, Montreal, Quebec",
+        "course_contact": "Dr. Constantinos Constantinides",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Formal Specification",
+            "Functional Programming",
+            "Logic",
+            "Logic Programming",
+            "Linear Temporal Logic (Ltl)",
+            "Modelling",
+            "Temporal Logic",
+            "Z Method"
+        ],
+        "course_tools": [
+            "No Tools"
+        ],
+        "course_webpage": "https://users.encs.concordia.ca/~cc/soen331",
+        "course_year_level": "2",
+        "course_title": "Introduction to Formal Methods in Software Engineering",
+        "course_country": "Canada"
+    },
+    {
+        "course_code": "054443",
+        "course_institution": "Politecnico di Milano",
+        "course_contact": "Elisabetta Di Nitto & Matteo Camilli & Matteo Giovanni Rossi",
+        "course_concepts": [
+            "Distributed Systems",
+            "Linear Temporal Logic (Ltl)",
+            "Modelling",
+            "Software Architecture",
+            "Software Verification",
+            "Specification"
+        ],
+        "course_tools": [
+            "Alloy",
+            "Uml"
+        ],
+        "course_webpage": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento",
+        "course_title": "Software Engineering 2",
+        "course_country": "Italy",
+        "course_year_level": [
+            "Unknown"
+        ]
+    },
+    {
+        "course_code": "COMP 335",
+        "course_institution": "Loyola University Chicago",
+        "course_contact": "Konstantin L\u00e4ufer",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Behavioural Modelling",
+            "Formal Specification",
+            "Model Checking",
+            "Property-Based Testing",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Java",
+            "Jqwik",
+            "Tla"
+        ],
+        "course_webpage": "https://lucformalmethodscourse.github.io",
+        "course_year_level": "3",
+        "course_title": "Formal Method in Software Engineering",
+        "course_country": "United States"
+    },
+    {
+        "course_code": "CSCI3393.01 and MATH4311.01 (cross-listed)",
+        "course_institution": "Boston College",
+        "course_contact": "Carl McTague",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Behavioural Equivalences",
+            "Data Structures",
+            "Denotational Semantics",
+            "Formal Specification",
+            "Functional Programming",
+            "Hoare Logic",
+            "Induction",
+            "Interactive Theorem Proving",
+            "Language Theory",
+            "Logic",
+            "Model-Oriented",
+            "Proofs",
+            "Proof Theory",
+            "Proof Assistants",
+            "Relations",
+            "Software Verification",
+            "Specification",
+            "Theorem Proving"
+        ],
+        "course_tools": [
+            "Coq",
+            "Ocaml"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "3",
+        "course_title": "Formal Methods",
+        "course_country": "United States"
+    },
+    {
+        "course_code": "",
+        "course_institution": "Universidade do Minho",
+        "course_contact": "Alcino Cunha",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Behavioural Modelling",
+            "Deductive Software Verification",
+            "Deductive Verification",
+            "Formal Specification",
+            "Hoare Logic",
+            "Logic",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Modelling",
+            "Relations",
+            "Sat",
+            "Smt",
+            "Software Verification",
+            "Specification",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Alloy",
+            "Why3",
+            "Z3"
+        ],
+        "course_webpage": "https://haslab.github.io/MFES",
+        "course_year_level": "MSc",
+        "course_title": "Formal Methods in Software Engineering",
+        "course_country": "Portugal"
+    },
+    {
         "course_code": "AIF339",
         "course_institution": "Parahyangan Catholic University",
         "course_contact": "Aditya Bagoes Saputra",
@@ -2035,6 +2169,7 @@ var concepts =
     "Programming Languages",
     "Proof Assistants",
     "Proof Of C Programs",
+    "Proof Theory",
     "Proofs",
     "Property-Based Testing",
     "Propositional Logic",
@@ -2120,6 +2255,7 @@ var tools =
     "Jape",
     "Java",
     "Jml",
+    "Jqwik",
     "Key",
     "Keymaera X",
     "Klee",
@@ -2150,6 +2286,7 @@ var tools =
     "Staruml",
     "Student-Developed Small Abstract Interpreter",
     "Tla",
+    "Uml",
     "Uml/Ocl",
     "Unknown",
     "Uppaal",
