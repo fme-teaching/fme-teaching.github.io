@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FMTea 2023: Formal Methods Teaching Workshop and Tutorial"
+title: "FMTea 2024: Formal Methods Teaching Workshop"
 subtitle: ""
-summary: "Lübeck, Germany. March 6, 2023"
+summary: "Milan, Italy, 10 September 2024"
 authors: []
 tags: []
 categories: [Events]
-lastmod: 2023-03-06T12:05:12+01:00
+lastmod: 2024-08-29
 featured: false
 draft: false
 
