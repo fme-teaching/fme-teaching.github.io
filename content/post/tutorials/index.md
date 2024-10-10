@@ -34,7 +34,7 @@ In the FME Teaching Committee, we coordinate a tutorial series, planned to be he
 If you wish to receive announcements on these lectures, please subscribe to our mailing list fmtea@fmeurope.org by sending an email to sympa@lists.uu.se with the subject line  
 **SUBSCRIBE IT-FMEUROPE-FMTEA firstname lastname**
 
-Here is the [Zoom link](https://aboakademi.zoom.us/j/64254430116).
+Here is the [Zoom link](https://aboakademi.zoom.us/j/64254430116)
 
 ## 2025
 - February 28, 2025: [Prof Marielle Stoellinga](https://people.utwente.nl/m.i.a.stoelinga), University of Twente, The Netherlands: **Life long learning --- experience with educational programs for professionals**
