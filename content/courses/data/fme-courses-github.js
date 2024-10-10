@@ -1,6 +1,152 @@
 var courses = 
 [
     {
+        "course_code": "CS 6110",
+        "course_institution": "University of Utah",
+        "course_contact": "Ben Greenman",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Formal Specification",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Proof Assistants",
+            "Software Verification",
+            "Tool-Based Testing"
+        ],
+        "course_tools": [
+            "Forge",
+            "Alloy",
+            "Dafny",
+            "Lean",
+            "Python",
+            "Hypothesis"
+        ],
+        "course_webpage": "https://utah.instructure.com/courses/934118",
+        "course_year_level": "PhD",
+        "course_title": "Software Verification",
+        "course_country": "United States"
+    },
+    {
+        "course_code": "088882",
+        "course_institution": "Politecnico di Milano",
+        "course_contact": "Pierluigi San Pietro",
+        "course_concepts": [
+            "Hoare Logic",
+            "Labelled Transition Systems",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Timed Automata",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Uppaal"
+        ],
+        "course_webpage": "https://tinyurl.com/26z2c78v",
+        "course_year_level": "MSc",
+        "course_title": "Formal methods for concurrent and real-time systems.",
+        "course_country": "Italy"
+    },
+    {
+        "course_code": "CS4211",
+        "course_institution": "National University of Singapore",
+        "course_contact": "Jin Song Dong",
+        "course_concepts": [
+            "Formal Specification",
+            "Model Checking",
+            "Process Algebra",
+            "Z Method"
+        ],
+        "course_tools": [
+            "Pat"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "4",
+        "course_title": "Formal Methods for Software Engineering",
+        "course_country": "Singapore"
+    },
+    {
+        "course_title": "Software Correctness, Security and Reliability",
+        "course_country": "Italy",
+        "course_concepts": [
+            "Unknown"
+        ],
+        "course_tools": [
+            "Unknown"
+        ],
+        "course_institution": [
+            "Unknown"
+        ],
+        "course_year_level": [
+            "Unknown"
+        ],
+        "course_webpage": "#"
+    },
+    {
+        "course_code": "",
+        "course_institution": "\u00c5bo Akademi University",
+        "course_contact": "Luigia Petre",
+        "course_concepts": [
+            "Requirements",
+            "Software Architecture",
+            "Software Verification",
+            "Software Metrics"
+        ],
+        "course_tools": [
+            "Dafny",
+            "Tla+",
+            "Rodin"
+        ],
+        "course_year_level": "MSc",
+        "course_title": "Software Quality",
+        "course_country": "Finland",
+        "course_webpage": "#"
+    },
+    {
+        "course_code": "",
+        "course_institution": "\u00c5bo Akademi University",
+        "course_contact": "Luigia Petre",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Logic",
+            "Modelling",
+            "Proofs",
+            "Software Verification",
+            "Specification",
+            "Wp Calculus"
+        ],
+        "course_tools": [
+            "Dafny"
+        ],
+        "course_webpage": "https://moodle.abo.fi/course/view.php?id=11759",
+        "course_year_level": "MSc",
+        "course_title": "Tools for Reliable Software Construction",
+        "course_country": "Finland"
+    },
+    {
+        "course_code": "IF721",
+        "course_institution": "Universidade Federal de Pernambuco",
+        "course_contact": "Gustavo Carvalho",
+        "course_concepts": [
+            "B Method",
+            "Data Refinement",
+            "Formal Specification",
+            "Model Checking",
+            "Proofs",
+            "Relations",
+            "Software Verification",
+            "Specification"
+        ],
+        "course_tools": [
+            "Atelierb",
+            "Prob",
+            "Bmotionweb"
+        ],
+        "course_webpage": "https://sites.google.com/a/cin.ufpe.br/if721",
+        "course_year_level": "3",
+        "course_title": "Critical Systems",
+        "course_country": "Brazil"
+    },
+    {
         "course_code": "SOEN 331",
         "course_institution": "Concordia University, Montreal, Quebec",
         "course_contact": "Dr. Constantinos Constantinides",
@@ -1698,28 +1844,6 @@ var courses =
         "course_country": "United States"
     },
     {
-        "course_institution": "Politecnico di Milano",
-        "course_contact": "Dino Mandrioli",
-        "course_concepts": [
-            "Logics For Specifying Systems",
-            "Hoare Logic",
-            "Timed Petri Nets",
-            "Trio",
-            "Metric Temporal Logic",
-            "Real-Time Systems",
-            "Applied Formal Methods"
-        ],
-        "course_tools": [
-            "Zot"
-        ],
-        "course_webpage": "http://home.deib.polimi.it/mandriol/Didattica/sitofms.html",
-        "course_title": "Formal methods for concurrent and real-time systems",
-        "course_country": "Italy",
-        "course_year_level": [
-            "Unknown"
-        ]
-    },
-    {
         "course_institution": "Universit\u00e9 Paris-Saclay",
         "course_contact": "Andrei Paskevich and Julien Signoles",
         "course_concepts": [
@@ -2135,13 +2259,11 @@ var concepts =
     "Logic Programming",
     "Logic Specifications",
     "Logics",
-    "Logics For Specifying Systems",
     "Loop Invariants",
     "Ltl",
     "Ltl Model Checking",
     "Mcrl2",
     "Memory Models",
-    "Metric Temporal Logic",
     "Modal Logic",
     "Modal Logics",
     "Modal Mu-Calculus",
@@ -2177,11 +2299,11 @@ var concepts =
     "Quantum Computation",
     "Quantum Protocols",
     "Real-Time And Probabilistic Model Checking",
-    "Real-Time Systems",
     "Reasoning About Processes",
     "Refinement",
     "Relational Logic",
     "Relations",
+    "Requirements",
     "Sat",
     "Sat-Solving",
     "Separation Logic",
@@ -2189,6 +2311,7 @@ var concepts =
     "Smt",
     "Software Analysis Tools",
     "Software Architecture",
+    "Software Metrics",
     "Software Verification",
     "Soundness And Completeness",
     "Spark",
@@ -2206,10 +2329,8 @@ var concepts =
     "Test Cases Generation",
     "Theorem Proving",
     "Timed Automata",
-    "Timed Petri Nets",
     "Tool-Based Testing",
     "Transition Systems",
-    "Trio",
     "Type Invariants",
     "Type Systems",
     "Type Theory",
@@ -2230,6 +2351,8 @@ var tools =
     "Ampersand",
     "Antlr",
     "Atelier-B",
+    "Atelierb",
+    "Bmotionweb",
     "C",
     "Cbmc",
     "Checker Framework",
@@ -2242,6 +2365,7 @@ var tools =
     "Esc/Java",
     "Fastest",
     "Fdr4",
+    "Forge",
     "Frama-C",
     "Frama-C (Wp Plug-In)",
     "Fsp",
@@ -2250,6 +2374,7 @@ var tools =
     "Go Programming Language",
     "Gps",
     "Haskell",
+    "Hypothesis",
     "Infer",
     "Isabelle",
     "Jape",
@@ -2270,10 +2395,12 @@ var tools =
     "Nusmv",
     "Nuxmv",
     "Ocaml",
+    "Pat",
     "Prism",
     "Prob",
     "Prolog",
     "Pvs",
+    "Python",
     "Rapl",
     "Reo",
     "Rodin",
@@ -2286,6 +2413,7 @@ var tools =
     "Staruml",
     "Student-Developed Small Abstract Interpreter",
     "Tla",
+    "Tla+",
     "Uml",
     "Uml/Ocl",
     "Unknown",
@@ -2294,7 +2422,6 @@ var tools =
     "Why3",
     "Z",
     "Z3",
-    "Zot",
     "{Log} (Setlog)"
 ]
 var countries = 
@@ -2305,6 +2432,7 @@ var countries =
     "Brazil",
     "Canada",
     "Croatia",
+    "Finland",
     "France",
     "Germany",
     "Indonesia",
@@ -2316,6 +2444,7 @@ var countries =
     "Norway",
     "Portugal",
     "Romania",
+    "Singapore",
     "Spain",
     "Sweden",
     "Switzerland",
