@@ -28,7 +28,7 @@ image:
 #projects: []
 ---
 
-In the FME Teaching Committee, we coordinate a tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The series is held online via zoom. We record (whenever the speaker agrees) these presentations and collect them below.
+In the FME Teaching Committee, we coordinate a tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The series is held online via zoom. We record (whenever the speaker agrees) these presentations and collect them below.
 
 {{% callout important %}}
 If you wish to receive announcements on these lectures, please subscribe to our mailing list fmtea@fmeurope.org by sending an email to sympa@lists.uu.se with the subject line  
@@ -59,7 +59,9 @@ Here are the details of the scheduled Zoom meeting:
 
 
 ## 2025
+<!------------------------------------------------------------------------------------>
 - <img src="photos/miastoelinga.jpg" style="width:200px;" /> February 28, 2025: [Prof Marielle Stoellinga](https://people.utwente.nl/m.i.a.stoelinga), University of Twente, The Netherlands: **Life long learning --- experience with educational programs for professionals**
+<!------------------------------------------------------------------------------------>
 
 
 <!--
@@ -69,8 +71,11 @@ LIST OF 2024 TUTORIALS STARTS HERE
 -->
 ---
 ---
+
 ## 2024
+<!------------------------------------------------------------------------------------>
 - <img src="photos/Rosemary-Monahan.webp" style="width:200px;" /> September 27, 2024, 3 pm CET: [Prof Rosemary Monahan](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rosemary-monahan), [Maynooth University](https://www.maynoothuniversity.ie/), Ireland, on **Teaching Dafny at undergraduate and MSc level on Irish and Erasmus+ European Degree programmes**. 
+
   - The recording of Prof. Monahan's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=e47c68b5-f5b9-4498-b661-b1fa012337a6) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/6ksdjsvtkssua8y4p55t9/AL7T_07RANiR6rb4HZDvHpI?rlkey=ws80ondby0y22y7ep68oj83ah&dl=0). 
 
   - {{< spoiler text="Read more" >}} 
@@ -83,11 +88,12 @@ In this talk, she presented her experience, overviewing what she teaches in modu
 -->
 {{< /spoiler >}}
 ---
+<!------------------------------------------------------------------------------------>
 
-
+<!------------------------------------------------------------------------------------>
 - <img src="photos/Tiziana_Margaria.jpg.webp" style="width:200px;" />  May 24, 2024, 3 pm CEST: [Prof Tiziana Margaria](https://www.ul.ie/hri/person/hri-member/prof-tiziana-margaria), University of Limerick, Ireland: **Teaching Formal Methods in Germany vs. Ireland: experience from two very different systems**. 
+  
   - The recording of Prof Margaria's lecture is [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=d355113a-e8ae-4826-ba20-b17a00f14c3e). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/scl/fo/paep2ehur7xe9v76gmibf/ACclqGozsCUSdw0zlnaRRlo?rlkey=948qemmivjk7xfkd4ybwej8ag&dl=0). 
-
 
   - {{< spoiler text="Read more" >}} 
 Prof Margaria has significant experience in teaching Formal Methods to software engineering students  as well as to people with no software development experience. Her courses always revolve around case studies stemming from research, often in cooperation with industry, thus offering strong motivation to those studying. In a recently started project involving both academia and industry, they are going to develop so-called Formal Methods micromodules for the partners in industry, so that they come up to speed with the needed formalisms and tools. In fact, she argues for how to break the vicious circle of industry missing Formal Methods specialists educated by academia, while universities usually do not teach Formal Methods because the common knowledge is that industry manages without it: Tiziana suggests that we can start with teaching Formal Methods modules to industry, starting with FM-infused Model Driven Development as a flavour of the trendy Low-code/No-code movement. In this way, industrialists can experience some Formal Methods strength and ask for more. 
@@ -101,7 +107,9 @@ In the tutorial, Prof Margaria describes teaching Formal Methods in two countrie
 
 {{< /spoiler >}}
 ---
+<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
 - <img src="photos/Wolfram_Kahl_headshot-280x280.jpg" style="width:200px;" />  March 28, 2024, 3pm CET: [Prof Wolfram Kahl](https://www.cas.mcmaster.ca/~kahl/), McMaster University, Canada: **Teaching with CalcCheck**. 
   
   - The recording of Prof Kahl's lecture is [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=26acc5a4-a819-4927-a765-b1430177586b). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/scl/fo/5nvk2ostzl3i2yu62no0n/h?rlkey=cy7ktcch7u2qujcfkmmdwff07&dl=0). 
@@ -114,9 +122,9 @@ Prof Kahl talked about his experiences in teaching with an impressive tool calle
  * Customisability: Teachers can create custom exercises and problem sets tailored to their curriculum, making it a versatile tool for a variety of mathematical topics.
 {{< /spoiler >}}
 ---
+<!------------------------------------------------------------------------------------>
 
-
-
+<!------------------------------------------------------------------------------------>
 - <img src="photos/carroll-morgan.jpg" style="width:200px;" /> March 1, 2024, 10 am CET: [Prof Carroll Morgan](https://www.unsw.edu.au/staff/carroll-morgan), University of New South Wales, Australia: **Teaching formal methods informally: a report from the front line**. 
 
   - The recording of Prof. Morgan's lecture is [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1688654f-9933-4053-83bd-b12600b7e091). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/scl/fo/1tdkqqwz6tqcbvpb9qvk5/h?rlkey=zg5ggtkb41ja1994jgjvftdm7&dl=0). 
@@ -129,7 +137,9 @@ However, just after 2019's lecture his course had to change suddenly to being wh
 Prof. Morgan also argues that the target “audience” we need to address in the Formal Methods courses is neither the top nor the bottom minorities, who will do what they usually do more or less independently of how we teach them. Instead, we need to focus on the middle majority --- because they are the people who will program our phones in 10 years. If we can make an impression on them, with respect to incorporating the ideas of Formal Methods reasoning into their everyday programming tasks, then we have fulfilled our mission.
 {{< /spoiler >}}
 ---
+<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
 - <img src="photos/alcino-cunha.jpg" style="width:200px;" /> January 26, 2024, 3pm CET: [Prof Alcino Cunha](https://alcinocunha.github.io/), University of Minho ([Department of Informatics](https://www.di.uminho.pt/)), Portugal: **Teaching Alloy with Alloy4Fun**. 
 
   - The recording of Prof. Cunha's lecture is [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=64389960-29d9-4430-82c2-b106007baad8). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/scl/fo/hqwmpzw0wxjnb1j9yqdd4/h?rlkey=gd8y78yaaio8ff7cd6jf6xtqx&dl=0). 
@@ -137,6 +147,7 @@ Prof. Morgan also argues that the target “audience” we need to address in th
   - {{< spoiler text="Read more" >}} 
 Alcino was one of the proponents of Alloy6 and Alloy4Fun, has been teaching with Alloy for more than 15 years, and uses Alloy4Fun in teaching since 2019. Some info on Alloy4Fun can be seen [here](https://haslab.github.io/Alloy4Fun/tutorial.html) and Alloy4Fun itself can be found [here](http://alloy4fun.inesctec.pt/). The main two goals for proposing Alloy4Fun were (i) the need to easily share models in Alloy with students and (ii) the need to get immediate feedback on the just written specifications. Neither of these were possible with the standard tool for modelling with Alloy (Alloy Analyzer). During the tutorial, Alcino gives a demo on how to write and check Alloy specifications in Alloy4Fun and explains how he uses this in the course **Formal Methods in Software Engineering** - a mandatory MSc course attended every year by more than 200 students.
 {{< /spoiler >}}
+<!------------------------------------------------------------------------------------>
 
 <!--
 --
@@ -146,7 +157,9 @@ LIST OF 2023 TUTORIALS STARTS HERE
 ---
 ---
 ## 2023
+<!------------------------------------------------------------------------------------>
 - <img src="photos/lkovacs.jpg" style="width:200px;" /> June 16, 2023, 3 pm CEST: [Prof Laura Kovács](http://lkovacs.com), Vienna University of Technology ([TU Wien](https://www.tuwien.at/en/)), Austria: **Teaching Formal Reasoning at TU Wien**. 
+
   - The recording of Prof. Kovács' lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=a9b23939-37cb-4db9-b492-b02b00453f07) and screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/ocyt0ho7988gc8n/AABMOG6EqA9S_egjLrKtBszSa?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
@@ -154,25 +167,34 @@ Laura talked about her experiences on teaching two courses at TU Wien: _Formal M
 
 Some remarkable effects of Laura's teaching are the motivation and inspiration many students get, and driven so, they choose to write their MSc theses in Formal Methods, some of them even choosing to remain in academia in Laura's research group. This is really wonderful and rare: many of us let our research results to influence our teaching, but for teaching to influence research is less heard of. Driven by the success of these graduated courses, from next spring, TU Wien will also provide a Formal Methods course for BSc students, called _Logic and Reasoning_. The slides of Laura's presentation are [here](https://www.dropbox.com/s/wa37syjo8qbhhcm/FMTea23_Kovacs.pdf?dl=0).
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-
+<!------------------------------------------------------------------------------------>
 - <img src="photos/Thierry-Lecomte-2.jpg" style="width:200px;" /> May 26, 2023, 3 pm CEST: [Research Director Thierry Lecomte](https://www.researchgate.net/profile/Thierry-Lecomte-2), [ClearSy](https://www.clearsy.com/en/), France: **Teaching and Training in Formalisation with B**. 
+
   - The recording of Dr. Lecomte's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=75f2adc1-85dd-40a5-8209-b00f00566e03) and screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/trnee19wpf38vis/AACAwdsK30SFNpI3ofvwgra2a?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
 Thierry talked about his experiences of almost 30 years spent in the education of engineers (colleagues or customers) and students, together with the parallel design and improvement of supporting modelling tools in B. In a [recently published paper](https://link.springer.com/chapter/10.1007/978-3-031-27534-0_6), Thierry says: _Applying formal methods in software industry is still perceived as a difficult task. To ease the task, providing tools that help during the development cycle is essential, but **proper education of computer scientists and software engineers is also an important challenge to take up!**_ Clearsy is an adept of Piaget's hypothesis that only one third of the population is able to handle abstraction, and so, people are sorted into their most suitable job based on how they perform in their initial training. People that are hired at Clearsy need to have some experience in modelling, independently of the modelling language. A big part of a Clearsy engineer's job consists in proving interactively various system properties, in average about 16 proofs per day. Training engineers is therefore focusing on all these aspects. The slides of the presentation are [here](https://www.dropbox.com/s/6apq9e97mxbn72p/formalisation%20with%20B.pdf?dl=0).
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-
+<!------------------------------------------------------------------------------------>
 - <img src="photos/StefanH.webp" style="width:200px;" /> April 28, 3 pm CEST: [Associate Prof Stefan Hallerstede](https://pure.au.dk/portal/en/persons/stefan-hallerstede(65c96a3f-b4af-473c-a0d8-7909b2f2903c).html) (Aarhus University, Denmark): **A guide to Not teaching Formal Methods**. 
+
   - The recording of Prof. Hallerstede's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=2925e202-0e3f-442d-a677-aff201037070).  Screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/gvpmkco20voslek/AABHIy9MeP-ivZj8vrltJqTca?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
 Stefan's talk was based on his experience in creating a new curriculum for Software Engineering studies at the undergraduate level, where they embedded Formal Methods somewhat inconspicuously in about 9 fundamental courses. A paper describing this process can be checked [here](https://doi.org/10.1007/978-3-030-57663-9_12). Creating a new BSc curriculum on Software Engineering in 2020 was a remarkable opportunity, given that in Århus University there is also a more theoretical program as well as a more applied program. Currently, the new Software Engineering program has about 50 students enrolled, but it can take up to 60 every year. The main idea of this program is to focus on what it means to be a good engineer in software: understand why a solution works or does not work, know the technologies, understand the importance of teams and communication - thus, not only programming. The focus is on programming methodology and not program constructs, because it is in the programming methodology that formal methods make sense. Three important features that the BSc program emphasises are (serious) thinking about the problem to solve, being rigorous, and understand program development in the sense of refinement. Teaching is dedicated to the students being young people, for instance containing numerous puzzles and challenges. Students and industrial partners already offer good feedback on this new initiative. The slides from the presentation can be seen [here](https://www.dropbox.com/s/kekyrv96hy48qpt/slides.pdf?dl=0).
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-
+<!------------------------------------------------------------------------------------>
 - <img src="photos/emil.jpg" style="width:200px;" /> March 31, 3 pm CEST: [Associate Prof Emil Sekerinski](http://www.cas.mcmaster.ca/~emil/) (McMaster University, Canada): **Teaching Concurrent Programming**. 
+
   - The recording of Prof. Sekerinski's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=ca358ec9-f380-422a-bfc8-afd601231cf7).  A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/pfnexhierzr5v8i/AACgpCWmyug7sel-6DsPqeQSa?dl=0). 
    
   - {{< spoiler text="Read more" >}} 
@@ -182,9 +204,12 @@ The abstract of the talk follows below:
 
 >The education in programming has in a certain sense deteriorated since the 80’s and 90’s: programming languages and environments, as common in industry and to which students are exposed in Computer Science, Software Engineering, and related programs, have become complex. Mastering them consumes students to an extent that courses cannot decouple the (timeless) principles of programming from the (short-lived) specifics of the programming environments at hand; the mathematical background on program design is often not taught. This is particularly critical for concurrent programming, which has become increasingly relevant but cannot be mastered without a theoretical background. The author has been developing course material for a required 3rd year Software Engineering course at McMaster University, Concurrent System Design with around 170 students, since 2018 to address that issue by web-based interactive notebooks using Jupyter that combine explanations, the mathematical theory, and execution of programs directly in the notebooks. Correctness reasoning, including non-interference of processes, is explained through hierarchical state diagrams. This talk gives an overview of the course material, which is available as an open educational resource, and reports on the experience.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
 - *Postponed* --> ~~*January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.*~~
-
+<!------------------------------------------------------------------------------------>
 
 <!--
 --
@@ -194,38 +219,58 @@ LIST OF 2022 TUTORIALS STARTS HERE
 ---
 ---
 ## 2022
-- December 9, 2022, 3 pm CET: [Principal Research Engineer Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180/), (RiSE group at Microsoft Research, US): **Stories from the trenches: Teaching the TLA+ specification language in Industry**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/markus-kuppe.jpeg" style="width:200px;" /> December 9, 2022, 3 pm CET: [Principal Research Engineer Markus A. Kuppe](https://www.linkedin.com/in/markus-kuppe-643559180/), (RiSE group at Microsoft Research, US): **Stories from the trenches: Teaching the TLA+ specification language in Industry**. 
+
   - The recording of Eng. Kuppe's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1ea5f90b-889b-493d-be8b-af6700c64031). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/mzznc34i7z6mvl1/AAB0wrw9vGfRqVCNkm8NoLaEa?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
 Markus works with Formal Methods at Microsoft for about 8 years, focusing on scaling verification to real-world problems and building tools that embed specification with established software engineering processes. He also teaches occasionally TLA+ to industrialists and in this lecture he described his experiences. Markus started by pinpointing the main features of TLA+, such as the fact that we can write both programs and the properties about the programs in the same language, the TLC model checker (main verification workhorse, enabling the proving of safety, liveness and refinement), PlusCal (the pseudocode avatar of TLA+, somewhat preferred for its non-mathematical syntax, although features such as complex fairness and refinement cannot be captured), Apalache (the new kid on the block in terms of verification, based on Z3), and TLAPS (the proof system which encompasses all the above). Examples in TLA+ can be checked [here](https://github.com/tlaplus/examples). He described challenges for engineers, such as the fact the liveness and fairness are not concepts common in programming; he also observed how various characteristics do not pose a challenge to programmers, such as the TLA+ syntax (programmers are "polyglots") and the "always" and "eventually" operators. The TLA+ teaching materials that Markus uses in his workshops can be seen [here](https://github.com/tlaplus-workshops/ewd998).
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
 - *Postponed* --> ~~*(**Wednesday**!!) November 30, 2022, **10 am CET**: [Prof Carroll Morgan](https://www.unsw.edu.au/staff/carroll-morgan) (University of New South Wales, Australia): **Teaching formal methods informally: a report from the front line**.*~~
+---
+<!------------------------------------------------------------------------------------>
 
-
-- October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/allan-blanchard.jpg" style="width:200px;" /> October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
+  
   - The recording of Dr. Blanchard's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=6e88214a-7d90-46ce-aed9-af3c00f2efbe). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/e9930tnjq16yqn7/AAB7acpEvzhXuqJsfmRcN0Mfa?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
 [Frama-C](https://frama-c.com) is a set of (mostly open-source) tools aimed at analysing C-code. [ACSL](https://frama-c.com/html/acsl.html) is the specification language used to express contracts that the C-code should implement or conform to. In his tutorial, Allan described the [WP plugin](https://frama-c.com/fc-plugins/wp.html) of Frama-C, a static analyser of C-code based on the weakest precondition calculus. He showed how interesting properties can be verified (e.g., the ACSL properties) and how also runtime problems that might occur are flagged by WP. Allan teaches WP to students in two courses and teaches also to industry. Safety-critical sectors (in railway, aviation, nuclear plants, etc) have an easier time accepting and adapting to Frama-C than non-critical sectors, as the former have a culture of using formal methods in some forms for some decades already. CEA-LIST works with the latter as well, introducing the subject stepwise. Certification can also be achieved with Frama-C - this provides motivation to students for investing in this field. [Here](https://frama-c.com/html/contact.html) you can contact the Frama-C community and [here](https://frama-c.com/html/publications.html) you can check up many resources, including publications and manuals on the different resources. 
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-- September 30, 2022, 3 pm CEST: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/Michael_Leuschel.jpg" style="width:200px;" /> September 30, 2022, 3 pm CEST: [Prof Michael Leuschel](https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel) (Heinrich-Heine-University Düsseldorf, Germany): **Teaching Formal Methods and Theoretical Computer Science with ProB**. 
+
   - The recording of Prof Leuschel's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1e9786af-5fee-49c3-bfba-af2000ecf655). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/qes8pww21oo6g23/AACS02B8iKQaXBm1qn7tbIH3a?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
 Michael is the inventor of ProB and his lecture focused on several areas related to ProB and teaching. First, he discussed ways of using ProB for teaching various computer science courses, from basic ones, such as Logic for Computer Science and Automata Theory to more advanced ones such as Safety-Critical Systems. Together with his research group, Michael developed a [jupyter kernel for ProB](https://gitlab.cs.uni-duesseldorf.de/general/stups/prob2-jupyter-kernel) and uses jupyter notebooks to, e.g., express ProB formulas, executable models for various formalisms (deterministic and non-deterministic finite automata, Turing machines, etc), executable B versions for various algorithms, and visualisations of these. [Here](https://gitlab.cs.uni-duesseldorf.de/general/stups/prob-teaching-notebooks) and [here](https://gitlab.cs.uni-duesseldorf.de/general/stups/prob2-jupyter-notebooks) are some examples. Second, students are given opportunities to get involved in developing code for ProB, for instance to develop various plugins. Michael showed an impressive ProB timeline slide where students contributions are emphasised: they are numerous! Third, we were shown how to combine animation and visualisation in ProB to teach. Some classical Event-B examples were shown (the cars on a bridge problem from the Event-B book of Abrial) as well as a Sudoku visualisation made by a young student. [VizB](https://prob.hhu.de/w/index.php?title=VisB) - ProB's visualisation feature was demonstrated with these examples.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-- August 26, 2022, 3 pm CEST: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/Robert_Lewis.jpg" style="width:200px;" /> August 26, 2022, 3 pm CEST: [Dr Robert Lewis](https://robertylewis.com) (Brown University, US): **Teaching the theory and practice of proof assistants with Lean**. 
+
   - The recording of Dr. Lewis' lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=97416ff0-1d01-4d2c-b324-af1400e59c8f). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/ilwxupkexoeifu7/AABdpUr9KWEIwCgvkqVs3qu8a?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
 In the lecture, Dr Lewis explains how he teaches his course, called "Formal Proof and Verification". This is an elective course on learning to prove properties with the Lean theorem prover. The course is inspired by a similar course held by Jasmin Blanchette at VU Amsterdam, based on the "[Hitchhiker's Guide to Logical Verification](https://cs.brown.edu/courses/cs1951x/static_files/main.pdf)", that Jasmin Blanchette co-authored. In the course, the students learn to use logic as a precise specification language and learn the theory and practice of Interactive Theorem Provers. Rob encourages them to prove, even if the proofs are not completed. Also, part of the students contribute to writing code for the Lean theorem prover. It is this combination of academic software development and precise modeling that makes the students more prepared to continue doing research in the Formal Methods area.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-- July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/) (RWTH Aachen University, Germany): **Automatic exercise generation for satisfiability checking**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/erika-abraham.webp" style="width:200px;" /> July 29, 2022: [Prof Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/) (RWTH Aachen University, Germany): **Automatic exercise generation for satisfiability checking**. 
+  
   - The recording of Prof. Abraham's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=6db40ef7-fd30-435a-8cac-af1400e45e2c). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/58euu3tccmiqcqh/AACUDD9EvYYYjk9ua9nGrLM4a?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
@@ -254,9 +299,12 @@ exam.
 turned out to be a hard nut. In this talk we discuss the obstacles and 
 propose some solutions.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/tim-nelson.png" style="width:200px;" /> June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/) (Brown University, US): **Building Formal Methods Classes for Everybody**.
 
-- June 17, 2022: [Dr Tim Nelson](https://cs.brown.edu/~tbn/) (Brown University, US): **Building Formal Methods Classes for Everybody**.
   - The recording of Dr Nelson's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=71222074-e82c-41f9-a860-aeb701604ce0). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/eu4faeqzclkvvw8/AAAFSkLxlttNsqcZqMJY2Yxka?dl=0), together with the chat from the talk. 
 
   - {{< spoiler text="Read more" >}} 
@@ -268,8 +316,12 @@ The abstract of Dr Nelson's lecture is here:
 
 > Some people derisively respond to a more inclusive class by assuming it will coddle students. On the contrary, these students have their own strengths and abilities that we can and should design rigorous content around. After all, many of them will build the technologies we all use every day, so deepening their view of formalism satisfies both moral and selfish imperatives. This talk will cover the design space of such a course: pedagogy, tool choice (sometimes building our own!), assignment design, and even TA hiring. I'll talk about things that have worked well for us, other things that didn't, and what we learned along the way.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 	
-- (Thursday!!) April 28, 2022, 3 pm CET: [Prof. Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/) (University of Oxford, UK): **How to Design Co−Programs**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/jeremy-gibbons.jpg" style="width:200px;" /> April 28, 2022, 3 pm CET: [Prof. Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/) (University of Oxford, UK): **How to Design Co−Programs**. 
+
   - The recording of Prof. Gibbons's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=cc2dee8f-c53a-4009-b190-ae85015d4a54). A few screenshots from the lecture can be checked [here](https://www.dropbox.com/sh/wwxcyyen216591s/AAAQgVLRf7FFVdjIWBN2Z9_ba?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
@@ -281,9 +333,12 @@ The abstract of Prof. Gibbons' lecture is here:
 
 >The observation that program structure follows data structure is a key lesson in introductory programming: good hints for possible program designs can be found by considering the structure of the data concerned. In particular, this lesson is a core message of the influential textbook "How to Design Programs" by Felleisen, Findler, Flatt, and Krishnamurthi. However, that book discusses using only the structure of input data for guiding program design, typically leading towards structurally recursive programs. We argue that novice programmers should also be taught to consider the structure of output data, leading them also towards structurally corecursive programs.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-	
-- February 25, 2022, 3 pm CET: [Prof Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University, US): **From Tests to Properties: Property-Based Testing Using Relational Problems**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/shriram.jpg" style="width:200px;" /> February 25, 2022, 3 pm CET: [Prof Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University, US): **From Tests to Properties: Property-Based Testing Using Relational Problems**. 
+
   - The recording of Prof. Krishnamurthi's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=44f23b72-521a-4e11-9792-ae470100ea96). Screenshots from the lecture, as well as the chat window can be checked [here](https://www.dropbox.com/sh/7c3n11z8n6qacg9/AADvxsspMhP0LyF60ToNzcG0a?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
@@ -291,6 +346,7 @@ Shriram is involved in teaching 3 formal methods courses at Brown, with audience
 	* Using Relational Problems to Teach Property-Based Testing (John Wrenn, Tim Nelson, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/wnk-use-rel-prob-pbt/)
 	* Automated, Targeted Testing of Property-Based Testing Predicates (Tim Nelson, Elijah Rivera, Sam Soucie, Thomas Del Vecchio, Jack Wrenn, Shriram Krishnamurthi), link [here](https://cs.brown.edu/~sk/Publications/Papers/Published/nrsdwk-auto-targ-test-pbt-pred/)
 {{< /spoiler >}}
+<!------------------------------------------------------------------------------------>
 
 <!--
 --
@@ -300,29 +356,43 @@ LIST OF 2021 TUTORIALS STARTS HERE
 ---
 ---
 ## 2021
-- December 10, 9am CET: [Assoc Prof David Pearce](https://whileydave.com) (Victoria University of Wellington, New Zealand): **Teaching Software Verification with Whiley**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/david-pearce.jpg" style="width:200px;" /> December 10, 9am CET: [Assoc Prof David Pearce](https://whileydave.com) (Victoria University of Wellington, New Zealand): **Teaching Software Verification with Whiley**. 
+
   - The recording of Assoc. Prof. Pearce's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=fc17ba8d-a69e-447e-828c-ae4700a3a370). Screenshots from the lecture as well as the chat with questions can be checked from [here](https://www.dropbox.com/sh/hbtg9x2bj3uwsin/AAAoa5r_OTXOy0rKjih5vNjza?dl=0). 
   
   - {{< spoiler text="Read more" >}} 
 [Whiley](http://whiley.org) is a programming language that can be used for verification and it was initiated by David himself. [Here](https://en.wikipedia.org/wiki/Whiley_(programming_language)) is the Wikipedia page for it and [here](https://github.com/Whiley/) the github page. David's talk is divided into two parts - the first one describing and demonstrating Whiley and the second one offering hints on teaching it.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
 - November 20-21, 9am-4pm CET: [Tutorials@FM21](http://lcs.ios.ac.cn/fm2021/workshops-and-tutorials/) 
  	* FMTea videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/fmtea_cet/); FMTea is currently the main workshop on teaching formal methods. 
  	* FMI videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/fmi_cet/); FMI is a tutorial about formal methods used in connection with the digital twin concept.
  	* Event-B IDE videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/eventb_dsl_cet/); Event-B IDE is a tutorial about developing an IDE for the Event-B language.
  	* Momba videos can be seen from [here](http://lcs.ios.ac.cn/fm2021/momba_cet/); Momba is a tutorial about quantitative modelling with python.
+---
+<!------------------------------------------------------------------------------------>
 
-- October 29, 2021, 3pm CET: [Dr Ran Ettinger](https://www.cs.bgu.ac.il/~ranger/) (Ben-Gurion University, Israel): **Teaching Cantor's theorem, a pumping lemma, and the derivation of a heapsort algorithm using Dafny**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/ran-ettinger.jpg" style="width:200px;" /> October 29, 2021, 3pm CET: [Dr Ran Ettinger](https://www.cs.bgu.ac.il/~ranger/) (Ben-Gurion University, Israel): **Teaching Cantor's theorem, a pumping lemma, and the derivation of a heapsort algorithm using Dafny**. 
+
   - The recording of Dr. Ettinger's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1e79e969-5ea5-40fd-b84a-adf30081a96c). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/317v6s68cjusb4i/AACg3JOZ14jcJNxyA9O0_y3Ha?dl=0). 
   
   - {{< spoiler text="Read more" >}} 
 Ran demonstrates in this lecture a hands-on approach on how to prove mathematical theorems with Dafny, a programming language generally used for verifying the correctness of software. This is a refreshing approach that Ran continues to teach even now when he moved to industry (NVidia). Dafny was initiated by Rustan Leino at Microsoft Research and is now (since Rustan moved to Amazon) maintained by Amazon Web Services. [Here](https://github.com/dafny-lang/dafny) is Dafny's github website and [here](https://en.wikipedia.org/wiki/Dafny) is Dafny's Wikipedia page.
 {{< /spoiler >}}
+---
+<!------------------------------------------------------------------------------------>
 
-- September 24, 2021, 3pm CET: [Prof Sandrine Blazy](https://people.irisa.fr/Sandrine.Blazy/) (University of Rennes 1, France): **Why3 tool for deductive program verification**. 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/sandrine-blazy.jpg" style="width:200px;" /> September 24, 2021, 3pm CET: [Prof Sandrine Blazy](https://people.irisa.fr/Sandrine.Blazy/) (University of Rennes 1, France): **Why3 tool for deductive program verification**. 
+
   - The recording of Prof. Blazy's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=63fe9f17-4ee7-4bd1-b9e4-adad00fd64ac). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/p4e0p3a1lgu262w/AAB1NKFQuHAl009Tn3KemTnOa?dl=0). 
   
   - {{< spoiler text="Read more" >}} 
 Why3 is an intermediate language used for deductive verification: the user writes a specification, a corresponding program, and uses Why3 to prove that the program satisfies the specification. This is achieved in the background by the tool, by generating verification conditions, using the weakest precondition calculus. Why3 interfaces with numerous (currently about 20) automatic and interactive theorem provers and does not require the user to come up with many assertions, except those validating specifications. [Here](http://why3.lri.fr) you can check Why3's website.
 {{< /spoiler >}}
+<!------------------------------------------------------------------------------------>
