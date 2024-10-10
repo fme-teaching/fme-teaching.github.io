@@ -43,7 +43,7 @@ var courses =
         ],
         "course_webpage": "https://tinyurl.com/26z2c78v",
         "course_year_level": "MSc",
-        "course_title": "Formal methods for concurrent and real-time systems.",
+        "course_title": "Formal methods for concurrent and real-time systems",
         "course_country": "Italy"
     },
     {
@@ -65,21 +65,19 @@ var courses =
         "course_country": "Singapore"
     },
     {
-        "course_title": "Software Correctness, Security and Reliability",
-        "course_country": "Italy",
+        "course_code": "CM0476",
+        "course_institution": "Ca Foscari University of Venice",
+        "course_contact": "Agostino Cortesi",
         "course_concepts": [
-            "Unknown"
+            "Abstract Interpretation"
         ],
         "course_tools": [
-            "Unknown"
+            "Lisa"
         ],
-        "course_institution": [
-            "Unknown"
-        ],
-        "course_year_level": [
-            "Unknown"
-        ],
-        "course_webpage": "#"
+        "course_webpage": "https://www.unive.it/data/course/513747",
+        "course_year_level": "MSc",
+        "course_title": "Software Correctness, Security and Reliability",
+        "course_country": "Italy"
     },
     {
         "course_code": "",
@@ -2386,6 +2384,7 @@ var tools =
     "Klee",
     "Krakatoa",
     "Lean",
+    "Lisa",
     "Logic Workbench",
     "Maude",
     "Mcmas",
