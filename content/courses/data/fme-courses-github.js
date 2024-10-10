@@ -94,10 +94,10 @@ var courses =
             "Tla+",
             "Rodin"
         ],
+        "course_webpage": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_38",
         "course_year_level": "MSc",
         "course_title": "Software Quality",
-        "course_country": "Finland",
-        "course_webpage": "#"
+        "course_country": "Finland"
     },
     {
         "course_code": "",
