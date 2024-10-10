@@ -28,7 +28,7 @@ image:
 #projects: []
 ---
 
-In the FME Teaching Committee, we coordinate a tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The series is held online via zoom. We record (whenever the speaker agrees) these presentations and collect them on the [FME Teaching Committee website](https://fme-teaching.github.io).
+In the FME Teaching Committee, we coordinate a tutorial series, planned to be held monthly. We aim to increase the awareness and sharing of tools and techniques used for teaching formal methods. The series is held online via zoom. We record (whenever the speaker agrees) these presentations and collect them below.
 
 {{% callout important %}}
 If you wish to receive announcements on these lectures, please subscribe to our mailing list fmtea@fmeurope.org by sending an email to sympa@lists.uu.se with the subject line  
