@@ -207,9 +207,9 @@ The abstract of the talk follows below:
 ---
 <!------------------------------------------------------------------------------------>
 
-<!------------------------------------------------------------------------------------>
-- *Postponed* --> ~~*January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.*~~
-<!------------------------------------------------------------------------------------>
+<!--
+- *Postponed*  ~~*January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.*~~
+-->
 
 <!--
 --
@@ -235,9 +235,13 @@ Markus works with Formal Methods at Microsoft for about 8 years, focusing on sca
 ---
 <!------------------------------------------------------------------------------------>
 
+<<<<<<< HEAD
+- October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
+=======
 <!------------------------------------------------------------------------------------>
 - <img src="photos/allan-blanchard.jpg" style="width:200px;" /> October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
   
+>>>>>>> 4398409af47e89af5e71350a8f19a1781c8f5040
   - The recording of Dr. Blanchard's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=6e88214a-7d90-46ce-aed9-af3c00f2efbe). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/e9930tnjq16yqn7/AAB7acpEvzhXuqJsfmRcN0Mfa?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
