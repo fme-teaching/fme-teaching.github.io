@@ -204,9 +204,9 @@ The abstract of the talk follows below:
 
 >The education in programming has in a certain sense deteriorated since the 80’s and 90’s: programming languages and environments, as common in industry and to which students are exposed in Computer Science, Software Engineering, and related programs, have become complex. Mastering them consumes students to an extent that courses cannot decouple the (timeless) principles of programming from the (short-lived) specifics of the programming environments at hand; the mathematical background on program design is often not taught. This is particularly critical for concurrent programming, which has become increasingly relevant but cannot be mastered without a theoretical background. The author has been developing course material for a required 3rd year Software Engineering course at McMaster University, Concurrent System Design with around 170 students, since 2018 to address that issue by web-based interactive notebooks using Jupyter that combine explanations, the mathematical theory, and execution of programs directly in the notebooks. Correctness reasoning, including non-interference of processes, is explained through hierarchical state diagrams. This talk gives an overview of the course material, which is available as an open educational resource, and reports on the experience.
 {{< /spoiler >}}
----
-<!------------------------------------------------------------------------------------>
 
+<!------------------------------------------------------------------------------------>
+---
 <!--
 - *Postponed*  ~~*January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.*~~
 -->
@@ -235,13 +235,9 @@ Markus works with Formal Methods at Microsoft for about 8 years, focusing on sca
 ---
 <!------------------------------------------------------------------------------------>
 
-<<<<<<< HEAD
-- October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
-=======
 <!------------------------------------------------------------------------------------>
 - <img src="photos/allan-blanchard.jpg" style="width:200px;" /> October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
   
->>>>>>> 4398409af47e89af5e71350a8f19a1781c8f5040
   - The recording of Dr. Blanchard's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=6e88214a-7d90-46ce-aed9-af3c00f2efbe). A few screenshots from the lecture can be seen [here](https://www.dropbox.com/sh/e9930tnjq16yqn7/AAB7acpEvzhXuqJsfmRcN0Mfa?dl=0). 
 
   - {{< spoiler text="Read more" >}} 
