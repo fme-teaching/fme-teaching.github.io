@@ -206,8 +206,9 @@ The abstract of the talk follows below:
 {{< /spoiler >}}
 
 <!------------------------------------------------------------------------------------>
----
+
 <!--
+---
 - *Postponed*  ~~*January 27, 2023, 3 pm CET: [Dr Oana Andrei](http://www.dcs.gla.ac.uk/~oandrei/) (University of Glasgow, UK): **Modelling and Verification for Reactive Systems**.*~~
 -->
 
@@ -230,10 +231,10 @@ Markus works with Formal Methods at Microsoft for about 8 years, focusing on sca
 ---
 <!------------------------------------------------------------------------------------>
 
-<!------------------------------------------------------------------------------------>
-- *Postponed* --> ~~*(**Wednesday**!!) November 30, 2022, **10 am CET**: [Prof Carroll Morgan](https://www.unsw.edu.au/staff/carroll-morgan) (University of New South Wales, Australia): **Teaching formal methods informally: a report from the front line**.*~~
+<!------------------------------------------------------------------------------------
+- *Postponed* ~~*(**Wednesday**!!) November 30, 2022, **10 am CET**: [Prof Carroll Morgan](https://www.unsw.edu.au/staff/carroll-morgan) (University of New South Wales, Australia): **Teaching formal methods informally: a report from the front line**.*~~
 ---
-<!------------------------------------------------------------------------------------>
+-->
 
 <!------------------------------------------------------------------------------------>
 - <img src="photos/allan-blanchard.jpg" style="width:200px;" /> October 28, 2022, 3 pm CEST: [Dr Allan Blanchard](https://allan-blanchard.fr) ([CEA-LIST](http://www-list.cea.fr/en/), France): **Formal methods for beginners and for C programs - Using Frama-C and its WP plug-in for teaching**. 
