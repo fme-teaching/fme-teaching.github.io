@@ -1,6 +1,130 @@
 var courses = 
 [
     {
+        "course_code": "M.EIC037",
+        "course_institution": "Faculty of Engineering, University of Porto",
+        "course_contact": "Alexandra Mendes",
+        "course_concepts": [
+            "Deductive Software Verification",
+            "Deductive Verification",
+            "Formal Specification",
+            "Hoare Logic",
+            "Logic",
+            "Model Checking",
+            "Relations",
+            "Software Verification",
+            "Specification",
+            "Wp Calculus"
+        ],
+        "course_tools": [
+            "Alloy",
+            "Dafny"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "MSc",
+        "reviewed": "2025/03/07",
+        "course_title": "Formal Methods for Critical Systems",
+        "course_country": "Portugal"
+    },
+    {
+        "course_code": "TSM_AdvPrPa",
+        "course_institution": "OST Eastern Switzerland University of Applied Sciences",
+        "course_contact": "Farhad Mehta",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Deductive Software Verification",
+            "Deductive Proof",
+            "Deductive Verification",
+            "Formal Specification",
+            "Functional Programming",
+            "Induction",
+            "Interactive Theorem Proving",
+            "Logic",
+            "Proofs",
+            "Proof Theory",
+            "Proof Assistants",
+            "Software Verification",
+            "Specification",
+            "Theorem Proving"
+        ],
+        "course_tools": [
+            "Agda",
+            "Haskell",
+            "Isabelle"
+        ],
+        "course_webpage": "https://www.msengineering.ch/theory-modules/2024-2025-tsm-advprpa",
+        "course_year_level": "MSc",
+        "reviewed": "2025/03/07",
+        "course_title": "Advanced Programming Paradigms",
+        "course_country": "Switzerland"
+    },
+    {
+        "course_code": "M_SEP1",
+        "course_institution": "OST Eastern Switzerland University of Applied Sciences",
+        "course_contact": "Farhad Mehta",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Behavioural Modelling",
+            "Deductive Verification",
+            "Formal Specification",
+            "Hoare Logic",
+            "Interactive Theorem Proving",
+            "Modelling",
+            "Software Verification",
+            "Specification",
+            "Tool-Based Testing",
+            "Wp Calculus"
+        ],
+        "course_tools": [
+            "Dafny",
+            "Staruml",
+            "Uml"
+        ],
+        "course_webpage": "https://studien.ost.ch/allModules/39203_M_SEP1.html",
+        "course_year_level": "3",
+        "reviewed": "2025/03/07",
+        "course_title": "SE Practices 1",
+        "course_country": "Switzerland"
+    },
+    {
+        "course_code": "M_FP",
+        "course_institution": "OST Eastern Switzerland University of Applied Sciences",
+        "course_contact": "Farhad Mehta",
+        "course_concepts": [
+            "Formal Specification",
+            "Functional Programming",
+            "Specification",
+            "Tool-Based Testing"
+        ],
+        "course_tools": [
+            "Haskell",
+            "Isabelle"
+        ],
+        "course_webpage": "https://studien.ost.ch/allModules/39143_M_FP.html",
+        "course_year_level": "1",
+        "reviewed": "2025/03/07",
+        "course_title": "Functional Programming",
+        "course_country": "Switzerland"
+    },
+    {
+        "course_code": "",
+        "course_institution": "Gran Sasso Science institute",
+        "course_contact": "Emilio Tuosto",
+        "course_concepts": [
+            "Distributed Systems",
+            "Model Checking",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Mcrl2"
+        ],
+        "course_webpage": "https://emwww.github.io/home/teaching/model_checking",
+        "course_year_level": "MSc",
+        "reviewed": "2025/03/07",
+        "course_title": "Model Checking",
+        "course_country": "Italy"
+    },
+    {
         "course_code": "CS 6110",
         "course_institution": "University of Utah",
         "course_contact": "Ben Greenman",
@@ -23,6 +147,7 @@ var courses =
         ],
         "course_webpage": "https://utah.instructure.com/courses/934118",
         "course_year_level": "PhD",
+        "reviewed": "2025/03/07",
         "course_title": "Software Verification",
         "course_country": "United States"
     },
@@ -1329,7 +1454,7 @@ var courses =
         "course_country": "Portugal"
     },
     {
-        "": "06-28201",
+        "course_code": "06-28201",
         "course_institution": "University of Birmingham",
         "course_contact": "David Parker",
         "course_concepts": [
@@ -1370,7 +1495,7 @@ var courses =
         ]
     },
     {
-        "": "COMS30009",
+        "course_code": "COMS30009",
         "course_institution": "University of Bristol",
         "course_contact": "Steven Ramsay",
         "course_concepts": [
@@ -1678,7 +1803,7 @@ var courses =
         ]
     },
     {
-        "": "TDA293",
+        "course_code": "TDA293",
         "course_institution": "Chalmers University",
         "course_contact": "Wolfgang Ahrendt",
         "course_concepts": [
@@ -1913,7 +2038,7 @@ var courses =
         "course_webpage": "#"
     },
     {
-        "": "COMP426",
+        "course_code": "COMP426",
         "course_institution": "The University of Waikato",
         "course_contact": "Judy Bowen",
         "course_concepts": [
@@ -1930,7 +2055,7 @@ var courses =
         ]
     },
     {
-        "": "COMPX361",
+        "course_code": "COMPX361",
         "course_institution": "The University of Waikato",
         "course_contact": "Steve Reeves",
         "course_concepts": [
@@ -1948,7 +2073,7 @@ var courses =
         ]
     },
     {
-        "": "COMP452",
+        "course_code": "COMP452",
         "course_institution": "The University of Waikato",
         "course_contact": "Robi Malik",
         "course_concepts": [
@@ -1965,7 +2090,7 @@ var courses =
         ]
     },
     {
-        "": "COMP454",
+        "course_code": "COMP454",
         "course_institution": "The University of Waikato",
         "course_contact": "Steve Reeves",
         "course_concepts": [
@@ -1982,7 +2107,7 @@ var courses =
         ]
     },
     {
-        "": "SWEN421",
+        "course_code": "SWEN421",
         "course_institution": "Victoria University Wellington",
         "course_contact": "David Pearce",
         "course_concepts": [
@@ -2000,7 +2125,7 @@ var courses =
         ]
     },
     {
-        "": "SWEN326",
+        "course_code": "SWEN326",
         "course_institution": "Victoria University Wellington",
         "course_contact": "David Pearce",
         "course_concepts": [
@@ -2019,7 +2144,7 @@ var courses =
         ]
     },
     {
-        "": "SWEN324",
+        "course_code": "SWEN324",
         "course_institution": "Victoria University Wellington",
         "course_contact": "David Pearce",
         "course_concepts": [
@@ -2037,7 +2162,7 @@ var courses =
         ]
     },
     {
-        "": "SWEN90010",
+        "course_code": "SWEN90010",
         "course_institution": "The University of Melbourne",
         "course_contact": "Toby Murray",
         "course_concepts": [
@@ -2054,7 +2179,7 @@ var courses =
         "course_country": "Australia"
     },
     {
-        "": "CITS5501",
+        "course_code": "CITS5501",
         "course_institution": "The University of Western Australia",
         "course_contact": "Arran Stewart",
         "course_concepts": [
@@ -2071,7 +2196,7 @@ var courses =
         ]
     },
     {
-        "": "COMP782",
+        "course_code": "COMP782",
         "course_institution": "Macquarie University",
         "course_contact": "Annabelle McIver",
         "course_concepts": [
@@ -2089,7 +2214,7 @@ var courses =
         ]
     },
     {
-        "": "COMP781",
+        "course_code": "COMP781",
         "course_institution": "Macquarie University",
         "course_contact": "Annabelle McIver",
         "course_concepts": [
@@ -2107,7 +2232,7 @@ var courses =
         ]
     },
     {
-        "": "COMP1600",
+        "course_code": "COMP1600",
         "course_institution": "Australian National University",
         "course_contact": "Rajeev Gore",
         "course_concepts": [
@@ -2125,7 +2250,7 @@ var courses =
         ]
     },
     {
-        "": "COMP4630",
+        "course_code": "COMP4630",
         "course_institution": "Australian National University",
         "course_contact": "Rajeev Gore",
         "course_concepts": [
@@ -2143,7 +2268,7 @@ var courses =
         ]
     },
     {
-        "": "COMP2111",
+        "course_code": "COMP2111",
         "course_institution": "University of New South Wales",
         "course_contact": "Kai Engelhardt",
         "course_concepts": [
@@ -2344,6 +2469,7 @@ var concepts =
 ]
 var tools = 
 [
+    "Agda",
     "Alloy",
     "Alter-Ergo",
     "Ampersand",
