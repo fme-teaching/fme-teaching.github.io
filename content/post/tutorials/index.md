@@ -67,7 +67,7 @@ Here are the details of the scheduled Zoom meeting:
 
 
 <!------------------------------------------------------------------------------------>
-- <img src="photos/miastoelinga.jpg" style="width:200px;" /> February 28, 2025: [Prof Marielle Stoellinga](https://people.utwente.nl/m.i.a.stoelinga), University of Twente, The Netherlands: **Life long learning --- experience with educational programs for professionals**
+- <img src="photos/miastoelinga.jpg" style="width:200px;" /> February 28, 2025, 3 p CET: [Prof Marielle Stoellinga](https://people.utwente.nl/m.i.a.stoelinga), University of Twente, The Netherlands: **Life long learning --- experience with educational programs for professionals**
 <!------------------------------------------------------------------------------------>
 
 
