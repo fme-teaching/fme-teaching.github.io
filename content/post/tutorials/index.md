@@ -63,9 +63,8 @@ Here are the details of the scheduled Zoom meeting:
 - <img src="photos/peter-osera.jpg" style="width:200px;" /> March 28, 2025, 4 pm CET: [Prof Peter-Michael Osera](https://osera.cs.grinnell.edu/), [Grinnell College](https://www.grinnell.edu/), US: **Formal Verification and Foundations: Better Together!**
 
   - **Abstract:** How do we promote the importance and relevance of formal verification to undergraduate computer scientists? While we often focus on building better tools, we should spend an equal, if not greater, amount of time thinking about the pedagogy of formal verification. What are the essential theories and techniques every undergraduate should know from the field? In this talk, I introduce how I have addressed these questions, first through tool building and then through pedagogy. In particular, I present an ongoing multi- institutional project to integrate formal methods across the undergraduate curriculum, in particular, its mathematical foundations.
-
+---
 <!------------------------------------------------------------------------------------>
-
 
 
 <!------------------------------------------------------------------------------------>
