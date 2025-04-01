@@ -71,6 +71,12 @@ Here are the details of the scheduled Zoom meeting:
 - <img src="photos/miastoelinga.jpg" style="width:200px;" /> February 28, 2025, 3 pm CET: [Prof Marielle Stoellinga](https://people.utwente.nl/m.i.a.stoelinga), [University of Twente](https://www.utwente.nl/en/), The Netherlands: **Life long learning --- experience with educational programs for professionals**
 
   - [Here](https://www.dropbox.com/scl/fi/rcg3iid70o82nsd5kcjbn/2025-LLL-FM-education.pdf?rlkey=fydom8tdcbh0kk7b50x8ujisf&dl=0) you can see Mariëlle's slides for the lecture and [here](https://www.dropbox.com/scl/fo/0hdrhjqiqd5t57pd1652n/AD-WDN6zPsoZtMPJG5PcixU?rlkey=lh98z08vs1ok0wxr2lkn3dcwd&dl=0) a few snapshots from the tutorial.
+  - 
+  - {{< spoiler text="Read more" >}} 
+During the tutorial, Mariëlle 
+-->
+{{< /spoiler >}}
+---
 <!------------------------------------------------------------------------------------>
 
 
