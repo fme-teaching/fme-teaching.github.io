@@ -62,7 +62,19 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/peter-osera.jpg" style="width:200px;" /> March 28, 2025, 4 pm CET: [Prof Peter-Michael Osera](https://osera.cs.grinnell.edu/), [Grinnell College](https://www.grinnell.edu/), US: **Formal Verification and Foundations: Better Together!**
 
-  - **Abstract:** How do we promote the importance and relevance of formal verification to undergraduate computer scientists? While we often focus on building better tools, we should spend an equal, if not greater, amount of time thinking about the pedagogy of formal verification. What are the essential theories and techniques every undergraduate should know from the field? In this talk, I introduce how I have addressed these questions, first through tool building and then through pedagogy. In particular, I present an ongoing multi- institutional project to integrate formal methods across the undergraduate curriculum, in particular, its mathematical foundations.
+
+---
+
+ - The recording of Prof. Osera's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=cd228eac-6666-4e60-a56d-b2ae01377ed0) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/x6uqvabouofrw1z534fhb/AB8h0YqQ5yM-KByabizKENc?rlkey=tylgs3n4qgr6mprxmfg80de3s&dl=0). 
+
+  - {{< spoiler text="Read more" >}} 
+During the tutorial, .
+
+<!--	&nbsp;&nbsp;&nbsp;&nbsp;Here is an abstract of the tutorial: How do we promote the importance and relevance of formal verification to undergraduate computer scientists? While we often focus on building better tools, we should spend an equal, if not greater, amount of time thinking about the pedagogy of formal verification. What are the essential theories and techniques every undergraduate should know from the field? In this talk, I introduce how I have addressed these questions, first through tool building and then through pedagogy. In particular, I present an ongoing multi- institutional project to integrate formal methods across the undergraduate curriculum, in particular, its mathematical foundations. 
+
+	&nbsp;&nbsp;&nbsp;&nbsp;
+-->
+{{< /spoiler >}}
 ---
 <!------------------------------------------------------------------------------------>
 
