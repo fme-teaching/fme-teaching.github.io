@@ -61,7 +61,7 @@ Here are the details of the scheduled Zoom meeting:
 ## 2025
 <!------------------------------------------------------------------------------------>
 - <img src="photos/DraganaMilovancevic.jpg" style="width:200px;" /> June 27, 2025, 2 pm CEST: [Dragana Milovancevic](https://people.epfl.ch/dragana.milovancevic/?lang=en), [EPFL](https://lara.epfl.ch/w/), Switzerland
-
+---
 <!------------------------------------------------------------------------------------>
 
 <!------------------------------------------------------------------------------------>
