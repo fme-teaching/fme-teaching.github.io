@@ -60,6 +60,11 @@ Here are the details of the scheduled Zoom meeting:
 
 ## 2025
 <!------------------------------------------------------------------------------------>
+- <img src="photos/DraganaMilovacevic.jpg" style="width:200px;" /> June 27, 2025, 2 pm CEST: [Dragana Milovancevic](https://people.epfl.ch/dragana.milovancevic/?lang=en), [EPFL](https://lara.epfl.ch/w/), Switzerland
+---
+<!------------------------------------------------------------------------------------>
+
+<!------------------------------------------------------------------------------------>
 - <img src="photos/peter-osera.jpg" style="width:200px;" /> March 28, 2025, 4 pm CET: [Prof Peter-Michael Osera](https://osera.cs.grinnell.edu/), [Grinnell College](https://www.grinnell.edu/), US: **Formal Verification and Foundations: Better Together!**
 
   - The recording of Prof. Osera's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=cd228eac-6666-4e60-a56d-b2ae01377ed0) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/x6uqvabouofrw1z534fhb/AB8h0YqQ5yM-KByabizKENc?rlkey=tylgs3n4qgr6mprxmfg80de3s&dl=0). 
