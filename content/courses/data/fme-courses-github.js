@@ -1,6 +1,44 @@
 var courses = 
 [
     {
+        "course_code": "14079",
+        "course_institution": "Universidade Federal Rural de Pernambuco",
+        "course_contact": "Lucas Lima",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Deductive Proof",
+            "Distributed Systems",
+            "Formal Specification",
+            "Interactive Theorem Proving",
+            "Labelled Transition Systems",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Process Algebra",
+            "Proofs",
+            "Proof Assistants",
+            "Sat",
+            "Smt",
+            "Software Verification",
+            "Theorem Proving",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Coq",
+            "Fdr4",
+            "Isabelle",
+            "Lean",
+            "Minisat",
+            "Nusmv",
+            "Smt-Lib",
+            "Uppaal",
+            "Z3"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "3",
+        "course_title": "Formal Methods",
+        "course_country": "Brazil"
+    },
+    {
         "course_code": "M.EIC037",
         "course_institution": "Faculty of Engineering, University of Porto",
         "course_contact": "Alexandra Mendes",
