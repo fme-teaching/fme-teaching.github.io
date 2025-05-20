@@ -77,7 +77,7 @@ Prof. Osera has recently won a a 3-year grant from NSF: [Integrating Formal Meth
 <!--	&nbsp;&nbsp;&nbsp;&nbsp;Here is an abstract of the tutorial: How do we promote the importance and relevance of formal verification to undergraduate computer scientists? While we often focus on building better tools, we should spend an equal, if not greater, amount of time thinking about the pedagogy of formal verification. What are the essential theories and techniques every undergraduate should know from the field? In this talk, I introduce how I have addressed these questions, first through tool building and then through pedagogy. In particular, I present an ongoing multi- institutional project to integrate formal methods across the undergraduate curriculum, in particular, its mathematical foundations. 
 -->
 {{< /spoiler >}}
----
+
 <!------------------------------------------------------------------------------------>
 
 
