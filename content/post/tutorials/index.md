@@ -62,9 +62,8 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/DraganaMilovancevic.jpg" style="width:200px;" /> June 27, 2025, 2 pm CEST: [Dragana Milovancevic](https://people.epfl.ch/dragana.milovancevic/?lang=en), [EPFL](https://lara.epfl.ch/w/), Switzerland
 
-- 
 ---
-<!------------------------------------------------------------------------------------>
+
 
 <!------------------------------------------------------------------------------------>
 - <img src="photos/peter-osera.jpg" style="width:200px;" /> March 28, 2025, 4 pm CET: [Prof Peter-Michael Osera](https://osera.cs.grinnell.edu/), [Grinnell College](https://www.grinnell.edu/), US: **Formal Verification and Foundations: Better Together!**
