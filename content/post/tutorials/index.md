@@ -64,6 +64,49 @@ Here are the details of the scheduled Zoom meeting:
 
 ---
 
+<!------------------------------------------------------------------------------------>
+- <img src="photos/philip_wadler.png" style="width:300px;" /> June 06, 2025, 3 pm CET: [Prof Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/), [University of Edinburgh](https://www.ed.ac.uk/), UK: **Lambda, the Ultimate Teaching Assistant (Agda version)**
+
+  - {{< spoiler text="Read more" >}} 
+**Here is an abstract of the tutorial:**
+
+*Proof assistants*, such as Agda, Coq, HOL, Isabelle, Lean, or Twelf, permit formal
+statements of propositions and proofs in a way that can be checked by a
+computer.  Some assistants, such as Coq, also provide a way to write *tactics*
+to describe how to search for a proof.  The use of mathematics to describe
+programs and programming languages, known as *formal methods*, can benefit from
+a proof assistant.  In particular, use of a proof assistant in teaching provides
+immediate feedback to students.
+
+One of the leading textbooks for formal methods is Software Foundations (SF),
+written by Benjamin Pierce in collaboration with others, and based on the proof
+assistant Coq. After five years using SF in the classroom, I have come to the
+conclusion that Coq is not the best vehicle for this purpose, as too much of the
+course needs to focus on learning tactics, to the cost of learning programming
+language theory. Accordingly, I have written a textbook, Programming
+Language Foundations in Agda (PLFA), based on the proof assistant Agda. PLFA
+covers much of the same ground as SF, although it is not a slavish imitation.
+
+What did I learn from writing PLFA? First, that it is possible. One might expect
+that without tactics proofs become too long, but in fact proofs in PLFA are
+about the same length as those in SF. Proofs in Coq require an interactive
+environment to be understood, while proofs in Agda can be read on the
+page. Second, I compared two standard methods of formalising programming, one
+with extrinsically-typed terms and one with inherently-typed terms. SF uses the
+former presentation, while PLFA presents both; the former uses about 1.6 as many
+lines of Agda code as the latter, roughly the golden ratio. Third, that
+constructive proofs of preservation and progress give immediate rise to a
+prototype evaluator. This fact is obvious in retrospect but it is not exploited
+in SF (which instead provides a separate normalise tactic) nor can I find it in
+the literature. Fourth, that if the final exam is administered online with a proof
+assistant, students can achieve perfection. 
+
+**The textbook is written as a literate Agda script, and can be found here:**
+
+ http://plfa.inf.ed.ac.uk
+
+{{< /spoiler >}}
+---
 
 <!------------------------------------------------------------------------------------>
 - <img src="photos/peter-osera.jpg" style="width:200px;" /> March 28, 2025, 4 pm CET: [Prof Peter-Michael Osera](https://osera.cs.grinnell.edu/), [Grinnell College](https://www.grinnell.edu/), US: **Formal Verification and Foundations: Better Together!**
