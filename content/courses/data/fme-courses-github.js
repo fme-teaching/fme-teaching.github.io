@@ -35,6 +35,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "3",
+        "course_reviewed": "2025/05/20",
         "course_title": "Formal Methods",
         "course_country": "Brazil"
     },
@@ -60,7 +61,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "MSc",
-        "reviewed": "2025/03/07",
+        "course_reviewed": "2025/03/07",
         "course_title": "Formal Methods for Critical Systems",
         "course_country": "Portugal"
     },
@@ -92,7 +93,7 @@ var courses =
         ],
         "course_webpage": "https://www.msengineering.ch/theory-modules/2024-2025-tsm-advprpa",
         "course_year_level": "MSc",
-        "reviewed": "2025/03/07",
+        "course_reviewed": "2025/03/07",
         "course_title": "Advanced Programming Paradigms",
         "course_country": "Switzerland"
     },
@@ -120,7 +121,7 @@ var courses =
         ],
         "course_webpage": "https://studien.ost.ch/allModules/39203_M_SEP1.html",
         "course_year_level": "3",
-        "reviewed": "2025/03/07",
+        "course_reviewed": "2025/03/07",
         "course_title": "SE Practices 1",
         "course_country": "Switzerland"
     },
@@ -140,7 +141,7 @@ var courses =
         ],
         "course_webpage": "https://studien.ost.ch/allModules/39143_M_FP.html",
         "course_year_level": "1",
-        "reviewed": "2025/03/07",
+        "course_reviewed": "2025/03/07",
         "course_title": "Functional Programming",
         "course_country": "Switzerland"
     },
@@ -158,7 +159,7 @@ var courses =
         ],
         "course_webpage": "https://emwww.github.io/home/teaching/model_checking",
         "course_year_level": "MSc",
-        "reviewed": "2025/03/07",
+        "course_reviewed": "2025/03/07",
         "course_title": "Model Checking",
         "course_country": "Italy"
     },
@@ -185,7 +186,7 @@ var courses =
         ],
         "course_webpage": "https://utah.instructure.com/courses/934118",
         "course_year_level": "PhD",
-        "reviewed": "2025/03/07",
+        "course_reviewed": "2025/03/07",
         "course_title": "Software Verification",
         "course_country": "United States"
     },
@@ -347,11 +348,10 @@ var courses =
             "Uml"
         ],
         "course_webpage": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento",
+        "course_year_level": "MSc",
+        "course_reviewed": "2025/06/05",
         "course_title": "Software Engineering 2",
-        "course_country": "Italy",
-        "course_year_level": [
-            "Unknown"
-        ]
+        "course_country": "Italy"
     },
     {
         "course_code": "COMP 335",
@@ -485,7 +485,7 @@ var courses =
         ],
         "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/fm2023",
         "course_year_level": "MSc",
-        "reviewed": "2023/12/23",
+        "course_reviewed": "2023/12/23",
         "course_title": "Formal Methods",
         "course_country": "Italy"
     },
@@ -517,7 +517,7 @@ var courses =
         ],
         "course_webpage": "https://lfcps.org/course/lfcps.html",
         "course_year_level": "3",
-        "reviewed": "2023/12/23",
+        "course_reviewed": "2023/12/23",
         "course_title": "Logical Foundations of Cyber-Physical Systems",
         "course_country": "Germany"
     },
@@ -548,7 +548,7 @@ var courses =
         ],
         "course_webpage": "https://mse.s3d.cmu.edu/0_documents/syllabi/fa2021/17614-formal-methods.pdf",
         "course_year_level": "MSc",
-        "reviewed": "2023/12/23",
+        "course_reviewed": "2023/12/23",
         "course_title": "Formal Methods",
         "course_country": "United States"
     },
@@ -618,7 +618,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "3",
-        "reviewed": "2022/09/18",
+        "course_reviewed": "2022/09/18",
         "course_title": "Softwareverifikation",
         "course_country": "Germany"
     },
@@ -691,7 +691,7 @@ var courses =
         ],
         "course_webpage": "https://campus.aau.at/studien/lvliste.jsp?atoken=578578352",
         "course_year_level": "4",
-        "reviewed": "2021/12/23",
+        "course_reviewed": "2021/12/23",
         "course_title": "Spezifikation und Verifikation",
         "course_country": "Austria"
     },
@@ -720,7 +720,7 @@ var courses =
         ],
         "course_webpage": "https://personnel.isae-supaero.fr/christophe-garion/teaching-activities-and-courses.html?lang=fr#outil_sommaire_1",
         "course_year_level": "MSc",
-        "reviewed": "2022/03/30",
+        "course_reviewed": "2022/03/30",
         "course_title": "Formal methods: an introduction",
         "course_country": "France"
     },
@@ -747,7 +747,7 @@ var courses =
         ],
         "course_webpage": "http://www.ccs.neu.edu/~stavros/fsvs21.html",
         "course_year_level": "4",
-        "reviewed": "2021/11/21",
+        "course_reviewed": "2021/11/21",
         "course_title": "System Specification, Verification, and Synthesis ",
         "course_country": "United States"
     },
@@ -774,7 +774,7 @@ var courses =
         ],
         "course_webpage": "http://www.ccs.neu.edu/~stavros/fsvs21.html",
         "course_year_level": "PhD",
-        "reviewed": "2021/11/21",
+        "course_reviewed": "2021/11/21",
         "course_title": "Formal Specification, Verification, and Synthesis ",
         "course_country": "United States"
     },
@@ -801,7 +801,7 @@ var courses =
         ],
         "course_webpage": "https://course.ccs.neu.edu/cs2800f21",
         "course_year_level": "2",
-        "reviewed": "2021/11/21",
+        "course_reviewed": "2021/11/21",
         "course_title": "Logic and Computation",
         "course_country": "United States"
     },
@@ -829,7 +829,7 @@ var courses =
         ],
         "course_webpage": "http://people.irisa.fr/Thomas.Genet/ACF",
         "course_year_level": "4",
-        "reviewed": "2021/11/21",
+        "course_reviewed": "2021/11/21",
         "course_title": "Software Formal Analysis and Design",
         "course_country": "France"
     },
@@ -863,7 +863,7 @@ var courses =
         ],
         "course_webpage": "https://sites.google.com/view/fii-fmse/home",
         "course_year_level": "MSc",
-        "reviewed": "2021/09/03",
+        "course_reviewed": "2021/09/03",
         "course_title": "Formal Methods in Software Engineering",
         "course_country": "Romania"
     },
@@ -888,7 +888,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "PhD",
-        "reviewed": "2021/09/03",
+        "course_reviewed": "2021/09/03",
         "course_title": "Formalno verificirani algoritmi",
         "course_country": "Croatia"
     },
@@ -914,7 +914,7 @@ var courses =
         ],
         "course_webpage": "https://cours.uqac.ca/8INF958",
         "course_year_level": "MSc",
-        "reviewed": "2021/09/03",
+        "course_reviewed": "2021/09/03",
         "course_title": "Sp\u00e9cification, test et v\u00e9rification",
         "course_country": "Canada"
     },
@@ -942,7 +942,7 @@ var courses =
         ],
         "course_webpage": "https://zpa.cs.hm.edu/public/module/185",
         "course_year_level": "MSc",
-        "reviewed": "2021/09/03",
+        "course_reviewed": "2021/09/03",
         "course_title": "Programmverifikation",
         "course_country": "Germany"
     },
@@ -965,7 +965,7 @@ var courses =
         ],
         "course_webpage": "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4072",
         "course_year_level": "3,4,MSci",
-        "reviewed": "2021/09/03",
+        "course_reviewed": "2021/09/03",
         "course_title": "Theory of Computation",
         "course_country": "United Kingdom"
     },
@@ -990,7 +990,7 @@ var courses =
         ],
         "course_webpage": "https://wp.software.imdea.org/cbc",
         "course_year_level": "MSc",
-        "reviewed": "2021/09/03",
+        "course_reviewed": "2021/09/03",
         "course_title": "Correctness by Construction",
         "course_country": "Spain"
     },
@@ -1009,7 +1009,7 @@ var courses =
         ],
         "course_webpage": "https://cogumbreiro.github.io/teaching/cs420/s20",
         "course_year_level": "4",
-        "reviewed": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Introduction to the Theory of Computation",
         "course_country": "United States"
     },
@@ -1030,7 +1030,7 @@ var courses =
         ],
         "course_webpage": "https://www.dropbox.com/s/d02qswbq9hk5g7f/UPLs-slides.zip?dl=0",
         "course_year_level": "1",
-        "reviewed": "2021/06/21",
+        "course_reviewed": "2021/06/21",
         "course_title": "Understanding Programming Languages",
         "course_country": "United Kingdom"
     },
@@ -1056,7 +1056,7 @@ var courses =
         ],
         "course_webpage": "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4031",
         "course_year_level": "3, 4 & MSc",
-        "reviewed": "2022/03/30",
+        "course_reviewed": "2022/03/30",
         "course_title": "Modelling Reactive Systems",
         "course_country": "United Kingdom"
     },
@@ -1086,7 +1086,7 @@ var courses =
         ],
         "course_webpage": "https://uni2work.ifi.lmu.de/course/W20/IfI/FSV1",
         "course_year_level": "3",
-        "reviewed": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Formale Spezifikation und Verifikation",
         "course_country": "Germany"
     },
@@ -1106,7 +1106,7 @@ var courses =
         ],
         "course_webpage": "https://www.fceia.unr.edu.ar/asist/index.html",
         "course_year_level": "4",
-        "reviewed": "2022/03/30",
+        "course_reviewed": "2022/03/30",
         "course_title": "Ingenier\u00eda de software 1",
         "course_country": "Argentina"
     },
@@ -1128,7 +1128,7 @@ var courses =
         ],
         "course_webpage": "https://www.cs.ox.ac.uk/softeng/subjects/SEM.html",
         "course_year_level": "MSc",
-        "reviewed": "2022/03/30",
+        "course_reviewed": "2022/03/30",
         "course_title": "Software Engineering Mathematics",
         "course_country": "United Kingdom"
     },
@@ -1153,7 +1153,7 @@ var courses =
         ],
         "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/QS7/2020-2021/1-semestre",
         "course_year_level": "MSc",
-        "reviewed": "2021/06/26",
+        "course_reviewed": "2021/06/26",
         "course_title": "Software Specification",
         "course_country": "Portugal"
     },
@@ -1176,7 +1176,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "MSc",
-        "reviewed": "2021/06/27",
+        "course_reviewed": "2021/06/27",
         "course_title": "Formal Specification and Verification",
         "course_country": "Germany"
     },
@@ -1203,7 +1203,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "2",
-        "reviewed": "2021/06/27",
+        "course_reviewed": "2021/06/27",
         "course_title": "Formal Methods in Software Design",
         "course_country": "Germany"
     },
@@ -1227,7 +1227,7 @@ var courses =
         ],
         "course_webpage": "https://aps.unirioja.es/GuiasDocentes/servlet/agetguiahtml?2019-20,801G,830",
         "course_year_level": "2",
-        "reviewed": "2022/03/30",
+        "course_reviewed": "2022/03/30",
         "course_title": "Formal methods in programming",
         "course_country": "Spain"
     },
@@ -1260,7 +1260,7 @@ var courses =
         ],
         "course_webpage": "http://www.cse.unsw.edu.au/~cs4161",
         "course_year_level": "3",
-        "reviewed": "2021/06/25",
+        "course_reviewed": "2021/06/25",
         "course_title": "Advanced Topics in Software Verification",
         "course_country": "Australia"
     },
@@ -1303,7 +1303,7 @@ var courses =
         "course_webpage": "https://mooc.imd.ufrn.br/course/the-b-method",
         "course_year_level": "2",
         "": "This is a MOOC, continuously available",
-        "reviewed": "2022/03/31",
+        "course_reviewed": "2022/03/31",
         "course_title": "The B-Method: from Specification to Code",
         "course_country": "Brazil"
     },
@@ -1326,7 +1326,7 @@ var courses =
         ],
         "course_webpage": "http://www.cse.unsw.edu.au/~cs6721",
         "course_year_level": "2",
-        "reviewed": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "(In-)Formal Methods",
         "course_country": "Australia"
     },
@@ -1352,7 +1352,7 @@ var courses =
             "Isabelle"
         ],
         "course_webpage": "http://cs.brown.edu/courses/cs195y",
-        "reviewed": "2022/03/31",
+        "course_reviewed": "2022/03/31",
         "course_title": "Logic for Systems",
         "course_country": "United States",
         "course_year_level": [
@@ -1383,7 +1383,7 @@ var courses =
         ],
         "course_webpage": "https://github.com/bugcounting/software-analysis",
         "course_year_level": "MSc",
-        "reviewed": "2021/06/27",
+        "course_reviewed": "2021/06/27",
         "course_title": "Software Analysis",
         "course_country": "Switzerland"
     },
@@ -1405,6 +1405,7 @@ var courses =
         ],
         "course_webpage": "https://wwwen.uni.lu/studies/fstc/bachelor_in_computer_science/programme",
         "course_year_level": "2",
+        "course_reviewed": "2025/06/05",
         "course_title": "Theoretical Computer Science II",
         "course_country": "Luxembourg"
     },
@@ -1424,6 +1425,7 @@ var courses =
         ],
         "course_webpage": "https://wwwen.uni.lu/studies/fstc/master_in_information_and_computer_sciences/programme",
         "course_year_level": "MSc",
+        "course_reviewed": "2025/06/05",
         "course_title": "Formal Methods",
         "course_country": "Luxembourg"
     },
@@ -1468,7 +1470,7 @@ var courses =
         ],
         "course_webpage": "https://formations.univ-rennes1.fr/formation/programmation-de-confiance?studentstatus=112",
         "course_year_level": "3",
-        "reviewed": "2021/06/28",
+        "course_reviewed": "2021/06/28",
         "course_title": "Trustworthy programming",
         "course_country": "France"
     },
@@ -1525,7 +1527,7 @@ var courses =
             "Unknown"
         ],
         "course_webpage": "https://www.bath.ac.uk/catalogues/2020-2021/cm/CM30226.html",
-        "reviewed": "2021/06/25",
+        "course_reviewed": "2021/06/25",
         "course_title": "Logic and Semantics of Programming Languages ",
         "course_country": "United Kingdom",
         "course_year_level": [
@@ -1636,7 +1638,7 @@ var courses =
         ],
         "course_webpage": "https://fenix.tecnico.ulisboa.pt/disciplinas/LPro2646/2020-2021/2-semestre",
         "course_year_level": "MSc",
-        "reviewed": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Programming Languages",
         "course_country": "Portugal"
     },
@@ -1871,7 +1873,7 @@ var courses =
             "Frama-C"
         ],
         "course_webpage": "https://allan-blanchard.fr/frama-c-wp-tutorial.html",
-        "reviewed": "2021/06/25",
+        "course_reviewed": "2021/06/25",
         "course_title": "Introduction to C program proof using Frama-C and its WP plugin",
         "course_country": "France",
         "course_institution": [
@@ -1896,7 +1898,7 @@ var courses =
             "Why3"
         ],
         "course_year_level": "3",
-        "reviewed": "2021/06/28",
+        "course_reviewed": "2021/06/28",
         "course_title": "Modeling and Programming",
         "course_country": "France",
         "course_webpage": "#"
@@ -1921,7 +1923,7 @@ var courses =
             "Z3"
         ],
         "course_year_level": "MSc",
-        "reviewed": "2021/06/23",
+        "course_reviewed": "2021/06/23",
         "course_title": "Certified Software",
         "course_country": "France",
         "course_webpage": "#"
@@ -2337,7 +2339,7 @@ var courses =
         ],
         "course_webpage": "https://my.uq.edu.au/programs-courses/course.html?course_code=csse3100",
         "course_year_level": "3",
-        "reviewed": "2021/06/27",
+        "course_reviewed": "2021/06/27",
         "course_title": "Reasoning about Programs",
         "course_country": "Australia"
     },
@@ -2353,7 +2355,7 @@ var courses =
         ],
         "course_webpage": "https://my.uq.edu.au/programs-courses/course.html?course_code=csse7610",
         "course_year_level": "MSc",
-        "reviewed": "2021/06/27",
+        "course_reviewed": "2021/06/27",
         "course_title": "Concurrency: Theory and Practice",
         "course_country": "Australia"
     }
