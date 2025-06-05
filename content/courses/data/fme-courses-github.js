@@ -1,6 +1,32 @@
 var courses = 
 [
     {
+        "course_code": "",
+        "course_institution": "University of Trento",
+        "course_contact": "Roberto Sebastiani",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Formal Specification",
+            "Logic",
+            "Linear Temporal Logic (Ltl)",
+            "Model Checking",
+            "Sat",
+            "Smt",
+            "Theorem Proving",
+            "Timed Automata",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Mathsat",
+            "Nuxmv"
+        ],
+        "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/arfv2025",
+        "course_year_level": "1",
+        "course_reviewed": "2025/06/05",
+        "course_title": "Automated Reasoning and Formal Verification",
+        "course_country": "Italy"
+    },
+    {
         "course_code": "14079",
         "course_institution": "Universidade Federal Rural de Pernambuco",
         "course_contact": "Lucas Lima",
@@ -2552,6 +2578,7 @@ var tools =
     "Lean",
     "Lisa",
     "Logic Workbench",
+    "Mathsat",
     "Maude",
     "Mcmas",
     "Mcrl2",
