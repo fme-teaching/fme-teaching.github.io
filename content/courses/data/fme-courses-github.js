@@ -533,17 +533,19 @@ var courses =
             "Interactive Theorem Proving",
             "Logic",
             "Modal Logics",
+            "Dynamic Logic",
             "Proofs",
             "Proof Assistants",
             "Specification",
             "Theorem Proving"
         ],
         "course_tools": [
-            "Keymaera X"
+            "[Keymaera X](Http://Keymaerax.Org/)"
         ],
+        "": "[Andr\u00e9 Platzer. Logical Foundations of Cyber-Physical Systems. Springer 2018](https://lfcps.org/lfcps/)",
         "course_webpage": "https://lfcps.org/course/lfcps.html",
-        "course_year_level": "3",
-        "course_reviewed": "2023/12/23",
+        "course_year_level": "3+",
+        "course_reviewed": "2025/06/07",
         "course_title": "Logical Foundations of Cyber-Physical Systems",
         "course_country": "Germany"
     },
@@ -580,7 +582,7 @@ var courses =
     },
     {
         "course_code": "",
-        "course_institution": "Microsoft Research",
+        "course_institution": "Previously taught at Microsoft Research",
         "course_contact": "Markus Kuppe",
         "course_concepts": [
             "Distributed Systems",
@@ -596,6 +598,7 @@ var courses =
         ],
         "course_webpage": "https://github.com/tlaplus-workshops/ewd998",
         "course_year_level": "Industrial",
+        "course_reviewed": "2025/06/07",
         "course_title": "TLA+  Workshop EWD998",
         "course_country": "United States"
     },
@@ -683,12 +686,11 @@ var courses =
             "Test Cases Generation"
         ],
         "course_tools": [
-            "Fastest",
             "{Log} (Setlog)"
         ],
         "course_webpage": "https://www.fceia.unr.edu.ar/is2",
         "course_year_level": "4",
-        "": "2022/03/31",
+        "": "2025/06/07",
         "course_title": "Ingenier\u00eda de Software 2",
         "course_country": "Argentina"
     },
@@ -722,32 +724,31 @@ var courses =
         "course_country": "Austria"
     },
     {
-        "course_code": "FITR034",
+        "course_code": "FITR304",
         "course_institution": "ISAE-SUPAERO",
         "course_contact": "Christophe Garion",
         "course_concepts": [
-            "Abstract Interpretation",
             "Applied Formal Methods",
             "Deductive Software Verification",
             "Hoare Logic",
+            "Temporal Logic",
             "Model Checking",
             "Smt",
-            "Static Analysis"
+            "Static Analysis",
+            "Transition Systems"
         ],
         "course_tools": [
-            "Alter-Ergo",
+            "Alt-Ergo",
             "C",
             "Frama-C",
-            "Nusmv",
-            "Ocaml",
             "Spark/Ada",
-            "Why3",
+            "Tla+",
             "Z3"
         ],
         "course_webpage": "https://personnel.isae-supaero.fr/christophe-garion/teaching-activities-and-courses.html?lang=fr#outil_sommaire_1",
         "course_year_level": "MSc",
-        "course_reviewed": "2022/03/30",
-        "course_title": "Formal methods: an introduction",
+        "course_reviewed": "2025/06/06",
+        "course_title": "Formal verification and validation",
         "course_country": "France"
     },
     {
@@ -855,7 +856,7 @@ var courses =
         ],
         "course_webpage": "http://people.irisa.fr/Thomas.Genet/ACF",
         "course_year_level": "4",
-        "course_reviewed": "2021/11/21",
+        "course_reviewed": "2025/06/06",
         "course_title": "Software Formal Analysis and Design",
         "course_country": "France"
     },
@@ -2420,6 +2421,7 @@ var concepts =
     "Denotational Semantics",
     "Distributed Systems",
     "Dynamic Analysis",
+    "Dynamic Logic",
     "Explicit Model Checking",
     "Formal Models",
     "Formal Specification",
@@ -2537,6 +2539,7 @@ var tools =
 [
     "Agda",
     "Alloy",
+    "Alt-Ergo",
     "Alter-Ergo",
     "Ampersand",
     "Antlr",
@@ -2553,7 +2556,6 @@ var tools =
     "Czt",
     "Dafny",
     "Esc/Java",
-    "Fastest",
     "Fdr4",
     "Forge",
     "Frama-C",
@@ -2572,7 +2574,6 @@ var tools =
     "Jml",
     "Jqwik",
     "Key",
-    "Keymaera X",
     "Klee",
     "Krakatoa",
     "Lean",
@@ -2614,6 +2615,7 @@ var tools =
     "Why3",
     "Z",
     "Z3",
+    "[Keymaera X](Http://Keymaerax.Org/)",
     "{Log} (Setlog)"
 ]
 var countries = 
