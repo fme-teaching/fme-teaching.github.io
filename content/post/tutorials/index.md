@@ -65,7 +65,7 @@ Here are the details of the scheduled Zoom meeting:
 ---
 
 <!------------------------------------------------------------------------------------>
-- <img src="photos/philip_wadler.png" style="width:300px;" /> June 06, 2025, 3 pm CET: [Prof Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/), [University of Edinburgh](https://www.ed.ac.uk/), UK: **Lambda, the Ultimate Teaching Assistant (Agda version)**
+- <img src="photos/philip_wadler.png" style="width:300px;" /> June 06, 2025, 3 pm CEST: [Prof Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/), [University of Edinburgh](https://www.ed.ac.uk/), UK: **Lambda, the Ultimate Teaching Assistant (Agda version)**
 
   - {{< spoiler text="Read more" >}} 
 **Here is an abstract of the tutorial:**
