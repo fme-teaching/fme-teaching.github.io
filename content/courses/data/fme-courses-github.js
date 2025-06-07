@@ -1,6 +1,53 @@
 var courses = 
 [
     {
+        "course_code": "MISS1102",
+        "course_institution": "Alexandru Ioan Cuza, University of Iasi",
+        "course_contact": "Andrei ARUSOAIE",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Automated Reasoning",
+            "Axiomatisation",
+            "Axiomatic Semantics",
+            "Certified Compilation",
+            "Deductive Software Verification",
+            "Deductive Proof",
+            "Deductive Verification",
+            "Denotational Semantics",
+            "Formal Specification",
+            "Functional Programming",
+            "Hoare Logic",
+            "Induction",
+            "Interactive Theorem Proving",
+            "Labelled Transition Systems",
+            "Language Theory",
+            "Logic",
+            "Logic Programming",
+            "Proofs",
+            "Proof Assistants",
+            "Relations",
+            "Sat",
+            "Smt",
+            "Software Verification",
+            "Static Analysis",
+            "Structural Operational Semantics",
+            "Theorem Proving",
+            "Wp Calculus"
+        ],
+        "course_tools": [
+            "C",
+            "Dafny",
+            "Lean",
+            "Maude",
+            "Z3"
+        ],
+        "course_webpage": "https://edu.info.uaic.ro/metode-formale-inginerie-software",
+        "course_year_level": "1",
+        "course_reviewed": "2025/06/07",
+        "course_title": "Formal Methods in Software Engineering",
+        "course_country": "Romania"
+    },
+    {
         "course_code": "",
         "course_institution": "University of Trento",
         "course_contact": "Roberto Sebastiani",
