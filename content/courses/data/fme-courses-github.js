@@ -909,40 +909,6 @@ var courses =
     },
     {
         "course_code": "",
-        "course_institution": "Alexandru Ioan Cuza University",
-        "course_contact": "Dorel Lucanu",
-        "course_concepts": [
-            "Axiomatisation",
-            "Axiomatic Semantics",
-            "Deductive Software Verification",
-            "Deductive Proof",
-            "Deductive Verification",
-            "Formal Specification",
-            "Hoare Logic",
-            "Induction",
-            "Logic",
-            "Separation Logic",
-            "Software Verification",
-            "Specification",
-            "Static Analysis",
-            "Structural Operational Semantics"
-        ],
-        "course_tools": [
-            "C",
-            "Dafny",
-            "Infer",
-            "Java",
-            "Maude",
-            "Z3"
-        ],
-        "course_webpage": "https://sites.google.com/view/fii-fmse/home",
-        "course_year_level": "MSc",
-        "course_reviewed": "2021/09/03",
-        "course_title": "Formal Methods in Software Engineering",
-        "course_country": "Romania"
-    },
-    {
-        "course_code": "",
         "course_institution": "University of Zagreb",
         "course_contact": "Vedran \u010ca\u010di\u0107",
         "course_concepts": [
@@ -1530,7 +1496,7 @@ var courses =
         ]
     },
     {
-        "course_institution": "University of Rennes 1",
+        "course_institution": "University of Rennes",
         "course_contact": "Sandrine Blazy",
         "course_concepts": [
             "Deductive Verification",
@@ -1542,9 +1508,9 @@ var courses =
         "course_tools": [
             "Why3"
         ],
-        "course_webpage": "https://formations.univ-rennes1.fr/formation/programmation-de-confiance?studentstatus=112",
+        "course_webpage": "https://formations.univ-rennes.fr/enseignement/programmation-de-confiance?studentstatus=112",
         "course_year_level": "3",
-        "course_reviewed": "2021/06/28",
+        "course_reviewed": "2025/06/08",
         "course_title": "Trustworthy programming",
         "course_country": "France"
     },
