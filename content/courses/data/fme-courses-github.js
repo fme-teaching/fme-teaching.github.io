@@ -378,6 +378,7 @@ var courses =
         ],
         "course_webpage": "https://sites.google.com/a/cin.ufpe.br/if721",
         "course_year_level": "3",
+        "course_reviewed": "2025/06/11",
         "course_title": "Critical Systems",
         "course_country": "Brazil"
     },
@@ -812,16 +813,17 @@ var courses =
             "Sat",
             "Smt",
             "Specification",
-            "Temporal Logic"
+            "Temporal Logic",
+            "Inductive Invariants"
         ],
         "course_tools": [
             "Nusmv",
             "Spin",
             "Z3"
         ],
-        "course_webpage": "http://www.ccs.neu.edu/~stavros/fsvs21.html",
+        "course_webpage": "https://www.ccs.neu.edu/~stavros/fsvs23.html",
         "course_year_level": "4",
-        "course_reviewed": "2021/11/21",
+        "course_reviewed": "2025/06/11",
         "course_title": "System Specification, Verification, and Synthesis ",
         "course_country": "United States"
     },
@@ -839,16 +841,17 @@ var courses =
             "Sat",
             "Smt",
             "Specification",
-            "Temporal Logic"
+            "Temporal Logic",
+            "Inductive Invariants"
         ],
         "course_tools": [
             "Nusmv",
             "Spin",
             "Z3"
         ],
-        "course_webpage": "http://www.ccs.neu.edu/~stavros/fsvs21.html",
+        "course_webpage": "https://www.ccs.neu.edu/~stavros/fsvs23.html",
         "course_year_level": "PhD",
-        "course_reviewed": "2021/11/21",
+        "course_reviewed": "2025/06/11",
         "course_title": "Formal Specification, Verification, and Synthesis ",
         "course_country": "United States"
     },
@@ -873,9 +876,9 @@ var courses =
         "course_tools": [
             "Lean"
         ],
-        "course_webpage": "https://course.ccs.neu.edu/cs2800f21",
+        "course_webpage": "https://course.ccs.neu.edu/cs2800f23",
         "course_year_level": "2",
-        "course_reviewed": "2021/11/21",
+        "course_reviewed": "2025/06/11",
         "course_title": "Logic and Computation",
         "course_country": "United States"
     },
@@ -1216,7 +1219,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "MSc",
-        "course_reviewed": "2021/06/27",
+        "course_reviewed": "2025/06/10",
         "course_title": "Formal Specification and Verification",
         "course_country": "Germany"
     },
@@ -1243,7 +1246,7 @@ var courses =
         ],
         "course_webpage": "#",
         "course_year_level": "2",
-        "course_reviewed": "2021/06/27",
+        "course_reviewed": "2025/06/10",
         "course_title": "Formal Methods in Software Design",
         "course_country": "Germany"
     },
@@ -1486,9 +1489,10 @@ var courses =
             "Spin",
             "Spot",
             "Nuxmv",
-            "Pvs"
+            "Pvs/Isabelle"
         ],
         "course_webpage": "http://temporallogic.org/courses/AppliedFormalMethods",
+        "course_reviewed": "2025/06/10",
         "course_title": "Applied Formal Methods",
         "course_country": "United States",
         "course_year_level": [
@@ -2449,6 +2453,7 @@ var concepts =
     "Handling Procedure Calls Modularly",
     "Hoare Logic",
     "Induction",
+    "Inductive Invariants",
     "Interactive Theorem Proving",
     "Invariants",
     "Ioco",
@@ -2605,7 +2610,7 @@ var tools =
     "Prism",
     "Prob",
     "Prolog",
-    "Pvs",
+    "Pvs/Isabelle",
     "Python",
     "Rapl",
     "Reo",
