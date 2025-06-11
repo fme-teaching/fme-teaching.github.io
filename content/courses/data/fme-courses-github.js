@@ -65,7 +65,7 @@ var courses =
         ],
         "course_tools": [
             "Mathsat",
-            "Nuxmv"
+            "nuXmv"
         ],
         "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/arfv2025",
         "course_year_level": "1",
@@ -1488,8 +1488,8 @@ var courses =
         "course_tools": [
             "Spin",
             "Spot",
-            "Nuxmv",
-            "Pvs/Isabelle"
+            "nuXmv",
+            "PVS/Isabelle"
         ],
         "course_webpage": "http://temporallogic.org/courses/AppliedFormalMethods",
         "course_reviewed": "2025/06/10",
@@ -2603,13 +2603,12 @@ var tools =
     "Minisat",
     "No Tools",
     "Nusmv",
-    "Nuxmv",
     "Ocaml",
+    "PVS/Isabelle",
     "Pat",
     "Prism",
     "Prob",
     "Prolog",
-    "Pvs/Isabelle",
     "Python",
     "Rapl",
     "Reo",
@@ -2634,6 +2633,7 @@ var tools =
     "Z3",
     "[Keymaera X](Http://Keymaerax.Org/)",
     "mCRL2",
+    "nuXmv",
     "{Log} (Setlog)"
 ]
 var countries = 
