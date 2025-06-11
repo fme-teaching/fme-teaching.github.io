@@ -32,7 +32,7 @@ var courses =
             "Static Analysis",
             "Structural Operational Semantics",
             "Theorem Proving",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "C",
@@ -64,7 +64,7 @@ var courses =
             "Temporal Logic"
         ],
         "course_tools": [
-            "Mathsat",
+            "MathSAT",
             "nuXmv"
         ],
         "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/arfv2025",
@@ -97,11 +97,11 @@ var courses =
         ],
         "course_tools": [
             "Coq",
-            "Fdr4",
+            "FDR4",
             "Isabelle",
             "Lean",
-            "Minisat",
-            "Nusmv",
+            "MiniSat",
+            "NuSMV",
             "SMT-Lib",
             "Uppaal",
             "Z3"
@@ -126,7 +126,7 @@ var courses =
             "Relations",
             "Software Verification",
             "Specification",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "Alloy",
@@ -185,11 +185,11 @@ var courses =
             "Software Verification",
             "Specification",
             "Tool-Based Testing",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "Dafny",
-            "Staruml",
+            "StarUML",
             "UML"
         ],
         "course_webpage": "https://studien.ost.ch/allModules/39203_M_SEP1.html",
@@ -294,7 +294,7 @@ var courses =
             "Z Method"
         ],
         "course_tools": [
-            "Pat"
+            "PAT"
         ],
         "course_webpage": "#",
         "course_year_level": "4",
@@ -328,7 +328,7 @@ var courses =
         ],
         "course_tools": [
             "Dafny",
-            "Tla+",
+            "TLA++",
             "Rodin"
         ],
         "course_webpage": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_38",
@@ -347,7 +347,7 @@ var courses =
             "Proofs",
             "Software Verification",
             "Specification",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "Dafny"
@@ -372,9 +372,9 @@ var courses =
             "Specification"
         ],
         "course_tools": [
-            "Atelierb",
+            "AtelierB",
             "Prob",
-            "Bmotionweb"
+            "BMotionWeb"
         ],
         "course_webpage": "https://sites.google.com/a/cin.ufpe.br/if721",
         "course_year_level": "3",
@@ -441,8 +441,8 @@ var courses =
         ],
         "course_tools": [
             "Java",
-            "Jqwik",
-            "Tla"
+            "jqwik",
+            "TLA+"
         ],
         "course_webpage": "https://lucformalmethodscourse.github.io",
         "course_year_level": "3",
@@ -476,7 +476,7 @@ var courses =
         ],
         "course_tools": [
             "Coq",
-            "Ocaml"
+            "OCaml"
         ],
         "course_webpage": "#",
         "course_year_level": "3",
@@ -553,8 +553,8 @@ var courses =
             "Temporal Logic"
         ],
         "course_tools": [
-            "Minisat",
-            "Nusmv",
+            "MiniSat",
+            "NuSMV",
             "SMT-Lib"
         ],
         "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/fm2023",
@@ -588,7 +588,7 @@ var courses =
             "Theorem Proving"
         ],
         "course_tools": [
-            "[Keymaera X](Http://Keymaerax.Org/)"
+            "Keymaera X"
         ],
         "": "[Andr\u00e9 Platzer. Logical Foundations of Cyber-Physical Systems. Springer 2018](https://lfcps.org/lfcps/)",
         "course_webpage": "https://lfcps.org/course/lfcps.html",
@@ -620,7 +620,7 @@ var courses =
         ],
         "course_tools": [
             "Alloy",
-            "Fsp"
+            "FSP"
         ],
         "course_webpage": "https://mse.s3d.cmu.edu/0_documents/syllabi/fa2021/17614-formal-methods.pdf",
         "course_year_level": "MSc",
@@ -642,7 +642,7 @@ var courses =
             "Temporal Logic"
         ],
         "course_tools": [
-            "Tla"
+            "TLA+"
         ],
         "course_webpage": "https://github.com/tlaplus-workshops/ewd998",
         "course_year_level": "Industrial",
@@ -708,7 +708,7 @@ var courses =
             "Hoare Logic",
             "Software Verification",
             "Specification",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "Alter-Ergo",
@@ -790,7 +790,7 @@ var courses =
             "C",
             "Frama-C",
             "Spark/Ada",
-            "Tla+",
+            "TLA++",
             "Z3"
         ],
         "course_webpage": "https://personnel.isae-supaero.fr/christophe-garion/teaching-activities-and-courses.html?lang=fr#outil_sommaire_1",
@@ -817,7 +817,7 @@ var courses =
             "Inductive Invariants"
         ],
         "course_tools": [
-            "Nusmv",
+            "NuSMV",
             "Spin",
             "Z3"
         ],
@@ -845,7 +845,7 @@ var courses =
             "Inductive Invariants"
         ],
         "course_tools": [
-            "Nusmv",
+            "NuSMV",
             "Spin",
             "Z3"
         ],
@@ -927,7 +927,7 @@ var courses =
         "course_tools": [
             "Coq",
             "Haskell",
-            "Ocaml"
+            "OCaml"
         ],
         "course_webpage": "#",
         "course_year_level": "PhD",
@@ -951,8 +951,8 @@ var courses =
         "course_tools": [
             "Java",
             "JML",
-            "Minisat",
-            "Nusmv",
+            "MiniSat",
+            "NuSMV",
             "UML/OCL"
         ],
         "course_webpage": "https://cours.uqac.ca/8INF958",
@@ -979,7 +979,7 @@ var courses =
         "course_tools": [
             "Alter-Ergo",
             "C",
-            "Cbmc",
+            "CBMC",
             "Frama-C",
             "Z3"
         ],
@@ -1095,7 +1095,7 @@ var courses =
         ],
         "course_tools": [
             "Spin",
-            "Prism"
+            "PRISM"
         ],
         "course_webpage": "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4031",
         "course_year_level": "3, 4 & MSc",
@@ -1144,7 +1144,7 @@ var courses =
             "Z Method"
         ],
         "course_tools": [
-            "Tla",
+            "TLA+",
             "Z"
         ],
         "course_webpage": "https://www.fceia.unr.edu.ar/asist/index.html",
@@ -1215,7 +1215,7 @@ var courses =
             "Software Verification"
         ],
         "course_tools": [
-            "Key"
+            "KeY"
         ],
         "course_webpage": "#",
         "course_year_level": "MSc",
@@ -1241,7 +1241,7 @@ var courses =
             "Software Verification"
         ],
         "course_tools": [
-            "Key",
+            "KeY",
             "Spin"
         ],
         "course_webpage": "#",
@@ -1295,7 +1295,7 @@ var courses =
             "Specification",
             "Structural Operational Semantics",
             "Theorem Proving",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "C",
@@ -1362,7 +1362,7 @@ var courses =
             "Proofs",
             "Software Verification",
             "Specification",
-            "Wp Calculus"
+            "WP Calculus"
         ],
         "course_tools": [
             "Dafny"
@@ -1421,8 +1421,8 @@ var courses =
             "Checker Framework",
             "Frama-C",
             "Spin",
-            "Cpachecker",
-            "Klee"
+            "CPAChecker",
+            "KLEE"
         ],
         "course_webpage": "https://github.com/bugcounting/software-analysis",
         "course_year_level": "MSc",
@@ -1610,9 +1610,9 @@ var courses =
             "Hoare Logic"
         ],
         "course_tools": [
-            "Nusmv",
+            "NuSMV",
             "Dafny",
-            "Mcmas"
+            "MCMAS"
         ],
         "course_webpage": "https://catalogue.surrey.ac.uk/2018-9/module/COM3028",
         "course_title": "Systems Verification",
@@ -1735,7 +1735,7 @@ var courses =
             "Ioco"
         ],
         "course_tools": [
-            "Staruml",
+            "StarUML",
             "Uppaal"
         ],
         "course_webpage": "https://osiris.tue.nl/osiris_student_tueprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2018&cursus=2IX20&taal=en",
@@ -1793,18 +1793,18 @@ var courses =
             "Software Architecture"
         ],
         "course_tools": [
-            "Nusmv",
+            "NuSMV",
             "Alloy",
             "mCRL2",
             "Reo",
             "Uppaal",
-            "Minisat",
+            "MiniSat",
             "SMT-Lib",
             "Why3",
             "Coq",
             "Frama-C",
             "Dafny",
-            "Cbmc",
+            "CBMC",
             "Antlr",
             "Rapl"
         ],
@@ -1897,7 +1897,7 @@ var courses =
         ],
         "course_tools": [
             "Spin",
-            "Key"
+            "KeY"
         ],
         "course_webpage": "http://www.cse.chalmers.se/edu/year/2016/course/TDA293/index.html",
         "course_title": "Software Engineering using Formal Methods",
@@ -1962,8 +1962,8 @@ var courses =
         ],
         "course_tools": [
             "Student-Developed Small Abstract Interpreter",
-            "Gnu Prolog",
-            "Minisat",
+            "GNU Prolog",
+            "MiniSat",
             "Z3"
         ],
         "course_year_level": "MSc",
@@ -2055,7 +2055,7 @@ var courses =
         "course_contact": "Andrei Paskevich and Julien Signoles",
         "course_concepts": [
             "Hoare Logic",
-            "Wp Calculus",
+            "WP Calculus",
             "Formal Specification",
             "Memory Models"
         ],
@@ -2095,8 +2095,8 @@ var courses =
             "Refinement"
         ],
         "course_tools": [
-            "Czt",
-            "Fdr4"
+            "CZT",
+            "FDR4"
         ],
         "course_year_level": "3",
         "course_title": "Programming: Correctness by Construction",
@@ -2548,8 +2548,8 @@ var concepts =
     "Unknown",
     "Various Notions Of Bisimilarity",
     "Verification",
+    "WP Calculus",
     "Weakest Preconditions",
-    "Wp Calculus",
     "Z Method",
     "mCRL2"
 ]
@@ -2562,25 +2562,25 @@ var tools =
     "Ampersand",
     "Antlr",
     "Atelier-B",
-    "Atelierb",
-    "Bmotionweb",
+    "AtelierB",
+    "BMotionWeb",
     "C",
-    "Cbmc",
+    "CBMC",
+    "CPAChecker",
+    "CZT",
     "Checker Framework",
     "Coloured Petri Nets",
     "Coq",
-    "Cpachecker",
     "Cubicle",
-    "Czt",
     "Dafny",
     "Esc/Java",
-    "Fdr4",
+    "FDR4",
+    "FSP",
     "Forge",
     "Frama-C",
     "Frama-C (Wp Plug-In)",
-    "Fsp",
+    "GNU Prolog",
     "Gnat",
-    "Gnu Prolog",
     "Go Programming Language",
     "Gps",
     "Haskell",
@@ -2590,23 +2590,23 @@ var tools =
     "JML",
     "Jape",
     "Java",
-    "Jqwik",
-    "Key",
-    "Klee",
+    "KLEE",
+    "KeY",
+    "Keymaera X",
     "Krakatoa",
     "Lean",
     "Lisa",
     "Logic Workbench",
-    "Mathsat",
+    "MCMAS",
+    "MathSAT",
     "Maude",
-    "Mcmas",
-    "Minisat",
+    "MiniSat",
     "No Tools",
-    "Nusmv",
-    "Ocaml",
+    "NuSMV",
+    "OCaml",
+    "PAT",
+    "PRISM",
     "PVS/Isabelle",
-    "Pat",
-    "Prism",
     "Prob",
     "Prolog",
     "Python",
@@ -2619,10 +2619,10 @@ var tools =
     "Spark/Ada",
     "Spin",
     "Spot",
-    "Staruml",
+    "StarUML",
     "Student-Developed Small Abstract Interpreter",
-    "Tla",
-    "Tla+",
+    "TLA+",
+    "TLA++",
     "UML",
     "UML/OCL",
     "Unknown",
@@ -2631,7 +2631,7 @@ var tools =
     "Why3",
     "Z",
     "Z3",
-    "[Keymaera X](Http://Keymaerax.Org/)",
+    "jqwik",
     "mCRL2",
     "nuXmv",
     "{Log} (Setlog)"
