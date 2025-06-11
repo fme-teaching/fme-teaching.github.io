@@ -26,8 +26,8 @@ var courses =
             "Proofs",
             "Proof Assistants",
             "Relations",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Software Verification",
             "Static Analysis",
             "Structural Operational Semantics",
@@ -55,10 +55,10 @@ var courses =
             "Automated Reasoning",
             "Formal Specification",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Theorem Proving",
             "Timed Automata",
             "Temporal Logic"
@@ -84,13 +84,13 @@ var courses =
             "Formal Specification",
             "Interactive Theorem Proving",
             "Labelled Transition Systems",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Process Algebra",
             "Proofs",
             "Proof Assistants",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Software Verification",
             "Theorem Proving",
             "Temporal Logic"
@@ -102,7 +102,7 @@ var courses =
             "Lean",
             "Minisat",
             "Nusmv",
-            "Smt-Lib",
+            "SMT-Lib",
             "Uppaal",
             "Z3"
         ],
@@ -190,7 +190,7 @@ var courses =
         "course_tools": [
             "Dafny",
             "Staruml",
-            "Uml"
+            "UML"
         ],
         "course_webpage": "https://studien.ost.ch/allModules/39203_M_SEP1.html",
         "course_year_level": "3",
@@ -228,7 +228,7 @@ var courses =
             "Temporal Logic"
         ],
         "course_tools": [
-            "Mcrl2"
+            "mCRL2"
         ],
         "course_webpage": "https://emwww.github.io/home/teaching/model_checking",
         "course_year_level": "MSc",
@@ -243,7 +243,7 @@ var courses =
         "course_concepts": [
             "Applied Formal Methods",
             "Formal Specification",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Proof Assistants",
             "Software Verification",
@@ -270,7 +270,7 @@ var courses =
         "course_concepts": [
             "Hoare Logic",
             "Labelled Transition Systems",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Timed Automata",
             "Temporal Logic"
@@ -392,7 +392,7 @@ var courses =
             "Functional Programming",
             "Logic",
             "Logic Programming",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Modelling",
             "Temporal Logic",
             "Z Method"
@@ -411,7 +411,7 @@ var courses =
         "course_contact": "Elisabetta Di Nitto & Matteo Camilli & Matteo Giovanni Rossi",
         "course_concepts": [
             "Distributed Systems",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Modelling",
             "Software Architecture",
             "Software Verification",
@@ -419,7 +419,7 @@ var courses =
         ],
         "course_tools": [
             "Alloy",
-            "Uml"
+            "UML"
         ],
         "course_webpage": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento",
         "course_year_level": "MSc",
@@ -495,12 +495,12 @@ var courses =
             "Formal Specification",
             "Hoare Logic",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Modelling",
             "Relations",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Software Verification",
             "Specification",
             "Temporal Logic"
@@ -543,10 +543,10 @@ var courses =
             "Automated Reasoning",
             "Labelled Transition Systems",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Software Verification",
             "Theorem Proving",
             "Timed Automata",
@@ -555,7 +555,7 @@ var courses =
         "course_tools": [
             "Minisat",
             "Nusmv",
-            "Smt-Lib"
+            "SMT-Lib"
         ],
         "course_webpage": "https://disi.unitn.it/rseba/DIDATTICA/fm2023",
         "course_year_level": "MSc",
@@ -610,7 +610,7 @@ var courses =
             "Formal Specification",
             "Labelled Transition Systems",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Modelling",
             "Process Calculus",
@@ -676,7 +676,7 @@ var courses =
         "course_concepts": [
             "Applied Formal Methods",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Modelling",
             "Software Verification",
@@ -689,7 +689,7 @@ var courses =
             "Frama-C",
             "Infer",
             "Java",
-            "Jml",
+            "JML",
             "Uppaal",
             "Z3"
         ],
@@ -754,7 +754,7 @@ var courses =
             "Formal Specification",
             "Hoare Logic",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Modelling",
             "Software Verification"
@@ -762,7 +762,7 @@ var courses =
         "course_tools": [
             "Esc/Java",
             "Java",
-            "Jml",
+            "JML",
             "Spin"
         ],
         "course_webpage": "https://campus.aau.at/studien/lvliste.jsp?atoken=578578352",
@@ -781,7 +781,7 @@ var courses =
             "Hoare Logic",
             "Temporal Logic",
             "Model Checking",
-            "Smt",
+            "SMT",
             "Static Analysis",
             "Transition Systems"
         ],
@@ -807,11 +807,11 @@ var courses =
             "Formal Specification",
             "Labelled Transition Systems",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Modelling",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Specification",
             "Temporal Logic",
             "Inductive Invariants"
@@ -835,11 +835,11 @@ var courses =
             "Formal Specification",
             "Labelled Transition Systems",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Modelling",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Specification",
             "Temporal Logic",
             "Inductive Invariants"
@@ -868,8 +868,8 @@ var courses =
             "Interactive Theorem Proving",
             "Logic",
             "Proofs",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Specification",
             "Theorem Proving"
         ],
@@ -942,18 +942,18 @@ var courses =
         "course_concepts": [
             "Formal Specification",
             "Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
-            "Sat",
+            "SAT",
             "Tool-Based Testing",
             "Temporal Logic"
         ],
         "course_tools": [
             "Java",
-            "Jml",
+            "JML",
             "Minisat",
             "Nusmv",
-            "Uml/Ocl"
+            "UML/OCL"
         ],
         "course_webpage": "https://cours.uqac.ca/8INF958",
         "course_year_level": "MSc",
@@ -973,7 +973,7 @@ var courses =
             "Formal Specification",
             "Hoare Logic",
             "Model Checking",
-            "Smt",
+            "SMT",
             "Software Verification"
         ],
         "course_tools": [
@@ -1089,7 +1089,7 @@ var courses =
             "Labelled Transition Systems",
             "Modelling",
             "Temporal Logic",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Probabilistic Model Checking"
         ],
@@ -1114,11 +1114,11 @@ var courses =
             "Formal Specification",
             "Hoare Logic",
             "Labelled Transition Systems",
-            "Linear Temporal Logic (Ltl)",
+            "Linear Temporal Logic (LTL)",
             "Model Checking",
             "Model-Oriented",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Specification",
             "Tool-Based Testing"
         ],
@@ -1234,7 +1234,7 @@ var courses =
             "Formal Specification",
             "Logic",
             "Linear Temporal Logic",
-            "Ltl",
+            "LTL",
             "Model Checking",
             "Modelling",
             "Proofs",
@@ -1264,7 +1264,7 @@ var courses =
         ],
         "course_tools": [
             "Java",
-            "Jml",
+            "JML",
             "Why3",
             "Krakatoa"
         ],
@@ -1384,8 +1384,8 @@ var courses =
             "Induction",
             "Linear Temporal Logic",
             "Propositional Natural Deduction",
-            "Sat",
-            "Smt",
+            "SAT",
+            "SMT",
             "Property-Based Testing"
         ],
         "course_tools": [
@@ -1438,10 +1438,10 @@ var courses =
             "Linear-Time Properties",
             "Omega-Regular Properties",
             "Buchi Automata",
-            "Ltl",
-            "Ctl",
-            "Ltl Model Checking",
-            "Ctl Model Checking"
+            "LTL",
+            "CTL",
+            "LTL Model Checking",
+            "CTL Model Checking"
         ],
         "course_tools": [
             "Spin"
@@ -1460,11 +1460,11 @@ var courses =
             "Process Algebra",
             "Mu-Calculus",
             "Model Checking",
-            "Mcrl2"
+            "mCRL2"
         ],
         "course_tools": [
             "Alloy",
-            "Mcrl2"
+            "mCRL2"
         ],
         "course_webpage": "https://wwwen.uni.lu/studies/fstc/master_in_information_and_computer_sciences/programme",
         "course_year_level": "MSc",
@@ -1479,8 +1479,8 @@ var courses =
         "course_concepts": [
             "Logic Specifications",
             "Temporal Logics",
-            "Ltl",
-            "Ctl",
+            "LTL",
+            "CTL",
             "Explicit Model Checking",
             "Symbolic Model Checking",
             "Theorem Proving"
@@ -1604,8 +1604,8 @@ var courses =
         "course_concepts": [
             "Modal Logic",
             "Temporal Logic",
-            "Ltl",
-            "Ctl",
+            "LTL",
+            "CTL",
             "Model Checking",
             "Hoare Logic"
         ],
@@ -1627,7 +1627,7 @@ var courses =
         "course_contact": "Burkhardt Renz",
         "course_concepts": [
             "Propositional Logic",
-            "Sat-Solving",
+            "SAT-Solving",
             "Predicate Logic",
             "Linear Temporal Logic",
             "Natural Deduction"
@@ -1655,7 +1655,7 @@ var courses =
             "Behavioural Equivalences"
         ],
         "course_tools": [
-            "Mcrl2"
+            "mCRL2"
         ],
         "course_webpage": "https://www.canvas.net/browse/halmstad/courses/system-validation,",
         "course_year_level": "MSc",
@@ -1716,7 +1716,7 @@ var courses =
             "Ioco"
         ],
         "course_tools": [
-            "Mcrl2"
+            "mCRL2"
         ],
         "course_webpage": "https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45569",
         "course_year_level": "MSc",
@@ -1727,9 +1727,9 @@ var courses =
         "course_institution": "Eindhoven University of Technology",
         "course_contact": "Jeroen Keiren",
         "course_concepts": [
-            "Uml",
+            "UML",
             "Labelled Transition Systems",
-            "Ltl",
+            "LTL",
             "Timed Automata",
             "Model-Based Testing",
             "Ioco"
@@ -1775,7 +1775,7 @@ var courses =
             "Applied Formal Methods"
         ],
         "course_tools": [
-            "Mcrl2"
+            "mCRL2"
         ],
         "course_webpage": "https://mitpress.mit.edu/books/modeling-and-analysis-communicating-systems",
         "course_year_level": "MSc",
@@ -1795,11 +1795,11 @@ var courses =
         "course_tools": [
             "Nusmv",
             "Alloy",
-            "Mcrl2",
+            "mCRL2",
             "Reo",
             "Uppaal",
             "Minisat",
-            "Smt-Lib",
+            "SMT-Lib",
             "Why3",
             "Coq",
             "Frama-C",
@@ -1841,7 +1841,7 @@ var courses =
         "course_concepts": [
             "Model Checking",
             "Alloy",
-            "Uml/Ocl"
+            "UML/OCL"
         ],
         "course_tools": [
             "Spin",
@@ -1893,7 +1893,7 @@ var courses =
         "course_concepts": [
             "Model Checking",
             "Deductive Verification",
-            "Jml"
+            "JML"
         ],
         "course_tools": [
             "Spin",
@@ -1957,8 +1957,8 @@ var courses =
             "Abstract Interpretation",
             "Logic Programming",
             "Constraint Logic Programming",
-            "Sat",
-            "Smt"
+            "SAT",
+            "SMT"
         ],
         "course_tools": [
             "Student-Developed Small Abstract Interpreter",
@@ -2419,14 +2419,14 @@ var concepts =
     "Behavioural Equivalences",
     "Behavioural Modelling",
     "Buchi Automata",
+    "CTL",
+    "CTL Model Checking",
     "Calculational Design",
     "Calculational Method",
     "Category Theory",
     "Certified Compilation",
     "Constraint Logic Programming",
     "Constraints",
-    "Ctl",
-    "Ctl Model Checking",
     "Curry-Howard Isomorphism",
     "Data Abstraction",
     "Data Refinement",
@@ -2457,21 +2457,20 @@ var concepts =
     "Interactive Theorem Proving",
     "Invariants",
     "Ioco",
-    "Jml",
+    "JML",
+    "LTL",
+    "LTL Model Checking",
     "Labelled Transition Systems",
     "Lambda Calculus",
     "Language Theory",
     "Linear Temporal Logic",
-    "Linear Temporal Logic (Ltl)",
+    "Linear Temporal Logic (LTL)",
     "Linear-Time Properties",
     "Logic",
     "Logic Programming",
     "Logic Specifications",
     "Logics",
     "Loop Invariants",
-    "Ltl",
-    "Ltl Model Checking",
-    "Mcrl2",
     "Memory Models",
     "Modal Logic",
     "Modal Logics",
@@ -2513,11 +2512,11 @@ var concepts =
     "Relational Logic",
     "Relations",
     "Requirements",
-    "Sat",
-    "Sat-Solving",
+    "SAT",
+    "SAT-Solving",
+    "SMT",
     "Separation Logic",
     "Simply Typed Lambda Calculus",
-    "Smt",
     "Software Analysis Tools",
     "Software Architecture",
     "Software Metrics",
@@ -2544,14 +2543,15 @@ var concepts =
     "Type Systems",
     "Type Theory",
     "Types",
-    "Uml",
-    "Uml/Ocl",
+    "UML",
+    "UML/OCL",
     "Unknown",
     "Various Notions Of Bisimilarity",
     "Verification",
     "Weakest Preconditions",
     "Wp Calculus",
-    "Z Method"
+    "Z Method",
+    "mCRL2"
 ]
 var tools = 
 [
@@ -2587,9 +2587,9 @@ var tools =
     "Hypothesis",
     "Infer",
     "Isabelle",
+    "JML",
     "Jape",
     "Java",
-    "Jml",
     "Jqwik",
     "Key",
     "Klee",
@@ -2600,7 +2600,6 @@ var tools =
     "Mathsat",
     "Maude",
     "Mcmas",
-    "Mcrl2",
     "Minisat",
     "No Tools",
     "Nusmv",
@@ -2615,8 +2614,8 @@ var tools =
     "Rapl",
     "Reo",
     "Rodin",
+    "SMT-Lib",
     "Scala",
-    "Smt-Lib",
     "Spark Toolset",
     "Spark/Ada",
     "Spin",
@@ -2625,8 +2624,8 @@ var tools =
     "Student-Developed Small Abstract Interpreter",
     "Tla",
     "Tla+",
-    "Uml",
-    "Uml/Ocl",
+    "UML",
+    "UML/OCL",
     "Unknown",
     "Uppaal",
     "Use",
@@ -2634,6 +2633,7 @@ var tools =
     "Z",
     "Z3",
     "[Keymaera X](Http://Keymaerax.Org/)",
+    "mCRL2",
     "{Log} (Setlog)"
 ]
 var countries = 
