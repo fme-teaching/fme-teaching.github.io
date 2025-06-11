@@ -125,9 +125,9 @@
                 <dt>Country</dt>
                 <dd><%= course_country %></dd>
                 <dt>Course concepts</dt>
-                <dd><%= course_concepts %></dt>
+                <dd><%= course_concepts.join(", ") %></dt>
                 <dt>Languages/Tools</dt>
-                <dd><%= course_tools %></dt>
+                <dd><%= course_tools.join(", ") %></dt>
 		<% if(typeof course_reviewed != 'undefined') { %>
 		<dt>Last review date</dt>
                 <dd><%= course_reviewed %></dt>
