@@ -72,10 +72,10 @@ Here are the details of the scheduled Zoom meeting:
 - {{< spoiler text="Read more" >}} 
 
 Luigia's text
+
 {{< /spoiler >}}
 
-  - {{< spoiler text="Read more" >}} 
-**Here is an abstract of the tutorial:**
+- {{< spoiler text="**Abstract of the tutorial:**" >}} 
 
 *Proof assistants*, such as Agda, Coq, HOL, Isabelle, Lean, or Twelf, permit formal
 statements of propositions and proofs in a way that can be checked by a
