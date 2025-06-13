@@ -67,6 +67,13 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/philip_wadler.png" style="width:300px;" /> June 06, 2025, 3 pm CEST: [Prof Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/), [University of Edinburgh](https://www.ed.ac.uk/), UK: **Lambda, the Ultimate Teaching Assistant (Agda version)**
 
+- The recording of Prof. Wadler's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=7244668e-78e8-4790-895a-b2fb00a38d84) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/xufprm28ohj168ahrqlix/AMIi1M-94AABFTO4dumLvsY?rlkey=c1wrxply909ucmqx4x5p7fdbw&dl=0).
+
+- {{< spoiler text="Read more" >}} 
+
+Luigia's text
+{{< /spoiler >}}
+
   - {{< spoiler text="Read more" >}} 
 **Here is an abstract of the tutorial:**
 
