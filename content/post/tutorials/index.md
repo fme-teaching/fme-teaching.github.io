@@ -69,13 +69,7 @@ Here are the details of the scheduled Zoom meeting:
 
 - The recording of Prof. Wadler's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=7244668e-78e8-4790-895a-b2fb00a38d84) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/xufprm28ohj168ahrqlix/AMIi1M-94AABFTO4dumLvsY?rlkey=c1wrxply909ucmqx4x5p7fdbw&dl=0).
 
-- {{< spoiler text="Read more" >}} 
-
-Luigia's text
-
-{{< /spoiler >}}
-
-- {{< spoiler text="**Abstract of the tutorial:**" >}} 
+- {{< spoiler text="**Abstract of the tutorial**" >}} 
 
 *Proof assistants*, such as Agda, Coq, HOL, Isabelle, Lean, or Twelf, permit formal
 statements of propositions and proofs in a way that can be checked by a
@@ -113,6 +107,14 @@ assistant, students can achieve perfection.
  http://plfa.inf.ed.ac.uk
 
 {{< /spoiler >}}
+
+- {{< spoiler text="Read more" >}} 
+
+The work that Prof. Wadler discusses is set up in the context of proof assistants having the potential of acting as TAs for students. For that role, Phil created an alternative to well-established theorem provers such as Coq; this alternative spares the students having to learn Coq features that are perhaps too complicated for novices (tactics, for instance). The result is called Agda, an online proof assistant used to teach programming language foundations for advanced students in their fourth year. The implicit prerequisite for such a course is a first year course in programming using Haskell. The size of the course is about 40 students. The lecturing goes on 2-3 times per week during the 11-week semester. Each lecture is organised with one hour of teaching and one hour of tutorial where students work on their computers, supervised by Phil and his TA. Collaborating with other students and with Generative AI is allowed, as long as the students are able to explain their code and proofs. Prof. Wadler's work is an excellent example of teaching Formal Methods based on reliable tools that students enjoy using - these tools create challenges not unlike in video games, thus motivating the students to dig deeper in order to prove correctly. Proofs in Agda are simpler to understand and read than proofs in other theorem provers, hence, they are much more approapriate for undergraduates or early graduate students. In the end of the talk, some discussion focused on the link between Generative AI, proving, and teaching Formal Methods. Phil remarked that Generative AI tools should be used and trained to help us, and that we would still be needed as Formal Methods educators, to teach for instance when to ask these tools to take over and fill in parts of the proofs. The tutorial ended by suggesting that "hallucination" is not the proper term to use for describing the Generative AI erroneous answers.
+
+{{< /spoiler >}}
+
+
 ---
 
 <!------------------------------------------------------------------------------------>
