@@ -166,7 +166,7 @@ var courses =
         ],
         "course_webpage": "https://www.msengineering.ch/theory-modules/2024-2025-tsm-advprpa",
         "course_year_level": "MSc",
-        "course_reviewed": "2025/03/07",
+        "course_reviewed": "2025/06/12",
         "course_title": "Advanced Programming Paradigms",
         "course_country": "Switzerland"
     },
@@ -194,7 +194,7 @@ var courses =
         ],
         "course_webpage": "https://studien.ost.ch/allModules/39203_M_SEP1.html",
         "course_year_level": "3",
-        "course_reviewed": "2025/03/07",
+        "course_reviewed": "2025/06/12",
         "course_title": "SE Practices 1",
         "course_country": "Switzerland"
     },
@@ -214,7 +214,7 @@ var courses =
         ],
         "course_webpage": "https://studien.ost.ch/allModules/39143_M_FP.html",
         "course_year_level": "1",
-        "course_reviewed": "2025/03/07",
+        "course_reviewed": "2025/06/12",
         "course_title": "Functional Programming",
         "course_country": "Switzerland"
     },
