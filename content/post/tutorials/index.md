@@ -67,6 +67,8 @@ Here are the details of the scheduled Zoom meeting:
 In this talk, I will present our work on automated grading of functional programming assignments, and share our experience in enhancing automated grading in an undergraduate programming course using formal verification. In our experiment, we deploy a program verifier to check the equivalence between student submissions and reference solutions, alongside the existing, testing-based grading infrastructure. Consequently, we achieve higher confidence in correctness of idiomatic solutions but also more thorough assessment of solution landscape that reveals solutions beyond those envisioned by instructors.
 
 {{< /spoiler >}}
+
+
 ---
 
 <!------------------------------------------------------------------------------------>
