@@ -60,7 +60,7 @@ Here are the details of the scheduled Zoom meeting:
 
 ## 2025
 <!------------------------------------------------------------------------------------>
-- <img src="photos/DraganaMilovancevic.jpg" style="width:200px;" /> September 26, 2025, 3 pm CEST: [Gustavo Carvalho]([https://people.epfl.ch/dragana.milovancevic/?lang=en](https://ghpc.github.io/)), [Universidade Federal de Pernambuco]([https://lara.epfl.ch/w/](https://www.ufpe.br/inicio)), Brazil: **From specifications to code with B: a personal account on teaching formal methods in Brazil**
+- <img src="photos/GustavoCarvalho.png" style="width:200px;" /> September 26, 2025, 3 pm CEST: [Gustavo Carvalho]([https://people.epfl.ch/dragana.milovancevic/?lang=en](https://ghpc.github.io/)), [Universidade Federal de Pernambuco]([https://lara.epfl.ch/w/](https://www.ufpe.br/inicio)), Brazil: **From specifications to code with B: a personal account on teaching formal methods in Brazil**
 
 
 ---
