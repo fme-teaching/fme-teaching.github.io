@@ -70,11 +70,20 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/DraganaMilovancevic.jpg" style="width:200px;" /> August 1, 2025, 3 pm CEST: [Dragana Milovancevic](https://people.epfl.ch/dragana.milovancevic/?lang=en), [EPFL](https://lara.epfl.ch/w/), Switzerland: **Formal Autograding in a Classroom**
 
+- The recording of Dr. Milovancevic's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=f01346f3-2feb-4724-a7e1-b32f00b8cdae) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/c77tleoxz45pw2rbkr5nv/AIbQAzXM5zJUFYXHVDBzN6M?rlkey=9margd81nrq89sic6bzna6aq7&dl=0).
+
 - {{< spoiler text="Abstract of the tutorial" >}}
   
 In this talk, I will present our work on automated grading of functional programming assignments, and share our experience in enhancing automated grading in an undergraduate programming course using formal verification. In our experiment, we deploy a program verifier to check the equivalence between student submissions and reference solutions, alongside the existing, testing-based grading infrastructure. Consequently, we achieve higher confidence in correctness of idiomatic solutions but also more thorough assessment of solution landscape that reveals solutions beyond those envisioned by instructors.
 
 {{< /spoiler >}}
+
+- {{< spoiler text="Read more" >}} 
+
+
+
+{{< /spoiler >}}
+
 
 
 ---
