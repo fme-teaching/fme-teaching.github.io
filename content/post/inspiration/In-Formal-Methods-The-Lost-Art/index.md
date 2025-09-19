@@ -33,8 +33,8 @@ projects: []
 ## Abstract
 This article describes an experimental course in "(In-)Formal
 Methods", taught for three years at the University of New South
-Wales to [fourth-year undergraduate Computer-Science students](http://www.cse.unsw.edu.au/~cs6721/). An adapted version was then taught
-(disguised as “Software Engineering”) to [second year undergraduate students](http://webapps.cse.unsw.edu.au/webcms2/course/index.php?cid=2332).
+Wales to fourth-year undergraduate Computer-Science students. An adapted version was then taught
+(disguised as “Software Engineering”) to second year undergraduate students.
 
 Fourth-year CS students at UNSW are typically very-good-to-excellent 
 programmers. Second-year students are on their way to the
