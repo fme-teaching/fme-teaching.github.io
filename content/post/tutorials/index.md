@@ -62,7 +62,7 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/GustavoCarvalho.png" style="width:200px;" /> September 26, 2025, 3 pm CEST: [Gustavo Carvalho]([https://people.epfl.ch/dragana.milovancevic/?lang=en](https://ghpc.github.io/)), [Universidade Federal de Pernambuco]([https://lara.epfl.ch/w/](https://www.ufpe.br/inicio)), Brazil: **From specifications to code with B: a personal account on teaching formal methods in Brazil**
 
-- The recording of Dr. Carvalho's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=201439dd-a1bf-4533-bee6-b36400ed9601) and a few snapshots from the lecture [here](). Hm?
+- The recording of Dr. Carvalho's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=201439dd-a1bf-4533-bee6-b36400ed9601) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/2qn9mf7yvvtoz94wmo9kg/AJWjdif3EUM8yHBw_R2FJWM?rlkey=evrq3gman6g00mp9d3iuuh4wy&dl=0). The slides of the presentation are also available, [here](https://www.dropbox.com/scl/fi/i4g9g0skcl0rqfcclkirm/fme_teaching_Gustavo_Carvalho_2025-09-26.pdf?rlkey=dx93gkuh9mmjqyg2xkrmhkk7b&dl=0).
 
 - {{< spoiler text="Read more" >}} 
 
