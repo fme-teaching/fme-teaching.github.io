@@ -66,7 +66,11 @@ Here are the details of the scheduled Zoom meeting:
 
 - {{< spoiler text="Read more" >}} 
 
+In his tutorial, Dr. Carvalho presented his vision on teaching Formal Methods, based on his more-than-a-decade-long experience with the topic. Initially, he taught a combination of Z and CSP# due to the local curriculum requirement on concurrency. Despite engaging the students with several software platforms (PAT for verification, CZT for typing programs and Z-Eves for proving), the feedback pointed out the weakness of tools, in addition to the loose connection between the two formalisms. Building on this initial phase and moving to another university, Gustavo continued with teaching a combination of Event-B and CSP_M, attracting a positive feedback on the Event-B related software tools, such as Rodin, ProB and B Motion Studio. The last and current phase consists in teaching only B, due to several reasons, such as the possibility to drop the mandatory concurrency requirement and the recent availability of a B-MOOC. The latter development allowed for changing from a classical teaching format to a flipped classroom, where students are required to follow the MOOC course and then implement in a laboratory the various exercises and projects, with teacher support. The feedback from students changed to an appreciation of the employed software tools (Atelier-B, ProB, B Motion Web and VS Code) together with the integrated nature of the course, since some of the projects involve code generation in C with embedding in various platforms of interest for students.
 
+A constant observation students provided - throughout the three phases - is the scarcity of the community working in all these formalisms. Thus, in contrast with - for instance - programming languages, where one can find a remarkable body of resources, for B and related topics the existing materials and community are not very large. 
+
+The volume of the presented courses ranges to about 25 students, which is rather impressive, considering that all the courses are optional in the curriculum. 
 
 {{< /spoiler >}}
 
