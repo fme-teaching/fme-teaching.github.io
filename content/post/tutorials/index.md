@@ -61,7 +61,7 @@ Here are the details of the scheduled Zoom meeting:
 ## 2025
 
 <!------------------------------------------------------------------------------------>
-- <img src="photos/GraemeSmith.png" style="width:200px;" /> November 28, 2025, 10 am CET: [Graeme Smith](https://staff.itee.uq.edu.au/smith/), [University of Queensland](https://www.uq.edu.au/), Australia: **Autograding weakest precondition proofs and Dafny specifications**
+- <img src="photos/GraemeSmith.png" style="width:200px;" /> November 28, 2025, $${\color{red}10 am CET}$$: [Graeme Smith](https://staff.itee.uq.edu.au/smith/), [University of Queensland](https://www.uq.edu.au/), Australia: **Autograding weakest precondition proofs and Dafny specifications**
 ---
 
 <!------------------------------------------------------------------------------------>
