@@ -62,6 +62,13 @@ Here are the details of the scheduled Zoom meeting:
 
 <!------------------------------------------------------------------------------------>
 - <img src="photos/GraemeSmith.png" style="width:200px;" /> November 28, 2025, *10am CET*: [Graeme Smith](https://staff.itee.uq.edu.au/smith/), [University of Queensland](https://www.uq.edu.au/), Australia: **Autograding weakest precondition proofs and Dafny specifications**
+
+- {{< spoiler text="Abstract of the tutorial" >}}
+
+Autograding has been widely used in programming courses for decades. It reduces the marking load on teaching staﬀ, providing them with more time to give higher quality feedback. There is little work, however, on autograding in formal methods courses where the emphasis is not on programming, but on writing proofs and specifications. This presentation describes a tool which employs the proof capabilities of Dafny to automatically grade students’ weakest precondition proofs and Dafny method specifications. The tool has been designed to (i) be reusable for new versions of assignments, with minimal input from teaching staff, (ii) allow fine-grained marking, in order to give students part marks for partially correct solutions, and (iii) not artificially constrain students' use of programming techniques where they need to provide code as well as specifications, allowing them to apply best programming practices.
+
+{{< /spoiler >}}
+  
 ---
 
 <!------------------------------------------------------------------------------------>
