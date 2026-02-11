@@ -25,7 +25,7 @@ title = "Formal Methods Teaching Committee"
   description = "We maintain a database of [FM courses](#fm-courses)."
 
 [[feature]]
-  icon = "chalkboard-user"
+  icon = "chalkboard"
   icon_pack = "fas"
   name = "Tutorials"
   description = "We organise online [tutorials](#tutorials) about teaching formal methods."
