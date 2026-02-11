@@ -19,34 +19,34 @@
   weight = 23
 
 [[main]]
-  name = "Inspiration"
-  url = "#inspiration"
+  name = "FM Courses"
+  url = "#fm-courses"
   weight = 25
 
 [[main]]
-  name = "FM Courses"
-  url = "#fm-courses"
-  weight = 30
+  name = "Tutorials"
+  url = "/2021/08/24/tutorial-series-of-the-fme-teaching-committee/"
+  weight = 28
 
 [[main]]
   name = "Events"
   url = "#events"
+  weight = 30
+
+[[main]]
+  name = "Inspiration"
+  url = "#inspiration"
   weight = 35
+
+[[main]]
+  name = "Meetings"
+  url = "#meetings"
+  weight = 38
 
 [[main]]
   name = "Members"
   url = "#members"
   weight = 40
-
-[[main]]
-  name = "Meetings"
-  url = "#meetings"
-  weight = 50
-
-[[main]]
-  name = "Tutorials"
-  url = "/2021/08/24/tutorial-series-of-the-fme-teaching-committee/"
-  weight = 55
 
 #[[main]]
 #  name = "Posts"
