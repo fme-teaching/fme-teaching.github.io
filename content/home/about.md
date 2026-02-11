@@ -25,10 +25,10 @@ title = "Formal Methods Teaching Committee"
   description = "We maintain a database of [FM courses](#fm-courses)."
 
 [[feature]]
-  icon = "university"
+  icon = "teacher"
   icon_pack = "fas"
-  name = "Case Studies"
-  description = "We maintain a list of  FM case studies."
+  name = "tutorial"
+  description = "We organise online [tutorials](#tutorials) about teaching formal methods."
 
 
 
