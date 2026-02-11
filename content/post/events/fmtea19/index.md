@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FMTea 2024: Formal Methods Teaching Workshop"
+title: "FMTea 2026: Formal Methods Teaching Workshop"
 subtitle: ""
-summary: "Milan, Italy, 10 September 2024"
+summary: "Tokyo, Japan, May 19, 2026"
 authors: []
 tags: []
 categories: [Events]
-lastmod: 2024-08-29
+lastmod: 2026-05-19
 featured: false
 draft: false
 
@@ -27,25 +27,6 @@ image:
 projects: []
 ---
 
-**FMTea 2024 Website:** https://fmtea.github.io
+**FMTea 2026 Website:** [https://fmtea.github.io](https://fmtea.github.io/)
 
-Formal Methods provide software engineering with tools and techniques for
-rigorously reasoning about the correctness of systems. While in recent years
-formal methods are increasingly being used in industry, university curricula
-are not adapting at the same pace. Some existing formal methods classes
-interest and challenge students, whereas others fail to ignite student
-motivation. We need to find ways to teach formal methods to the next
-generation, and doing so will require us to adapt our teaching to the 21st
-century students.
-
-FMTea24 is a combined workshop and tutorial at the 26th International Symposium on Formal
-Methods, FM2024. Its aim is to share experiences of teaching formal methods
-that have gone well, or that failed in surprising ways, as well as to develop
-ways to reboot the presence of formal methods in curricula. 
-
-
-In the workshop part of the event, we aim to attract papers detailing authors’
-experiences with FM Teaching. We would like to get papers discussing successes
-and failures of various methods, case studies, tools, etc. As self-learning
-seems to be an important aspect of FM teaching, we appreciate experiences with
-online teaching, including experiences with teaching formal methods via MOOCs.
+This event is a one-day combination of keynote and workshop presentations, where various models of teaching are presented and explored, together with innovative approaches relevant for educators of Formal Methods.
