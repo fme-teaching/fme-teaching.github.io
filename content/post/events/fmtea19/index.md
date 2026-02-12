@@ -42,3 +42,13 @@ Past events
   - Lübeck, Germany
   - Event affiliated with [FM2023](https://fm2023.isp.uni-luebeck.de/), the 25th International Symposium on Formal Methods
   - Proceedings published as [LNCS 13962](https://link.springer.com/book/10.1007/978-3-031-27534-0)
+- [FMTea21](https://fmtea.github.io/FMTea21/): Formal Methods Teaching Workshop
+  - November 21, 2021
+  - online and in Beijing, China
+  - Event affiliated with [FM2021](https://lcs.ios.ac.cn/fm2021/), the 24th International Symposium on Formal Methods
+  - Proceedings published as [LNCS 13122](https://link.springer.com/book/10.1007/978-3-030-91550-6)
+- [FMTea19](https://fmtea.github.io/FMTea19/): Formal Methods Teaching Workshop
+  - October 7, 2019
+  - Porto, Portugal
+  - Event affiliated with [FM2019](https://formalmethods2019.inesctec.pt/), the 3rd World Congress on Formal Methods
+  - Proceedings published as [LNCS 11758](https://link.springer.com/book/10.1007/978-3-030-32441-4)
