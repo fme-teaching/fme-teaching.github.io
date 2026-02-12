@@ -11,6 +11,16 @@ lastmod: 2026-05-19
 featured: false
 draft: false
 
+title: "FMTea 2024: Formal Methods Teaching Workshop"
+subtitle: ""
+summary: "Milan, Italy September 10, 2024"
+authors: []
+tags: []
+categories: [Events]
+lastmod: 2026-02-12
+featured: false
+draft: false
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
