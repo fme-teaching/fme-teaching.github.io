@@ -21,14 +21,14 @@ title = "Formal Methods Teaching Committee"
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Courses Database"
-  description = "We maintain a database of [FM courses](#fm-courses)."
+  name = "Formal Methods Courses"
+  description = "We maintain an up-to-date collection of [Formal Methods courses](#fm-courses) taught worldwide."
 
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
   name = "Tutorials"
-  description = "We organise online [tutorials](#tutorials) about teaching formal methods."
+  description = "We organise online [tutorials](#tutorials) focused on teaching Formal Methods."
 
 
 
@@ -40,5 +40,5 @@ title = "Formal Methods Teaching Committee"
 #author = "admin"
 +++
 
-The FME Teaching Committee aims to support a worldwide improvement in
-formal methods proficiency, by teaching and self-learning.
+The FME Teaching Committee supports a worldwide improvement in
+Formal Methods learning, both for teachers and for learners.
