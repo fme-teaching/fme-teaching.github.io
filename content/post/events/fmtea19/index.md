@@ -34,5 +34,11 @@ This event is a one-day combination of keynote and workshop presentations, where
 Past events
 - [FMTea24](https://fmtea.github.io/FMTea24/): Formal Methods Teaching Workshop
   - September 10, 2024
+  - Milan, Italy
   - Event affiliated with [FM2024](https://www.fm24.polimi.it/), the 26th International Symposium on Formal Methods
-  - Proceedings published as [LNCS 14939]([LNCS 14939](https://link.springer.com/book/10.1007/978-3-031-71379-8))
+  - Proceedings published as [LNCS 14939](https://link.springer.com/book/10.1007/978-3-031-71379-8)
+- [FMTea23](https://fmtea.github.io/FMTea23/): Formal Methods Teaching Workshop
+  - March 6, 2023
+  - Lübeck, Germany
+  - Event affiliated with [FM2023](https://fm2023.isp.uni-luebeck.de/), the 25th International Symposium on Formal Methods
+  - Proceedings published as [LNCS 13962](https://link.springer.com/book/10.1007/978-3-031-27534-0)
