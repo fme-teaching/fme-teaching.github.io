@@ -1,6 +1,102 @@
 var courses = 
 [
     {
+        "course_code": "COMPSCI5123",
+        "course_institution": "University of Glasgow",
+        "course_contact": "Dr Oana Andrei",
+        "course_concepts": [
+            "Linear Temporal Logic (LTL)",
+            "Model Checking",
+            "Modelling",
+            "Temporal Logic",
+            "Kripke Structures",
+            "Discrete Time Markov Chains",
+            "Markov Decision Processes",
+            "Stochastic Games"
+        ],
+        "course_tools": [
+            "PRISM"
+        ],
+        "course_webpage": "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5123",
+        "course_year_level": "4 + MSc",
+        "": "Dr Oana Andrei, Prof Gethin Norman",
+        "course_reviewed": "2026/03/23",
+        "course_title": "Trustworthy Systems: Verification and Synthesis",
+        "course_country": "United Kingdom"
+    },
+    {
+        "course_code": "2IX20",
+        "course_institution": "Eindhoven University of Technology",
+        "": "Netherlands",
+        "course_contact": "Jeroen Keiren",
+        "course_concepts": [
+            "UML",
+            "Labelled Transition Systems",
+            "Kripke Structures",
+            "LTL",
+            "Model-Based Testing",
+            "Ioco"
+        ],
+        "course_tools": [
+            "TLA++"
+        ],
+        "course_reviewed": "2025/08/07",
+        "course_title": "Software Specification",
+        "course_country": "Netherlands",
+        "course_year_level": [
+            "Unknown"
+        ],
+        "course_webpage": "#"
+    },
+    {
+        "course_code": "COMP4000",
+        "course_institution": "Macquarie University",
+        "course_contact": "Annabelle McIver",
+        "course_concepts": [
+            "Formal Specification",
+            "Validation",
+            "Logic",
+            "Model Checking",
+            "SAT",
+            "Temporal Logic",
+            "Automata-Based Modelling",
+            "Software Verification",
+            "Program Correctness."
+        ],
+        "course_tools": [
+            "Dafny",
+            "nuXmv"
+        ],
+        "course_webpage": "https://unitguides.mq.edu.au/unit_offerings/160184/unit_guide",
+        "course_year_level": "3",
+        "course_reviewed": "2025/06/25",
+        "course_title": "Formal Methods",
+        "course_country": "Australia"
+    },
+    {
+        "course_code": "IN2100",
+        "course_institution": "University of Oslo",
+        "course_contact": "Peter \u00d6lveczky",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Data Structures",
+            "Distributed Systems",
+            "Formal Specification",
+            "Linear Temporal Logic (LTL)",
+            "Model Checking",
+            "Modelling",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "Maude"
+        ],
+        "course_webpage": "https://www.uio.no/studier/emner/matnat/ifi/IN2100/index-eng.html",
+        "course_year_level": "2",
+        "course_reviewed": "2026/03/23",
+        "course_title": "Logic for Distributed Systems",
+        "course_country": "Norway"
+    },
+    {
         "course_code": "MISS1102",
         "course_institution": "Alexandru Ioan Cuza, University of Iasi",
         "course_contact": "Andrei ARUSOAIE",
@@ -331,8 +427,10 @@ var courses =
             "TLA++",
             "Rodin"
         ],
-        "course_webpage": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_38",
+        "course_webpage": "https://studiehandboken.abo.fi/en/course/IT00CE13/17517?period=2024-2027",
         "course_year_level": "MSc",
+        "course_reviewed": "2025/06/27",
+        "": "[Here](https://link.springer.com/chapter/10.1007/978-3-030-85347-1_38) is a link to a paper describing the course.",
         "course_title": "Software Quality",
         "course_country": "Finland"
     },
@@ -352,8 +450,9 @@ var courses =
         "course_tools": [
             "Dafny"
         ],
-        "course_webpage": "https://moodle.abo.fi/course/view.php?id=11759",
+        "course_webpage": "https://studiehandboken.abo.fi/en/course/IT00CJ48/23233?period=2024-2027",
         "course_year_level": "MSc",
+        "course_reviewed": "2025/06/27",
         "course_title": "Tools for Reliable Software Construction",
         "course_country": "Finland"
     },
@@ -2411,6 +2510,7 @@ var concepts =
     "Aliasing Issues",
     "Alloy",
     "Applied Formal Methods",
+    "Automata-Based Modelling",
     "Automated Reasoning",
     "Automation",
     "Axiomatic Semantics",
@@ -2436,6 +2536,7 @@ var concepts =
     "Deductive Verification",
     "Deductive Verification Tools",
     "Denotational Semantics",
+    "Discrete Time Markov Chains",
     "Distributed Systems",
     "Dynamic Analysis",
     "Dynamic Logic",
@@ -2458,6 +2559,7 @@ var concepts =
     "Invariants",
     "Ioco",
     "JML",
+    "Kripke Structures",
     "LTL",
     "LTL Model Checking",
     "Labelled Transition Systems",
@@ -2471,6 +2573,7 @@ var concepts =
     "Logic Specifications",
     "Logics",
     "Loop Invariants",
+    "Markov Decision Processes",
     "Memory Models",
     "Modal Logic",
     "Modal Logics",
@@ -2493,6 +2596,7 @@ var concepts =
     "Process Calculus",
     "Process-Oriented (Csp) Specification",
     "Program Analysis",
+    "Program Correctness.",
     "Program Derivation",
     "Program Proof",
     "Program Verification",
@@ -2528,6 +2632,7 @@ var concepts =
     "Static Analysis",
     "Static Program Analysis",
     "Static Verification",
+    "Stochastic Games",
     "Structural Operational Semantics",
     "Symbolic Execution",
     "Symbolic Model Checking",
@@ -2546,6 +2651,7 @@ var concepts =
     "UML",
     "UML/OCL",
     "Unknown",
+    "Validation",
     "Various Notions Of Bisimilarity",
     "Verification",
     "WP Calculus",
