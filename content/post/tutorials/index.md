@@ -62,8 +62,7 @@ Here are the details of the scheduled Zoom meeting:
 --
 LIST OF 2026 TUTORIALS STARTS HERE
 -->
----
----
+
 
 ## 2026
 
@@ -71,7 +70,8 @@ LIST OF 2026 TUTORIALS STARTS HERE
 <!------------------------------------------------------------------------------------>
 - <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway: **Teaching Maude**
   <!------------------------------------------------------------------------------------>
-
+---
+---
 ## 2025
 
 - <img src="photos/GraemeSmith.png" style="width:200px;" /> November 28, 2025, *10am CET*: [Graeme Smith](https://staff.itee.uq.edu.au/smith/), [University of Queensland](https://www.uq.edu.au/), Australia: **Autograding weakest precondition proofs and Dafny specifications**
