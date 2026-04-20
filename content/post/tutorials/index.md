@@ -65,11 +65,9 @@ LIST OF 2026 TUTORIALS STARTS HERE
 
 
 ## 2026
-
----
 <!------------------------------------------------------------------------------------>
 - <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway: **Teaching Maude**
-  <!------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------>
 ---
 ---
 ## 2025
