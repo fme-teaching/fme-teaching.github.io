@@ -57,21 +57,16 @@ Here are the details of the scheduled Zoom meeting:
 <!---# List of Tutorials--->
 {{< toc >}}
 
-<!--
---
---
-LIST OF 2026 TUTORIALS STARTS HERE
--->
-
 
 ## 2026
 <!------------------------------------------------------------------------------------>
 - <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway: **Teaching Maude**
+
 <!------------------------------------------------------------------------------------>
----
----
+
 ## 2025
 
+<!------------------------------------------------------------------------------------>
 - <img src="photos/GraemeSmith.png" style="width:200px;" /> November 28, 2025, *10am CET*: [Graeme Smith](https://staff.itee.uq.edu.au/smith/), [University of Queensland](https://www.uq.edu.au/), Australia: **Autograding weakest precondition proofs and Dafny specifications**
 
 - The recording of Prof. Smith's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=bddba293-9988-4907-b1d1-b3a300ac503f) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/rnaguctg9zawp33d20nky/AA-zt-R5Y-shErtv3BtDdNc?rlkey=2xn9fjpn2s13i57azdnzzq3vj&dl=0). 
@@ -80,6 +75,18 @@ LIST OF 2026 TUTORIALS STARTS HERE
 
 Autograding has been widely used in programming courses for decades. It reduces the marking load on teaching staﬀ, providing them with more time to give higher quality feedback. There is little work, however, on autograding in formal methods courses where the emphasis is not on programming, but on writing proofs and specifications. This presentation describes a tool which employs the proof capabilities of Dafny to automatically grade students’ weakest precondition proofs and Dafny method specifications. The tool has been designed to (i) be reusable for new versions of assignments, with minimal input from teaching staff, (ii) allow fine-grained marking, in order to give students part marks for partially correct solutions, and (iii) not artificially constrain students' use of programming techniques where they need to provide code as well as specifications, allowing them to apply best programming practices.
 
+{{< /spoiler >}}
+
+- {{< spoiler text="Read more" >}}
+
+Dafny has been, for a while now, one of the most prominent verifiable programming languages taught worldwide. Only in [our database](https://fme-teaching.github.io/courses/) we have 17 courses that use it at the moment, including Prof Smith's course named **Reasoning about Programs**. Classical autograding for programming courses is typically based on writing tests and then scripts, that will be running students' code against the tests. This does not work well for the output we ask from students learning Dafny, as they need to return weakest precondition proofs and write specifications that include pre- and postconditions, termination metrics, loop invariants, and more. Writing code is still a part of the assignments, but it is not the most important part. 
+
+In this tutorial, Prof Smith describes the solution they recently developed and tested at University of Queensland in Australia. They developed an autograder that employs Dafny's own proof engines in an ingenious manner. The tutorial details their approach for the three assignments in the course. Essentially, all the ghost entities used by students for specifications are collected and then verified to be equivallent to the offcial solutions using Dafny's *calc* statement. This does not restrict the students's programming techniques and allows for partial grading of the solutions. 
+
+Graeme's course has grown over time from 73 students in 2018 to 217 in 2025 and an estimated 300 for the 2026 version to be held during spring 2026. Clearly, some form of autograding is needed, even when teaching assistants are available. The autograder provides a good checkpoint for the teachers too and could be extended to provide tutoring to students as well.
+
+{{< /spoiler >}}
+  
 ---
 
 <!------------------------------------------------------------------------------------>
