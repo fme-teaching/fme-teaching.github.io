@@ -63,11 +63,14 @@ Here are the details of the scheduled Zoom meeting:
 - <img src="photos/JanKofron.png" style="width:200px;" /> June 12, 2026, 3pm CEST: [Jan Kofroň](https://d3s.mff.cuni.cz/people/jankofron/), [Charles University](https://cuni.cz/UKEN-10.html), Czech Republic
 
 <!------------------------------------------------------------------------------------>
-
+---
 <!------------------------------------------------------------------------------------>
 - <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway
 
 <!------------------------------------------------------------------------------------>
+
+---
+---
 
 ## 2025
 
