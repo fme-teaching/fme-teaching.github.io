@@ -65,7 +65,26 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 ---
 <!------------------------------------------------------------------------------------>
-- <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway
+- <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway: **Introducing Formal Methods for/and Distributed Systems Using Maude**
+
+- {{< spoiler text="Abstract of the tutorial" >}}
+
+I have used rewriting logic and the Maude tool to introduce formal
+methods for/and distributed systems to undergraduate students in Oslo
+for 20+ years.  In this talk I first argue that Maude should be a very
+good choice for introducing formal modeling of distributed systems to
+undergraduate students: The Maude formalism is intuitive, general, and
+expressive, and students tend to like the functional-programming-style executable
+modeling in Maude. Furthermore, since it is fairly easy to model distributed 
+systems in Maude, students can quickly model and analyze central
+distributed systems, such as distributed commit protocols, mutual
+exclusion algorithms, leader election algorithms, and consensus
+algorithms, as well as transport protocols and cryptographic protocols
+in such an introductory formal methods course. I then give an overview of the 
+course and its textbook "Designing Reliable Distributed Systems,"
+before concluding by summarizing student feedback and my own
+impressions about the course. 
+{{< /spoiler >}}
 
 <!------------------------------------------------------------------------------------>
 
