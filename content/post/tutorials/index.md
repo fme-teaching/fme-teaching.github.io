@@ -104,7 +104,7 @@ impressions about the course.
 
 - {{< spoiler text="Read more" >}}
 
-
+In his tutorial, Prof. Ölveczky presents an optional second-year course called "Logic for Distributed Systems", taught at University of Oslo, Department of Informatics during the spring semester for 14 weeks. This is the first Formal Methods course offered in the BSc program of Informatics, recommending as pre-requisites only logics and programming courses. The course employs [the Maude system](https://en.wikipedia.org/wiki/Maude_system) - an implementation of [Rewriting Logic](https://dl.acm.org/doi/10.5555/647199.718706) providing a specification language together with a simulation and model checking tool for system verification. Peter explains during the tutorial how he uses Maude to introduce distributed systems protocols and their analysis. The course is based on Prof. Ölveczky's book, ["Designing Reliable Distributed Systems"](https://link.springer.com/book/10.1007/978-1-4471-6687-0). The course attracts a few tens of students every year and the feedback is very good. The course demonstrates that students understand temporal logic quite well and can model complicated distributed protocols without major obstacles. The theoretical part (presented in the first part of the course) is the only one that students seem to struggle with slightly. Maude and the associated textbook are much appreciated by students.
 
 {{< /spoiler >}}
 
