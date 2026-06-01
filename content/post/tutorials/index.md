@@ -102,6 +102,12 @@ before concluding by summarizing student feedback and my own
 impressions about the course. 
 {{< /spoiler >}}
 
+- {{< spoiler text="Read more" >}}
+
+
+
+{{< /spoiler >}}
+
 <!------------------------------------------------------------------------------------>
 
 ---
