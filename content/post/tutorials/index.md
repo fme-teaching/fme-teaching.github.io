@@ -81,6 +81,8 @@ some takeaways for the community.
 <!------------------------------------------------------------------------------------>
 - <img src="photos/PeterÖlveczky.jpeg" style="width:200px;" /> May 29, 2026, 3pm CEST: [Peter Ölveczky](https://olveczky.se/), [University of Oslo](https://www.uio.no/english/), Norway: **Introducing Formal Methods for/and Distributed Systems Using Maude**
 
+- The recording of Prof. Ölveczky's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1f74f37b-ee24-44db-b07c-b45900ead646) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/jzqttjjlye2ikixh9ro1h/AJrvEQevY7WlXwJMS9SfVsk?rlkey=ysfty7jmuew45da1ltdeuu5zq&dl=0). The slides supporting the tutorial are [here](https://www.dropbox.com/scl/fi/hkojxcfhy1zithntgm43f/teaching-fm26.pdf?rlkey=guhu8zmp5m942665xct00se6r&dl=0).
+
 - {{< spoiler text="Abstract of the tutorial" >}}
 
 I have used rewriting logic and the Maude tool to introduce formal
@@ -99,8 +101,6 @@ course and its textbook "Designing Reliable Distributed Systems,"
 before concluding by summarizing student feedback and my own
 impressions about the course. 
 {{< /spoiler >}}
-
-- The recording of Prof. Smith's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1f74f37b-ee24-44db-b07c-b45900ead646) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/jzqttjjlye2ikixh9ro1h/AJrvEQevY7WlXwJMS9SfVsk?rlkey=ysfty7jmuew45da1ltdeuu5zq&dl=0). 
 
 <!------------------------------------------------------------------------------------>
 
