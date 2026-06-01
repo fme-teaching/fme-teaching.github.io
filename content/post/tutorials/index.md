@@ -100,6 +100,8 @@ before concluding by summarizing student feedback and my own
 impressions about the course. 
 {{< /spoiler >}}
 
+- The recording of Prof. Smith's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=1f74f37b-ee24-44db-b07c-b45900ead646) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/jzqttjjlye2ikixh9ro1h/AJrvEQevY7WlXwJMS9SfVsk?rlkey=ysfty7jmuew45da1ltdeuu5zq&dl=0). 
+
 <!------------------------------------------------------------------------------------>
 
 ---
