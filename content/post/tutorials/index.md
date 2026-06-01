@@ -60,7 +60,21 @@ Here are the details of the scheduled Zoom meeting:
 
 ## 2026
 <!------------------------------------------------------------------------------------>
-- <img src="photos/JanKofron.png" style="width:200px;" /> June 12, 2026, 3pm CEST: [Jan Kofroň](https://d3s.mff.cuni.cz/people/jankofron/), [Charles University](https://cuni.cz/UKEN-10.html), Czech Republic
+- <img src="photos/JanKofron.png" style="width:200px;" /> June 12, 2026, 3pm CEST: [Jan Kofroň](https://d3s.mff.cuni.cz/people/jankofron/), [Charles University](https://cuni.cz/UKEN-10.html), Czech Republic: **Teaching Formal Methods at Charles University**
+
+- {{< spoiler text="Abstract of the tutorial" >}}
+
+In my talk, I will describe some courses related to
+verification taught as a part of the CS curriculum at Charles
+University. In particular, I will describe two of them in more detail –
+a relatively new bachelor-level course “Program Semantics” focused on
+contract-based verification using PiVC and Dafny, and a master-level
+course on model checking and related topics called “System Behaviour
+Models and Verification”, which I have been teaching for almost twenty
+years. I will also discuss the grading, students' feedback, and my
+experience with both courses. Last, but not least, I will try to extract
+some takeaways for the community. 
+{{< /spoiler >}}
 
 <!------------------------------------------------------------------------------------>
 ---
