@@ -1,6 +1,64 @@
 var courses = 
 [
     {
+        "course_code": "",
+        "course_institution": "Karlsruhe Institute of Technology",
+        "course_contact": "Mattias Ulbrich",
+        "course_concepts": [
+            "Automated Reasoning",
+            "Formal Specification",
+            "Logic",
+            "Modal Logics",
+            "Proofs",
+            "Proof Theory",
+            "SAT",
+            "SMT",
+            "Software Verification",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "JML",
+            "KeY",
+            "MiniSat",
+            "SMT-Lib",
+            "Z3"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "3",
+        "course_reviewed": "2026/06/15",
+        "course_title": "Formal Systems",
+        "course_country": "Germany"
+    },
+    {
+        "course_code": "CMPE580",
+        "course_institution": "Bo\u011fazi\u00e7i University",
+        "course_contact": "Do\u011fan Ulus",
+        "course_concepts": [
+            "Applied Formal Methods",
+            "Automated Reasoning",
+            "Formal Specification",
+            "Labelled Transition Systems",
+            "Logic",
+            "Linear Temporal Logic (LTL)",
+            "Modal Logics",
+            "Model Checking",
+            "Modelling",
+            "SAT",
+            "SMT",
+            "Temporal Logic"
+        ],
+        "course_tools": [
+            "NuSMV",
+            "Python",
+            "Z3"
+        ],
+        "course_webpage": "#",
+        "course_year_level": "MSc",
+        "course_reviewed": "2026/06/15",
+        "course_title": "Logic in Computer Science",
+        "course_country": "Turkey"
+    },
+    {
         "course_code": "COMPSCI5123",
         "course_institution": "University of Glasgow",
         "course_contact": "Dr Oana Andrei",
@@ -2766,6 +2824,7 @@ var countries =
     "Spain",
     "Sweden",
     "Switzerland",
+    "Turkey",
     "United Kingdom",
     "United States"
 ]
