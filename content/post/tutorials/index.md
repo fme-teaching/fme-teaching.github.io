@@ -62,6 +62,8 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/JanKofron.png" style="width:200px;" /> June 12, 2026, 3pm CEST: [Jan Kofroň](https://d3s.mff.cuni.cz/people/jankofron/), [Charles University](https://cuni.cz/UKEN-10.html), Czech Republic: **Teaching Formal Methods at Charles University**
 
+- The recording of Prof. Kofroň's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=230bd22f-5936-43c0-bd19-b46b0084fa82) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/u1tgc197av8ohzn0j6xly/AHlnVrm80zVgxCXKJhJ67lI?rlkey=s288cp8gpywho0ixp341f22ti&dl=0). 
+
 - {{< spoiler text="Abstract of the tutorial" >}}
 
 In my talk, I will describe some courses related to
@@ -75,6 +77,12 @@ years. I will also discuss the grading, students' feedback, and my
 experience with both courses. Last, but not least, I will try to extract
 some takeaways for the community. 
 {{< /spoiler >}}
+
+- {{< spoiler text="Read more" >}}
+
+
+{{< /spoiler >}}
+
 
 <!------------------------------------------------------------------------------------>
 ---
