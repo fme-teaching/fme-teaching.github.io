@@ -62,7 +62,7 @@ Here are the details of the scheduled Zoom meeting:
 <!------------------------------------------------------------------------------------>
 - <img src="photos/JanKofron.png" style="width:200px;" /> June 12, 2026, 3pm CEST: [Jan Kofroň](https://d3s.mff.cuni.cz/people/jankofron/), [Charles University](https://cuni.cz/UKEN-10.html), Czech Republic: **Teaching Formal Methods at Charles University**
 
-- The recording of Prof. Kofroň's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=230bd22f-5936-43c0-bd19-b46b0084fa82) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/u1tgc197av8ohzn0j6xly/AHlnVrm80zVgxCXKJhJ67lI?rlkey=s288cp8gpywho0ixp341f22ti&dl=0). 
+- The recording of Prof. Kofroň's lecture can be seen [here](https://panopto.abo.fi/Panopto/Pages/Viewer.aspx?id=230bd22f-5936-43c0-bd19-b46b0084fa82) and a few snapshots from the lecture [here](https://www.dropbox.com/scl/fo/u1tgc197av8ohzn0j6xly/AHlnVrm80zVgxCXKJhJ67lI?rlkey=s288cp8gpywho0ixp341f22ti&dl=0). The slides supporting the tutorial are [here](https://www.dropbox.com/scl/fi/uiax3g7jg5ox88k54z5fk/fmtea_mff_formal_methods.pdf?rlkey=wiwoz0hp93gcyb7szpxvv5wvi&dl=0).
 
 - {{< spoiler text="Abstract of the tutorial" >}}
 
@@ -79,7 +79,13 @@ some takeaways for the community.
 {{< /spoiler >}}
 
 - {{< spoiler text="Read more" >}}
+In his talk, Prof. Kofroň describes the Formal Methods education at Charles University, focusing on two courses he teaches, one at the BSc level and one at the MSc level. These courses belong to the Informatics programme within the School of Computer Science, which is part of the Faculty of Mathematics and Physics. Their Informatics programme combines strong mathematical foundations with practical software systems education. 
 
+[Program Semantics](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NSWI183&dlpar=YToxOntzOjk6InNvdWJfbWFuYSI7YTo0OntzOjk6Im9wZW5fZGlycyI7YToyOntpOjE1MTA3O2I6MTtpOjY2NjM7YjoxO31zOjk6InJvb3RkaXJpZCI7czo1OiIxNTEwNyI7czoxMzoic2VsZWN0ZWRkaXJpZCI7czo1OiIxNTEwNyI7czo3OiJ6YWxvemthIjtzOjc6InNvdWJvcnkiO319) is the course taught at the BSc level. It focuses on the semantics of imperative languages, on specifications and on proofs of program properties. Two tools are employed for supporting the reasoning: PiVC and Dafny. PiVC is an older verification tool built for educational purposes and focuses on a simple imperative programming language called Pi. It was introduced in The [Calculus of Computation book](https://link.springer.com/book/10.1007/978-3-540-74113-8), by Aaron Bradley and Zohar Manna, in 2007. The interesting aspect of teaching this course with this pair of tools is that, while Dafny is a real, strong programming language supported by a verification engine, many fundamental verification activities happen automatically in the background, for instance the generation of the verification conditions, the application of automated tactics, etc. PiVC exposes these “hidden” parts to students, namely what conditions must be proved, how do formulas propagate through the program, where do invariants appear from, why is a proof successful or not. It promotes the philosophy that verification is a process we understand and control, while tools simply automate the steps.
+
+[System Behaviour Models and Verification](https://d3s.mff.cuni.cz/teaching/nswi101/) is the MSc level course. It focuses on model checking, taught through three paradigms and tool cultures: explicit-state exploration with Spin, symbolic model checking with NuXMV, and timed automata and real time constraints with UPPAAL. Through all these 3 paradigms, students practice the difficult translations from an informal system story, to a formal model, to formulate temporal properties and to interpreting and handling correctly the counterexamples. Verification failures must also be investigated for their error source, whether that is the model, the specification of the properties or the verifier itself. State explosion is a recurring theme in all three cultures.
+
+A shared teaching lesson in both courses is that formalisation is a design activity, not only a verification activity. Among typical problems encountered by students is the choice of suitable data structures. More challenges are to teach Formal Methods intuition, as this needs time and practice to develop; to keep assignments realistic and solvable in reasonable time; and to explain why full automation fails, but verification activities are still truly valuable.
 
 {{< /spoiler >}}
 
