@@ -34,6 +34,11 @@
   weight = 30
 
 [[main]]
+  name = "Formal Methods Schools"
+  url = "#schools"
+  weight = 32
+
+[[main]]
   name = "Inspiration"
   url = "#inspiration"
   weight = 35
