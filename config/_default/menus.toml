@@ -34,7 +34,7 @@
   weight = 30
 
 [[main]]
-  name = "Formal Methods Schools"
+  name = "Schools"
   url = "#schools"
   weight = 32
 
