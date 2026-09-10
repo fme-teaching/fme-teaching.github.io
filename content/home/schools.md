@@ -8,7 +8,7 @@ title: "Formal Methods Schools"
 subtitle: ""
 ---
 
-The following schools may be of interest to students and researchers in formal methods, programming languages, verification, and related areas.
+This page collects summer and seasonal schools relevant to formal methods, programming languages, verification, logic, software engineering, and related areas.
 
 - [VeTSS Summer School](https://vetss.org.uk/summer-school/)
 - [Scottish Programming Languages and Verification Summer School](https://spli.scot/splv/)
