@@ -27,3 +27,4 @@ This page collects summer and seasonal schools relevant to formal methods, progr
 - [Satisfiability, Satisfiability Modulo Theories and Automated Reasoning Summer School](https://sat-smt-ar-school.gitlab.io/www/2026/)
 - [School on Verification Technology, Systems & Applications (VTSA)](https://conferences.mpi-inf.mpg.de/rg1/vtsa26/Summer)
 - [TAROT Summer School](https://tarot26.github.io/)
+- MOVEP – International School on Modeling and Verification of Parallel Processes](https://merz.gitlabpages.inria.fr/2026-movep/)
